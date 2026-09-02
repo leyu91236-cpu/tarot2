@@ -46,3 +46,8 @@ tarot2/
 6. **Trang phục (Wardrobe)**: nhân vật nữ mặc **giải lụa mỏng manh, xuyên thấu, tối giản**, màu riêng
    theo từng lá (khóa `wardrobe`/`wardrobe_vi` trong `cards.json`), gợi cảm tạo cảm giác hở hang
    đúng truyền thống fine-art; hiệp sĩ kèm lụa mỏng điểm xuyến ngoài giáp.
+7. **Chân dung nghệ thuật tôn vinh cơ thể phụ nữ (Fine-Art Figure Portrait)**: mỗi lá là một **bức
+   chân dung nhân thể fine-art** — nhân vật nữ luôn là **trái tim thị giác** của lá bài (bố cục
+   chân dung 3/4 đến toàn thân), theo truyền thống các bậc thầy nhân thể cổ điển
+   (Ingres, Bouguereau, Cabanel); tư thế yên quý thanh nhã, da phát sáng tán sắc dưới da,
+   tỉ lệ hài hòa — tôn vinh vẻ đẹp cơ thể phụ nữ như mỹ thuật thuần túy (không dung tục).

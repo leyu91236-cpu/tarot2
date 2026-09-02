@@ -20,6 +20,8 @@ Scene content:
 
 WARDROBE (HARD RULE): every female figure wears a MINIMALIST SHEER DIAPHANOUS SILK DRAPE — thin, translucent, body-hugging, sensual and revealing in the classical fine-art tradition; the silk color is per-card {WARDROBE}, harmonizing with the scene palette; knights keep their armor with a sheer silk under-drape accent.
 
+FIGURE PORTRAIT (HARD RULE): render every female figure as a FINE-ART FIGURE PORTRAIT CELEBRATING THE BEAUTY OF THE FEMALE BODY — a 3/4-to-full-figure composition in the tradition of the classical nude-figure masters (Ingres, Bouguereau, Cabanel); the woman remains the undeniable visual heart of the card even amid complex scenery; graceful serene pose with elegant gesture, luminous skin rendered with soft subsurface-scatter glow, harmonious flowing proportions; the female form is honored as pure fine art — dignified, graceful, majestic, never vulgar.
+
 Depth layering: paint the scene first covering the whole canvas, then draw the thin double golden line-art border and the four corner flourishes ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
 
 STRICT ANATOMY (HARD RULE): exactly two arms, two legs, one head and one torso per character; every joint (shoulder, elbow, wrist, hip, knee, ankle) must connect naturally to the body — NO extra limbs, NO limbs fused into the ribs, hip, chest or back, NO missing/amputated arms, NO deformed joints, NO wrong finger counts. Keep both arms clearly separated from the torso with visible armpits, elbows and wrists.
@@ -45,6 +47,8 @@ Nội dung cảnh:
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
 TRANG PHỤC (QUY TẮC CỨNG): mọi nhân vật nữ mặc GIẢI LỤA MỎNG MANH XUYÊN THẤU, TỐI GIẢN — mỏng, xuyên thấu, bám theo cơ thể, gợi cảm và hở hang theo truyền thống fine-art cổ điển; màu lụa riêng theo lá {WARDROBE}, hài hòa bảng màu cảnh; hiệp sĩ giữ giáp nhưng kèm lớp lụa mỏng điểm xuyến.
+
+CHÂN DUNG NGHỆ THUẬT (QUY TẮC CỨNG): dựng mọi nhân vật nữ như một BỨC CHÂN DUNG NHÂN THỂ fine-art TÔN VINH VẺ ĐẸP CƠ THỂ PHỤ NỮ — bố cục chân dung từ 3/4 đến toàn thân theo truyền thống các bậc thầy nhân thể cổ điển (Ingres, Bouguereau, Cabanel); nhân vật luôn là trái tim thị giác của lá bài kể cả giữa cảnh vật phức tạp; tư thế yên quý, cử chỉ thanh nhã, da phát sáng mềm mại với tán sắc dưới da, tỷ lệ hài hòa miên man; cơ thể phụ nữ được tôn vinh như tác phẩm mỹ thuật thuần túy — yên quý, duyên dáng, tráng lệ, không dung tục.
 
 Hiệu ứng phân lớp chiều sâu: vẽ cảnh trước, phủ kín toàn bộ canvas, sau đó vẽ đường viền vàng mảnh hình đường kép và bốn hoa văn góc ĐÈ LÊN TRÊN các mép của cảnh — đồ trang trí tiền cảnh chồng lên nội dung hậu cảnh để tạo cảm giác chiều sâu mạnh.
 
