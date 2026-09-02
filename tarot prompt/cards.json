@@ -3,10 +3,11 @@
     "deck": "Sensual Tarot — 78 cards",
     "version": "v2 (count-locked, sensual edition)",
     "refs": [
-      "cards/card-blank.jpg (blank template, position 1)",
+      "cards/card-blank.png (blank template, position 1)",
       "cards/17-the-star.png (style anchor — inner image & outer border standard, position 2)"
     ],
-    "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint."
+    "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint.",
+    "bilingual_note": "Song ngữ: các khóa có hậu tố _vi là bản TIẾNG VIỆT để đọc và chỉnh sửa; các khóa gốc (không hậu tố) là bản TIẾNG ANH dùng làm prompt sinh ảnh. Khóa title (EN) là chữ được IN LÊN lá bài — không đổi; title_vi chỉ là bản ghi chú tiếng Việt tham khảo."
   },
   "cards": [
     {
@@ -20,7 +21,13 @@
       "scene": "a carefree 19-year-old woman wanderer draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun",
       "hair": "loose wind-tossed honey-blonde waves down to her shoulder blades, sunlit and carefree",
       "age": "19 years old",
-      "build": "petite and lithe, slender waist, youthful energy and light, springy step"
+      "build": "petite and lithe, slender waist, youthful energy and light, springy step",
+      "title_vi": "KẺ NGỐC",
+      "emblem_vi": "một bông hồng trắng",
+      "scene_vi": "một cô gái lang thang 19 tuổi vô tư, chỉ khoác lên người một lớp lụa mỏng trong suốt mỏng đến mức bám sát và lộ ra thân thể trần bên dưới, lớp lụa tuột khỏi một bên vai và bay phần phật phía sau, một bông hồng trắng giơ lên ở một tay và đôi mắt cúi xuống ngắm nhìn nó, bước nhẹ về phía mép vực, một chú chó nhỏ màu trắng nhảy cẫng bên gót chân nàng, những dãy núi xa xa dưới nắng mai vàng óng",
+      "hair_vi": "mái tóc vàng mật ong gợn sóng buông thõng tới bả vai, bay trong gió, rực nắng và vô tư",
+      "age_vi": "19 tuổi",
+      "build_vi": "nhỏ nhắn và mảnh mai, eo thon, sức sống trẻ trung cùng bước chân nhẹ nhàng, đàn hồi"
     },
     {
       "n": "I",
@@ -32,12 +39,20 @@
       "count": {
         "n": 4,
         "obj": "suit objects on the altar",
-        "layout": "exactly four objects, one of each: one cup, one sword, one wand, one coin — all four resting on the altar table, all four wholly visible, no duplicates, nothing else on the table"
+        "layout": "exactly four objects, one of each: one cup, one sword, one wand, one coin — all four resting on the altar table, all four wholly visible, no duplicates, nothing else on the table",
+        "obj_vi": "các vật phẩm bốn bộ trên bàn thờ",
+        "layout_vi": "đúng bốn vật, mỗi loại một: một cốc, một kiếm, một gậy, một đồng xu — cả bốn đặt trên bàn thờ, cả bốn đều thấy trọn vẹn, không trùng lặp, không có gì khác trên bàn"
       },
       "scene": "a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her",
       "hair": "jet-black straight hair falling past her waist like a sleek silk curtain, center-parted",
       "age": "22 years old",
-      "build": "statuesque and commanding, elegant elongated proportions with poised posture"
+      "build": "statuesque and commanding, elegant elongated proportions with poised posture",
+      "title_vi": "PHÁP SƯ",
+      "emblem_vi": "biểu tượng vô cực",
+      "scene_vi": "một nữ pháp sư trẻ khỏa thân, thân trên trần với một dải lụa quấn thấp qua hông, một tay giơ gậy lên trời còn tay kia chỉ xuống đất, chiếc bàn thờ trước mặt nàng bày một cốc, một thanh kiếm, một cây gậy và một đồng xu ngôi sao, phía sau là khu vườn hồng đen",
+      "hair_vi": "mái tóc đen tuyền thẳng mượt buông dài quá eo như tấm rèm lụa bóng, rẽ ngôi giữa",
+      "age_vi": "22 tuổi",
+      "build_vi": "dáng đồ sộ đầy uy quyền, tỉ lệ thon dài thanh nhã với tư thế đĩnh đạc"
     },
     {
       "n": "II",
@@ -50,7 +65,13 @@
       "scene": "a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet",
       "hair": "deep auburn hair with soft natural waves, cascading beneath a sheer gossamer veil",
       "age": "23 years old",
-      "build": "serene, slender and graceful, long neck and soft classical feminine curves"
+      "build": "serene, slender and graceful, long neck and soft classical feminine curves",
+      "title_vi": "NỮ TẾ CAO CẤP",
+      "emblem_vi": "một quả lựu",
+      "scene_vi": "một nữ tế khỏa thân thanh thản, bờ vai trần cùng đường cong mềm của bầu ngực chỉ được che bởi một lớp voan mỏng lành, ngồi giữa hai trụ đá, một cuộn sách huyền bí đặt trên đùi, một trăng lưỡi liềm bạc dưới chân",
+      "hair_vi": "mái tóc nâu ánh đỏ trầm với những lọn sóng tự nhiên mềm mại, buông xuống bên dưới lớp khăn voan mỏng",
+      "age_vi": "23 tuổi",
+      "build_vi": "thanh thản, mảnh mai và duyên dáng, cổ cao với những đường cong nữ tính cổ điển mềm mại"
     },
     {
       "n": "III",
@@ -63,7 +84,13 @@
       "scene": "a slender nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her",
       "build": "voluptuous and curvaceous, full feminine bust and hips, warm radiant goddess presence",
       "hair": "thick ripe-wheat golden blonde hair, spilling over both shoulders in soft ropey curls garlanded with flowers",
-      "age": "24 years old"
+      "age": "24 years old",
+      "title_vi": "NỮ HOÀNG",
+      "emblem_vi": "vương miện mười hai ngôi sao",
+      "scene_vi": "một nữ hoàng khỏa thân thon thả, hở một bên ngực, tóc xõa đội vương miện hoa, nghiêng mình trên ngai nhung giữa những bông lúa chín vàng và trái cây, chiếc khiên hình trái tim của sao Kim dựa bên cạnh",
+      "build_vi": "đầy đặn và quyến rũ, vòng một và vòng ba nữ tính tròn trịa, hiện diện rạng rỡ ấm áp của một nữ thần",
+      "hair_vi": "mái tóc vàng óng màu lúa chín dày, đổ xuống cả hai vai thành những lọn xoăn mềm cài những bông hoa",
+      "age_vi": "24 tuổi"
     },
     {
       "n": "IV",
@@ -76,7 +103,13 @@
       "scene": "a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a diaphanous transparent silk veil so fine it clings to her soft curves and glows with warm light against her skin, the gossamer fabric slipping from one shoulder, holding an ankh scepter loosely in one hand, barren rugged mountains behind her",
       "age": "25 years old",
       "hair": "sleek dark bronze-brown hair in soft loose waves, crowned with a golden ram-horn circlet",
-      "build": "graceful, soft and refined female sovereign with gently sculpted curves and a serene, tender composure"
+      "build": "graceful, soft and refined female sovereign with gently sculpted curves and a serene, tender composure",
+      "title_vi": "HOÀNG ĐẾ",
+      "emblem_vi": "đầu cừu đực",
+      "scene_vi": "một nữ hoàng đế 25 tuổi thanh thản nghiêng mình duyên dáng trên ngai đá chạm đầu cừu đực, chỉ khoác lớp lụa mỏng trong suốt mỏng đến mức bám theo những đường cong mềm và rực ánh ấm trên làn da, tấm vải mỏng như tơ tuột khỏi một bên vai, một tay buông lỏng cầm quyền trượng ankh, phía sau là những ngọn núi trọc gồ ghề",
+      "age_vi": "25 tuổi",
+      "hair_vi": "mái tóc nâu đồng sẫm bóng mượt gợn sóng mềm, đội vòng miện vàng hình sừng cừu",
+      "build_vi": "duyên dáng, mềm mại và thanh nhã — một nữ quân chủ với những đường cong được tạc nhẹ nhàng và thần thái điềm tĩnh, dịu dàng"
     },
     {
       "n": "V",
@@ -89,7 +122,13 @@
       "scene": "a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two kneeling female acolytes before her, sacred temple pillars behind",
       "age": "24 years old",
       "hair": "thick espresso-brown waves falling loose over her bare shoulders and back",
-      "build": "tall, noble and serene female high priestess with graceful dignified poise"
+      "build": "tall, noble and serene female high priestess with graceful dignified poise",
+      "title_vi": "GIÁO HOÀNG",
+      "emblem_vi": "hai chiếc chìa khóa vàng bắt chéo",
+      "scene_vi": "một nữ thượng tế huyền bí 24 tuổi thanh thản chỉ khoác lớp lụa đỏ mỏng trong suốt mỏng đến mức bám theo đường cong và rực ánh nến ấm trên da, lớp vải mỏng như tơ tuột khỏi một bên vai, giơ một tay ban phép lành, hai nữ thị vệ đang quỳ trước mặt bà, sau lưng là những cột trụ đền thánh",
+      "age_vi": "24 tuổi",
+      "hair_vi": "mái tóc nâu espresso gợn sóng dày buông xõa trên vai và lưng trần",
+      "build_vi": "cao, quý phái và thanh thản — nữ thượng tế với dáng đứng đoan trang đầy uy nghi"
     },
     {
       "n": "VI",
@@ -102,7 +141,13 @@
       "scene": "a nude man and a nude woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him",
       "hair": "warm chestnut-brown hair gathered in a loose romantic knot with soft wisps framing her cheeks",
       "age": "21 years old",
-      "build": "slender hourglass silhouette, supple waist, graceful gentle curves beside her partner"
+      "build": "slender hourglass silhouette, supple waist, graceful gentle curves beside her partner",
+      "title_vi": "ĐÔI TÌNH NHÂN",
+      "emblem_vi": "quả táo quấn rắn",
+      "scene_vi": "một người đàn ông và một người phụ nữ khỏa thân nắm tay nhau đứng dưới một thiên thần lớn có cánh, cơ thể nàng xoay ba phần tư về phía người xem với dải lụa trượt xuống hông và bàn tay chàng đặt ở thắt lưng nàng, sau lưng nàng là cây trí thức có rắn quấn, sau lưng chàng là cây ngọn lửa",
+      "hair_vi": "mái tóc nâu hạt dẻ ấm buộc lỏng thành búi lãng mạn với những lọn tơ mềm ôm gò má",
+      "age_vi": "21 tuổi",
+      "build_vi": "hình bóng đồng hồ cát mảnh mai, eo mềm uyển chuyển, đường cong dịu dàng bên cạnh người yêu"
     },
     {
       "n": "VII",
@@ -115,7 +160,13 @@
       "scene": "a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her",
       "hair": "dark sable-brown hair tightly plaited in a single thick warrior braid over one shoulder",
       "age": "22 years old",
-      "build": "athletic and toned, sculpted shoulders and taut waist, resolute and heroic stance"
+      "build": "athletic and toned, sculpted shoulders and taut waist, resolute and heroic stance",
+      "title_vi": "CHIẾN XA",
+      "emblem_vi": "đĩa mặt trời có cánh",
+      "scene_vi": "một nữ phu xe vai trần anh hùng quấn lụa trắng mỏng nhẹ không giáp, đứng thẳng trong cỗ xe đá giữa hai tượng nhân sư dưới tán mái đầy sao, sau lưng là một thành trì",
+      "hair_vi": "mái tóc nâu chồn sẫm bện chặt thành một lọn bím dày đổ qua một bên vai",
+      "age_vi": "22 tuổi",
+      "build_vi": "săn chắc và gọn gàng theo kiểu vận động viên, vai tạc và eo thắt, tư thế kiên quyết anh hùng"
     },
     {
       "n": "VIII",
@@ -128,7 +179,13 @@
       "scene": "a nude woman garlanded with roses, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head",
       "hair": "burnished copper-red long wavy hair flowing down like a lion's mane",
       "age": "23 years old",
-      "build": "lithe yet strong, defined muscular tone along the back, soft graceful curves"
+      "build": "lithe yet strong, defined muscular tone along the back, soft graceful curves",
+      "title_vi": "SỨC MẠNH",
+      "emblem_vi": "bông hồng đỏ",
+      "scene_vi": "một người phụ nữ khỏa thân đeo vòng hoa hồng, một gối nhấc lên, nghiêng sát vào để bình tĩnh khép hai hàm của một con sư tử vàng lớn, lưng trần cong và hông nàng rực nắng chiều thấp, biểu tượng vô cực phát sáng trên đầu nàng",
+      "hair_vi": "mái tóc dài gợn sóng đỏ đồng bóng đổ xuống như bờm sư tử",
+      "age_vi": "23 tuổi",
+      "build_vi": "mảnh dẻo mà khỏe, đường cơ nổi dọc sống lưng, đường cong mềm mại duyên dáng"
     },
     {
       "n": "IX",
@@ -141,7 +198,13 @@
       "scene": "a hermit woman standing on a bare mountain peak under a deep star-filled night sky, holding up a lit lantern with warm golden light pouring out of it, draped only in a loose sheer white silk gauze that slips from her bare shoulders and pools low around her hips, her bare back and the curve of one breast veiled and revealed by the golden lantern light",
       "hair": "ethereal silver-ash long hair falling loose in soft waves",
       "age": "23 years old",
-      "build": "slender, mysterious and delicate silhouette, quiet meditative poise"
+      "build": "slender, mysterious and delicate silhouette, quiet meditative poise",
+      "title_vi": "ẨN SĨ",
+      "emblem_vi": "chiếc đèn lồng phát sáng",
+      "scene_vi": "một cô ẩn sĩ đứng trên đỉnh núi trọc dưới bầu trời đêm thăm thẳm đầy sao, giơ cao chiếc đèn lồng đang cháy tỏa ánh vàng ấm rực ra ngoài, chỉ khoác lớp voan lụa trắng mỏng lỏng lẻo tuột khỏi bờ vai trần và rủ thấp quanh hông, lưng trần cùng đường cong một bên ngực ẩn hiện trong ánh đèn vàng",
+      "hair_vi": "mái tóc dài ánh bạc-tro huyền ảo buông xõa thành những sóng mềm",
+      "age_vi": "23 tuổi",
+      "build_vi": "bóng dáng mảnh mai, huyền bí và thanh tao, dáng đứng thiền định tĩnh lặng"
     },
     {
       "n": "X",
@@ -153,12 +216,20 @@
       "count": {
         "n": 1,
         "obj": "sword",
-        "layout": "exactly one sword, held upright by the sphinx on top of the wheel; no other blade anywhere on the card"
+        "layout": "exactly one sword, held upright by the sphinx on top of the wheel; no other blade anywhere on the card",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng một thanh kiếm, do nhân sư đứng tại đỉnh bánh xe cầm dựng thẳng; không có lưỡi kiếm nào khác trên lá bài"
       },
       "scene": "a great golden wheel of fortune inscribed with mystic letters, a serene winged female sphinx draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a jackal deity on the other, four graceful winged female watchers in flowing transparent silk reclining softly at the four corners",
       "age": "22 years old",
       "hair": "golden-amber hair in soft loose waves, crowned with delicate celestial laurels",
-      "build": "graceful, soft and serene winged female guardian with gently sculpted curves and a tender, dreamy composure"
+      "build": "graceful, soft and serene winged female guardian with gently sculpted curves and a tender, dreamy composure",
+      "title_vi": "BÁNH XE VẬN MỆNH",
+      "emblem_vi": "bánh xe vàng có nan hoa",
+      "scene_vi": "một bánh xe vận mệnh vàng lớn khắc những chữ huyền bí, một nữ nhân sư có cánh thanh thản chỉ khoác lớp lụa mỏng trong suốt bám theo đường cong mềm và rực ánh ấm, ngồi dịu dàng trên đỉnh bánh xe, một tay buông nhẹ cầm một thanh kiếm dựng thẳng, một con rắn vàng vươn lên một bên và một vị thần đầu chó rừng ở bên kia, bốn nữ thần quan sát có cánh thanh nhã quấn lụa mỏng bay ngả nghiêng ở bốn góc",
+      "age_vi": "22 tuổi",
+      "hair_vi": "mái tóc vàng-hổ phách gợn sóng mềm, đội vòng nguyệt quế thiên thể thanh nhã",
+      "build_vi": "nữ thần hộ vệ có cánh duyên dáng, mềm mại và thanh thản với những đường cong tạc nhẹ và thần thái dịu dàng, mơ mộng"
     },
     {
       "n": "XI",
@@ -170,12 +241,20 @@
       "count": {
         "n": 1,
         "obj": "sword",
-        "layout": "exactly one sword, held upright in her left hand; no other blade on the card"
+        "layout": "exactly one sword, held upright in her left hand; no other blade on the card",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng một thanh kiếm, cầm dựng thẳng ở tay trái của bà; không có lưỡi kiếm nào khác trên lá bài"
       },
       "scene": "a statuesque bare-shouldered queen, a length of sheer silk sliding fully off one shoulder to bare one breast and one hip, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars",
       "hair": "sleek raven-black hair drawn back sharply into a high polished half-ponytail",
       "age": "24 years old",
-      "build": "statuesque and regal, prominent collarbones, straight spine and austere balanced posture"
+      "build": "statuesque and regal, prominent collarbones, straight spine and austere balanced posture",
+      "title_vi": "CÔNG LÝ",
+      "emblem_vi": "cán cân vàng thăng bằng",
+      "scene_vi": "một nữ hoàng vai trần dáng đồ sộ, dải lụa mỏng trượt hẳn khỏi một bên vai phơi một bên ngực và một bên hông, một tay cầm kiếm dựng thẳng và tay kia cầm cán cân thăng bằng, ngồi trên ngai đá giữa các cột trụ",
+      "hair_vi": "mái tóc đen quạ bóng mượt vuốt ngược sắc nét thành nửa đuôi ngựa búi cao bóng loáng",
+      "age_vi": "24 tuổi",
+      "build_vi": "đồ sộ và uy nghi, xương đòn nổi rõ, lưng thẳng và tư thế nghiêm cân đối"
     },
     {
       "n": "XII",
@@ -188,7 +267,13 @@
       "scene": "a serene nude 21-year-old young woman suspended upside-down by one ankle from a living tree shaped like a cross, one leg bent gracefully, a radiant halo of golden light glowing around her head",
       "age": "21 years old",
       "hair": "golden-brown tousled locks cascading downward with gravity, glowing in ethereal light",
-      "build": "lean, lithe and supple young woman dancer physique, serene and peaceful poise"
+      "build": "lean, lithe and supple young woman dancer physique, serene and peaceful poise",
+      "title_vi": "NGƯỜI BỊ TREO",
+      "emblem_vi": "cành cây sống treo ngược",
+      "scene_vi": "một cô gái 21 tuổi khỏa thân thanh thản bị treo lộn ngược bởi một mắt cá vào một cây sống hình chữ thập, một chân co duyên dáng, quầng hào quang ánh vàng rực rỡ phát sáng quanh đầu nàng",
+      "age_vi": "21 tuổi",
+      "hair_vi": "mái tóc nâu vàng xõa rối đổ ngược theo trọng lực, rực sáng trong thứ ánh sáng kỳ ảo",
+      "build_vi": "thể chất vũ công trẻ gọn, mảnh dẻo và uyển chuyển, thần thái thanh thản an bình"
     },
     {
       "n": "XIII",
@@ -201,7 +286,13 @@
       "scene": "a striking 22-year-old pale female figure draped in sheer black silk that veils and reveals her bare form, riding a calm black charger, holding a black banner adorned with a five-petaled white rose, a golden sunrise glowing between twin distant towers",
       "age": "22 years old",
       "hair": "long bone-platinum hair flowing loose and free",
-      "build": "tall, slender and formidable female silhouette wrapped in sheer black silk"
+      "build": "tall, slender and formidable female silhouette wrapped in sheer black silk",
+      "title_vi": "TỬ THẦN",
+      "emblem_vi": "bông hồng trắng năm cánh",
+      "scene_vi": "một bóng dáng nữ tái nhợt 22 tuổi ấn tượng khoác lụa đen mỏng vừa che vừa phơi thân thể trần, cưỡi chiến mã đen điềm tĩnh, cầm lá cờ đen trang trí bông hồng trắng năm cánh, bình minh vàng rực sáng giữa hai tòa tháp đôi xa xa",
+      "age_vi": "22 tuổi",
+      "hair_vi": "mái tóc dài màu bạch kim nhạt buông xõa tự do",
+      "build_vi": "bóng dáng nữ cao, mảnh và đáng nể quấn trong lụa đen mỏng"
     },
     {
       "n": "XIV",
@@ -213,12 +304,20 @@
       "count": {
         "n": 2,
         "obj": "chalices",
-        "layout": "exactly two chalices, one in each hand, both bowls fully visible and un-occluded"
+        "layout": "exactly two chalices, one in each hand, both bowls fully visible and un-occluded",
+        "obj_vi": "chén",
+        "layout_vi": "đúng hai chiếc chén, mỗi tay một chiếc, cả hai miệng chén đều thấy trọn và không bị che khuất"
       },
       "scene": "a graceful winged figure with long loosened hair, draped in a diaphanous transparent silk veil, seated gracefully on a mossy stone by the pool with one leg trailing into the water, pouring from a golden chalice tilted high in her raised hand while her other hand holds a second golden chalice positioned directly beneath the upper chalice's lip so that its open mouth catches the falling water, a single smooth unbroken stream of water pouring straight down from the tilted upper chalice and landing inside the lower chalice's bowl, irises blooming around the pool, warm sepia and ochre light",
       "hair": "pale fine ash-blonde hair floating weightlessly in the air",
       "age": "22 years old",
-      "build": "ethereal and willowy, long slender limbs, arched supple spine, graceful angelic poise"
+      "build": "ethereal and willowy, long slender limbs, arched supple spine, graceful angelic poise",
+      "title_vi": "ĐIỀU ĐỘ",
+      "emblem_vi": "tam giác nằm trong hình vuông",
+      "scene_vi": "một bóng hình có cánh duyên dáng tóc dài buông xõa, khoác lớp lụa mỏng trong suốt, ngồi thanh nhã trên tảng đá phủ rêu bên hồ với một chân thả xuống mặt nước, rót từ chiếc chén vàng nghiêng cao trên tay giơ lên trong khi tay kia cầm chiếc chén vàng thứ hai đặt ngay bên dưới miệng chén trên để miệng chén hứng dòng nước rơi, một dòng nước thẳng liền mạch đổ từ chén trên nghiêng xuống và chảy trọn vào trong miệng chén dưới, hoa diên vĩ nở quanh hồ, ánh sáng nâu đỏ và vàng đất ấm áp",
+      "hair_vi": "mái tóc vàng-tro nhạt mảnh mịn lơ lửng không trọng lực trong không khí",
+      "age_vi": "22 tuổi",
+      "build_vi": "thanh thoát và nhẹ như tổ tiên, chân tay dài thon, lưng cong mềm uyển chuyển, dáng đứng thiên thần duyên dáng"
     },
     {
       "n": "XV",
@@ -231,7 +330,13 @@
       "scene": "a horned winged female arch-devil draped in sheer black silk upon a dark pedestal; beside her two alluring nude young women arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern",
       "hair": "midnight-black wavy hair with deep wine-red undertones, wild and untamed",
       "age": "21 years old",
-      "build": "sultry and curvaceous, arched back and soft full hips, magnetic alluring presence"
+      "build": "sultry and curvaceous, arched back and soft full hips, magnetic alluring presence",
+      "title_vi": "ÁC QUỶ",
+      "emblem_vi": "ngôi sao năm cánh lộn ngược",
+      "scene_vi": "một nữ đại ác quỷ có sừng và cánh khoác lụa đen mỏng ngồi trên bệ đá tối; bên cạnh bà, hai cô gái trẻ khỏa thân quyến rũ cong mình trong những sợi xích vàng, thân thể họ rực sáng trong bóng nến bên trong hang động hắc diện",
+      "hair_vi": "mái tóc đen nửa đêm gợn sóng ngấm sắc đỏ rượu vang, hoang dã và bất trị",
+      "age_vi": "21 tuổi",
+      "build_vi": "gợi cảm và đầy đặn, lưng cong và hông tròn mềm, hiện diện mê hồn đầy từ tính"
     },
     {
       "n": "XVI",
@@ -244,7 +349,13 @@
       "scene": "a tall stone tower struck by a jagged bolt of lightning, its golden crown toppling in flames, two graceful young women falling through the storm and ash, their bodies illuminated by the brilliant flash",
       "hair": "storm-dark chestnut hair blown dynamically backward by lightning winds",
       "age": "20 years old",
-      "build": "taut and athletic, dynamic acrobatic physique arched mid-fall"
+      "build": "taut and athletic, dynamic acrobatic physique arched mid-fall",
+      "title_vi": "TÒA THÁP",
+      "emblem_vi": "tia sét khúc khuỷu",
+      "scene_vi": "một tòa tháp đá cao bị một tia sét khúc khuỷu đánh trúng, vương miện vàng trên đỉnh đổ nhào trong ngọn lửa, hai cô gái trẻ thanh nhã đang rơi xuyên qua giông bão và tro bụi, thân thể họ được thắp sáng bởi ánh chớp chói lóa",
+      "hair_vi": "mái tóc nâu hạt dẻ màu bão tố bị gió sấm thổi bay mạnh về phía sau",
+      "age_vi": "20 tuổi",
+      "build_vi": "gọn và thể thao, thể chất nhào lộn linh hoạt cong mình giữa cú rơi"
     },
     {
       "n": "XVII",
@@ -256,12 +367,20 @@
       "count": {
         "n": 2,
         "obj": "jugs",
-        "layout": "exactly two jugs, one in each hand, both fully visible"
+        "layout": "exactly two jugs, one in each hand, both fully visible",
+        "obj_vi": "vò",
+        "layout_vi": "đúng hai cái vò, mỗi tay một cái, cả hai đều thấy trọn vẹn"
       },
       "scene": "a nude woman standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above",
       "hair": "very long pale shimmering gold hair, wet and silky, cascading down past one bare shoulder",
       "age": "20 years old",
-      "build": "slender and lithe, narrow waist, long graceful legs, luminous maiden proportions"
+      "build": "slender and lithe, narrow waist, long graceful legs, luminous maiden proportions",
+      "title_vi": "NGÔI SAO",
+      "emblem_vi": "ngôi sao tám cánh",
+      "scene_vi": "một người phụ nữ khỏa thân đứng ngang eo trong hồ nước trong vào ban đêm, cơ thể cong ngửa và xoay ba phần tư về phía người xem, tóc ướt đổ dọc sống lưng, cả hai tay giơ lên đổ nước từ hai cái vò, một gối nhấc lên, một ngôi sao tám cánh lớn và bảy ngôi sao nhỏ hơn ở phía trên",
+      "hair_vi": "mái tóc vàng nhạt lấp lánh rất dài, ướt và mượt như lụa, đổ dài qua một bên vai trần",
+      "age_vi": "20 tuổi",
+      "build_vi": "thon và mảnh mai, eo nhỏ, đôi chân dài duyên dáng, tỉ lệ trinh nữ rực rỡ ánh sáng"
     },
     {
       "n": "XVIII",
@@ -275,7 +394,14 @@
       "build": "slender, mysterious water-nymph silhouette, delicate waist and soft curving hips",
       "allure": "Raise the allure further: an unmistakably inviting presence. She holds a slow sidelong glance on the viewer, lips softly parted, the body turned to display the long line from shoulder to waist to hip, silk slipping as though about to fall, one hand lingering along her own throat, collarbone or thigh. Warm, sensual and inviting — never crude, never posed like a fashion photograph.",
       "hair": "ink-blue-black hair with cool silvery highlights, cascading like water to her hips",
-      "age": "21 years old"
+      "age": "21 years old",
+      "title_vi": "MẶT TRĂNG",
+      "emblem_vi": "trăng lưỡi liềm nhỏ giọt sương",
+      "scene_vi": "một vầng trăng nhợt mang gương mặt thanh thản đang nhỏ giọt sương, hai tòa tháp và một con đường quanh co, một nữ thủy tiên khỏa thân vươn dậy từ hồ nước tối với dòng nước chảy tràn qua bờ vai trần, một con sói và một con chó đang tru, một con tôm càng trong nước",
+      "build_vi": "bóng dáng thủy tiên mảnh mai huyền bí, eo thanh tao và hông cong mềm",
+      "hair_vi": "mái tóc đen ánh mực-xanh với những vệt highlight bạc lạnh, đổ như nước xuống tận hông",
+      "age_vi": "21 tuổi",
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
     },
     {
       "n": "XIX",
@@ -289,7 +415,14 @@
       "build": "youthful and vibrant, sun-kissed skin, energetic and joyful feminine curves",
       "allure": "Raise the allure further: an unmistakably inviting presence. She holds a slow sidelong glance on the viewer, lips softly parted, the body turned to display the long line from shoulder to waist to hip, silk slipping as though about to fall, one hand lingering along her own throat, collarbone or thigh. Warm, sensual and inviting — never crude, never posed like a fashion photograph.",
       "hair": "radiant sunflower-blonde hair, bouncing loose curls garlanded in red blossoms",
-      "age": "19 years old"
+      "age": "19 years old",
+      "title_vi": "MẶT TRỜI",
+      "emblem_vi": "mặt trời rực rỡ mang gương mặt",
+      "scene_vi": "một cô gái trẻ khỏa thân hân hoan đội vòng hoa đỏ cưỡi con ngựa trắng điềm tĩnh, phần thân trên trần xoay hướng về ánh sáng, lá cờ đỏ bay phất phới, mặt trời rực rỡ mang gương mặt hiền hòa, bức tường hoa hướng dương thấp",
+      "build_vi": "trẻ trung và đầy sức sống, làn da ửng nắng, đường cong nữ tính tràn năng lượng và vui vẻ",
+      "hair_vi": "mái tóc vàng hướng dương rạng rỡ, những lọn xoăn nảy bồng bềnh cài những bông hoa đỏ",
+      "age_vi": "19 tuổi",
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
     },
     {
       "n": "XX",
@@ -302,7 +435,13 @@
       "scene": "a serene winged female angel draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful young women with softly open arms turning toward the divine light — one fair-skinned with flowing blonde hair, one warm-toned with dark auburn curls, and one deep-skinned with tight black coils — each with a distinct face and figure, each draped in sheer transparent silk",
       "hair": "rich amber-honey hair in soft luminous waves catching gentle golden rays",
       "age": "22 years old",
-      "build": "graceful, soft and serene winged angel with gently sculpted curves and a tender, uplifting composure"
+      "build": "graceful, soft and serene winged angel with gently sculpted curves and a tender, uplifting composure",
+      "title_vi": "LỜI PHÁN QUYẾT",
+      "emblem_vi": "chiếc kèn vàng",
+      "scene_vi": "một nữ thiên thần có cánh thanh thản chỉ khoác lớp lụa mỏng trong suốt bám theo đường cong mềm và rực ánh ấm, nhẹ nhàng giơ cao chiếc kèn vàng mang lá cờ trắng; phía dưới, vươn lên từ mặt nước tĩnh lặng, ba cô gái trẻ xinh đẹp với đôi tay hé mở quay hướng về ánh thần thánh — một người da trắng tóc vàng óng buông dài, một người tông ấm với những lọn xoăn nâu-đỏ trầm, và một người da sẫm sâu với những lọn đen xoắn chặt — mỗi người một gương mặt và vóc dáng riêng biệt, mỗi người đều khoác lụa mỏng trong suốt",
+      "hair_vi": "mái tóc vàng mật ong-hổ phách rực rỡ gợn sóng sáng bóng hứng những tia nắng vàng dịu",
+      "age_vi": "22 tuổi",
+      "build_vi": "thiên thần có cánh duyên dáng, mềm mại và thanh thản với những đường cong tạc nhẹ và thần thái dịu dàng, ngưỡng vọng"
     },
     {
       "n": "XXI",
@@ -314,13 +453,22 @@
       "count": {
         "n": 2,
         "obj": "wands",
-        "layout": "exactly two wands, one gripped in each hand, both shafts visible from hand to tip"
+        "layout": "exactly two wands, one gripped in each hand, both shafts visible from hand to tip",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng hai cây gậy, mỗi tay nắm một cây, cả hai thân gậy đều thấy từ bàn tay tới đầu mút"
       },
       "scene": "a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, draped only in a diaphanous transparent white silk veil that clings to her soft curves and streams softly behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, an angel, an eagle, a lion and a bull at the corners",
       "build": "graceful, soft and serene dancer's physique, gentle curves, supple tender poise",
       "allure": "Raise the allure further: an unmistakably inviting presence. She holds a slow sidelong glance on the viewer, lips softly parted, the body turned to display the long line from shoulder to waist to hip, silk slipping as though about to fall, one hand lingering along her own throat, collarbone or thigh. Warm, sensual and inviting — never crude, never posed like a fashion photograph.",
       "hair": "dark chocolate-chestnut hair in soft loose waves drifting gently with white silk ribbons",
-      "age": "22 years old"
+      "age": "22 years old",
+      "title_vi": "THẾ GIỚI",
+      "emblem_vi": "vòng nguyệt quế hình ô van",
+      "scene_vi": "một nữ vũ công trưởng thành thanh thản tạo dáng duyên dáng với đường cong nhẹ, một hông nhô mềm và một gối nhón nhẹ, cơ thể thư giãn với đầu ngả ra sau, chỉ khoác lớp lụa trắng mỏng trong suốt bám theo đường cong mềm và bay nhẹ phía sau, một cây gậy mảnh cầm nhẹ ở mỗi tay, đang nhảy múa bên trong một vòng nguyệt quế ô van lớn, một thiên thần, một đại bàng, một sư tử và một con bò đực ở bốn góc",
+      "build_vi": "thể chất vũ công duyên dáng, mềm mại và thanh thản, đường cong dịu, dáng uyển chuyển mềm mại",
+      "hair_vi": "mái tóc nâu sô-cô-la sẫm gợn sóng mềm trôi xoáy nhẹ cùng những dải ruy băng lụa tím",
+      "age_vi": "22 tuổi",
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
     },
     {
       "n": "A",
@@ -332,9 +480,14 @@
       "count": {
         "n": 1,
         "obj": "wand",
-        "layout": "exactly one wand, sprouting and alive, held by the divine hand; no second staff anywhere, not even in the landscape"
+        "layout": "exactly one wand, sprouting and alive, held by the divine hand; no second staff anywhere, not even in the landscape",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng một cây gậy, đang đâm chồi và có sức sống, do bàn tay thần thánh cầm; không có cây gậy thứ hai ở bất cứ đâu, kể cả trong phong cảnh"
       },
-      "scene": "a graceful feminine divine hand emerging from soft clouds offering a single living sprouting wand, a delicate transparent silk veil fluttering around the wrist, a serene landscape and a distant castle below"
+      "scene": "a graceful feminine divine hand emerging from soft clouds offering a single living sprouting wand, a delicate transparent silk veil fluttering around the wrist, a serene landscape and a distant castle below",
+      "title_vi": "ÁT GẬY",
+      "emblem_vi": "một cây gậy đâm lá",
+      "scene_vi": "một bàn tay thần thánh mềm mại nữ tính vươn ra từ những đám mây mềm, trao một cây gậy sống duy nhất đang đâm chồi, một lớp lụa mỏng trong suốt thanh nhã bay lất phất quanh cổ tay, phía dưới là phong cảnh thanh bình và một tòa lâu đài xa xa"
     },
     {
       "n": "2",
@@ -346,12 +499,20 @@
       "count": {
         "n": 2,
         "obj": "wands",
-        "layout": "exactly two wands: one held upright in her right hand, one mounted upright on the stone battlement to her left — 1 + 1 = 2; both shafts complete from base to tip, they do not cross"
+        "layout": "exactly two wands: one held upright in her right hand, one mounted upright on the stone battlement to her left — 1 + 1 = 2; both shafts complete from base to tip, they do not cross",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng hai cây gậy: một cây cầm dựng thẳng ở tay phải của nàng, một cây cắm dựng trên thành lũy đá bên trái nàng — 1 + 1 = 2; cả hai thân gậy trọn vẹn từ gốc tới ngọn, chúng không giao nhau"
       },
       "scene": "a serene noblewoman on a battlement, draped in a diaphanous transparent silk veil slipping from one shoulder, a globe of the world resting in one palm with her eyes lowered to look at it, one wand upright in her other hand, the second wand mounted on the wall behind her",
       "hair": "deep auburn hair falling in long loose ringlets over one shoulder",
       "age": "22 years old",
-      "build": "slender, serene and contemplative, gentle upright posture looking out from the parapet"
+      "build": "slender, serene and contemplative, gentle upright posture looking out from the parapet",
+      "title_vi": "HAI GẬY",
+      "emblem_vi": "hai cây gậy đâm lá bắt chéo",
+      "scene_vi": "một quý phu nhân thanh thản trên thành lũy, khoác lớp lụa mỏng trong suốt tuột khỏi một bên vai, quả địa cầu thế giới đặt trong một bàn tay với đôi mắt cúi xuống ngắm nhìn nó, một cây gậy dựng thẳng trong tay kia, cây gậy thứ hai cắm trên tường phía sau nàng",
+      "hair_vi": "mái tóc nâu ánh đỏ trầm đổ thành những lọn xoắn dài buông lỏng qua một bên vai",
+      "age_vi": "22 tuổi",
+      "build_vi": "mảnh mai, thanh thản và trầm tư, dáng đứng thẳng dịu dàng nhìn ra từ lan can"
     },
     {
       "n": "3",
@@ -363,12 +524,20 @@
       "count": {
         "n": 3,
         "obj": "wands",
-        "layout": "exactly three wands planted upright in one straight diagonal row across the foreground, evenly spaced and widely separated, all three tips clear of the horizon, none overlapping or crossing — count them left to right: 1, 2, 3"
+        "layout": "exactly three wands planted upright in one straight diagonal row across the foreground, evenly spaced and widely separated, all three tips clear of the horizon, none overlapping or crossing — count them left to right: 1, 2, 3",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng ba cây gậy cắm dựng thành một hàng chéo thẳng ngang qua tiền cảnh, cách đều nhau và tách xa nhau, cả ba ngọn gậy đều thoát khỏi đường chân trời, không cây nào chồng hay giao nhau — hãy đếm từ trái sang phải: 1, 2, 3"
       },
       "scene": "a serene woman merchant seen from behind on a high rocky headland, standing tall with her long back line turned to us, draped only in a diaphanous transparent silk veil that clings and reveals her soft curves and streams in the sea wind, one hand resting high on the staff beside her and the other raised to shade her eyes as she gazes far out to sea, three staves planted upright in a row around her, sailing ships on a golden sea",
       "hair": "warm caramel-brown hair loosely braided with golden cord",
       "age": "23 years old",
-      "build": "tall and statuesque, long back line facing toward the horizon"
+      "build": "tall and statuesque, long back line facing toward the horizon",
+      "title_vi": "BA GẬY",
+      "emblem_vi": "ba cây gậy đâm lá xòe thành quạt",
+      "scene_vi": "một nữ thương nhân thanh thản được nhìn từ phía sau trên một mũi đá cao, đứng thẳng với đường lưng dài quay về phía ta, chỉ khoác lớp lụa mỏng trong suốt bám sát phơi đường cong mềm và bay trong gió biển, một tay đặt cao trên cây gậy bên cạnh còn tay kia giơ lên che mắt khi nàng dõi nhìn xa ra khơi, ba cây gậy cắm dựng thành một hàng quanh nàng, những thuyền buồm trên biển vàng",
+      "hair_vi": "mái tóc nâu caramel ấm bện lỏng cùng dây thừng vàng",
+      "age_vi": "23 tuổi",
+      "build_vi": "cao và đồ sộ, đường lưng dài hướng về chân trời"
     },
     {
       "n": "4",
@@ -380,13 +549,22 @@
       "count": {
         "n": 4,
         "obj": "wands",
-        "layout": "exactly four wands as the four corner posts of a canopy — two on the left, two on the right — 2 + 2 = 4; draw the two rear posts slightly taller than the two front posts so no post is hidden behind another; all four shafts fully visible from ground to tip, their tops joined by one flower garland"
+        "layout": "exactly four wands as the four corner posts of a canopy — two on the left, two on the right — 2 + 2 = 4; draw the two rear posts slightly taller than the two front posts so no post is hidden behind another; all four shafts fully visible from ground to tip, their tops joined by one flower garland",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng bốn cây gậy làm bốn cột góc của một tán mái — hai bên trái, hai bên phải — 2 + 2 = 4; hãy vẽ hai cột phía sau cao hơn hai cột phía trước để không cột nào bị khuất sau cột khác; cả bốn thân gậy đều thấy trọn từ mặt đất tới ngọn, các ngọn nối với nhau bởi một vòng hoa"
       },
       "scene": "four garlanded wands forming a festive canopy, two graceful young women dancing gently beneath it, both draped in diaphanous transparent silk veils and both with fair skin tones — one porcelain-skinned with flowing honey-gold hair and one rosy ivory-skinned with deep auburn ringlets, each with a distinct face and figure — a manor beyond",
       "hair": "distinct per dancer: one with flowing honey-gold hair, one with tight black coils",
       "build": "both lithe and celebratory, joyful dancer waists and graceful raised arms, distinct faces and figures",
       "allure": "Raise the allure further: an unmistakably inviting presence. She holds a slow sidelong glance on the viewer, lips softly parted, the body turned to display the long line from shoulder to waist to hip, silk slipping as though about to fall, one hand lingering along her own throat, collarbone or thigh. Warm, sensual and inviting — never crude, never posed like a fashion photograph.",
-      "age": "20 years old"
+      "age": "20 years old",
+      "title_vi": "BỐN GẬY",
+      "emblem_vi": "bốn cây gậy với vòng hoa",
+      "scene_vi": "bốn cây gậy cài vòng hoa tạo thành một tán mái lễ hội, hai cô gái trẻ thanh nhã đang nhảy nhẹ bên dưới nó, cả hai đều khoác những lớp lụa mỏng trong suốt và đều mang tông da sáng — một người da trắng sứ với mái tóc vàng mật buông dài và một người da ngà ửng hồng với những lọn nâu-đỏ trầm, mỗi người một gương mặt và vóc dáng riêng — phía xa là một dinh thự",
+      "hair_vi": "mỗi vũ công một vẻ: một người tóc vàng mật buông dài, một người những lọn đen xoắn chặt",
+      "build_vi": "cả hai đều mảnh dẻo và rạo rực lễ hội, eo vũ công hân hoan và đôi tay giơ duyên dáng, gương mặt và vóc dáng khác biệt",
+      "age_vi": "20 tuổi",
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
     },
     {
       "n": "5",
@@ -398,12 +576,20 @@
       "count": {
         "n": 5,
         "obj": "wands",
-        "layout": "exactly five wands in total, exactly one gripped in each of the five women's hands — five women, five wands, one wand per woman, nobody holds two, no extra wand on the ground, no wand leaning anywhere, no wand in the background — count the wands: 1, 2, 3, 4, 5 and no more"
+        "layout": "exactly five wands in total, exactly one gripped in each of the five women's hands — five women, five wands, one wand per woman, nobody holds two, no extra wand on the ground, no wand leaning anywhere, no wand in the background — count the wands: 1, 2, 3, 4, 5 and no more",
+        "obj_vi": "gậy",
+        "layout_vi": "tổng cộng đúng năm cây gậy, đúng một cây trong tay mỗi cô gái trong số năm cô gái — năm người, năm gậy, mỗi người một cây, không ai cầm hai, không cây gậy thừa nào trên đất, không cây nào dựa ở đâu, không cây nào ở hậu cảnh — hãy đếm số gậy: 1, 2, 3, 4, 5 và không hơn"
       },
       "scene": "five graceful young women draped in diaphanous transparent silk veils standing in a loose circle in a soft meadow, each woman distinct and every one with fair skin tones — one porcelain-skinned with long platinum-blonde hair, one rosy ivory-skinned with copper-red waves, one warm ivory-skinned with deep chocolate-brown hair, one fair-skinned with raven-black straight hair, and one light golden-skinned with strawberry-blonde hair — each holding exactly one wand planted upright beside her",
       "age": "21 years old",
       "hair": "distinct per woman: one blonde, one dark auburn curls, one tight black coils, one straight black, one copper waves",
-      "build": "all slender, graceful and light with distinct faces and figures, gentle dancing stances"
+      "build": "all slender, graceful and light with distinct faces and figures, gentle dancing stances",
+      "title_vi": "NĂM GẬY",
+      "emblem_vi": "năm cây gậy giao nhau thành hình sao",
+      "scene_vi": "năm cô gái trẻ thanh nhã khoác những lớp lụa mỏng trong suốt đứng thành một vòng tròn lỏng trên đồng cỏ mềm, mỗi người một vẻ riêng biệt và tất cả đều mang tông da sáng — một người da trắng sứ với tóc vàng bạch kim dài, một người da ngà ửng hồng với tóc đỏ đồng gợn sóng, một người da ngà ấm với tóc nâu sô-cô-la sẫm, một người da trắng với tóc đen quạ thẳng, và một người da vàng nhạt với tóc vàng-dâu — mỗi người cầm đúng một cây gậy cắm dựng bên cạnh mình",
+      "age_vi": "21 tuổi",
+      "hair_vi": "mỗi người một vẻ: một người vàng, một người lọn nâu-đỏ trầm, một người đen xoắn chặt, một người đen thẳng, một người gợn sóng đồng",
+      "build_vi": "tất cả đều mảnh mai, duyên dáng và nhẹ nhàng với gương mặt và vóc dáng riêng, dáng đứng như đang nhẩm nhịp nhảy"
     },
     {
       "n": "6",
@@ -415,12 +601,20 @@
       "count": {
         "n": 6,
         "obj": "wands",
-        "layout": "exactly six wands: one laurel-crowned wand raised in the heroine's hand plus five held by the five followers behind her — 1 + 5 = 6; each follower holds their wand upright and well above shoulder height so all five are separately countable against the sky, no wand resting on a shoulder"
+        "layout": "exactly six wands: one laurel-crowned wand raised in the heroine's hand plus five held by the five followers behind her — 1 + 5 = 6; each follower holds their wand upright and well above shoulder height so all five are separately countable against the sky, no wand resting on a shoulder",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng sáu cây gậy: một gậy đội vòng nguyệt quế giơ cao trong tay nữ anh hùng cộng năm cây do năm người theo sau cầm — 1 + 5 = 6; mỗi người theo sau cầm gậy dựng thẳng và cao hơn hẳn vai để cả năm cây đếm được riêng rẽ trên nền trời, không cây nào đặt lên vai"
       },
       "scene": "a serene woman on a white horse, draped in a diaphanous transparent silk veil, a laurel wreath on her brow, one crowned wand raised gently in her hand, five admirers behind her each holding one wand",
       "hair": "honey-gold hair flowing softly in the breeze",
       "age": "22 years old",
-      "build": "graceful, poised and serene, elegant equestrian posture on horseback"
+      "build": "graceful, poised and serene, elegant equestrian posture on horseback",
+      "title_vi": "SÁU GẬY",
+      "emblem_vi": "sáu cây gậy mảnh đứng cạnh nhau thành một hàng ngay ngắn, một cây trong số đó đội vòng nguyệt quế nhỏ — đúng sáu thân gậy, không hơn không kém",
+      "scene_vi": "một người phụ nữ thanh thản cưỡi ngựa trắng, khoác lớp lụa mỏng trong suốt, một vòng nguyệt quế trên trán, một cây gậy đội vương miện giơ nhẹ trong tay, năm người hâm mộ phía sau nàng mỗi người cầm một cây gậy",
+      "hair_vi": "mái tóc vàng mật bay mềm trong gió",
+      "age_vi": "22 tuổi",
+      "build_vi": "duyên dáng, đĩnh đạc và thanh thản, tư thế cưỡi ngựa thanh nhã trên lưng ngựa"
     },
     {
       "n": "7",
@@ -432,12 +626,20 @@
       "count": {
         "n": 7,
         "obj": "wands",
-        "layout": "exactly seven wands: one held in the young woman's two hands plus six rising from below the cliff edge in front of her — 1 + 6 = 7; the six lower tips evenly spaced along the cliff line, none overlapping"
+        "layout": "exactly seven wands: one held in the young woman's two hands plus six rising from below the cliff edge in front of her — 1 + 6 = 7; the six lower tips evenly spaced along the cliff line, none overlapping",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng bảy cây gậy: một cây do cô gái trẻ cầm bằng cả hai tay cộng sáu cây vươn lên từ phía dưới mép vực trước mặt nàng — 1 + 6 = 7; sáu ngọn phía dưới cách đều nhau dọc theo đường mép vực, không cây nào chồng nhau"
       },
       "scene": "a serene young woman standing atop a high crag, draped in a diaphanous transparent silk veil, holding one great wand gently with both hands, six wands rising from below",
       "age": "21 years old",
       "hair": "dark espresso hair falling in soft loose curls",
-      "build": "slender, serene and graceful, calm composed stance"
+      "build": "slender, serene and graceful, calm composed stance",
+      "title_vi": "BẢY GẬY",
+      "emblem_vi": "bảy cây gậy thành hàng rào",
+      "scene_vi": "một cô gái trẻ thanh thản đứng trên đỉnh vách cao, khoác lớp lụa mỏng trong suốt, cả hai tay nhẹ nhàng nắm một cây gậy lớn, sáu cây gậy vươn lên từ phía dưới",
+      "age_vi": "21 tuổi",
+      "hair_vi": "mái tóc espresso sẫm đổ thành những lọn xoăn mềm buông lỏng",
+      "build_vi": "mảnh mai, thanh thản và duyên dáng, dáng đứng điềm tĩnh sẵn sàng"
     },
     {
       "n": "8",
@@ -449,9 +651,14 @@
       "count": {
         "n": 8,
         "obj": "wands",
-        "layout": "exactly eight wands in ONE single parallel diagonal row across the open sky — 1 row of 8, evenly spaced, all eight pointing the same way, none crossing, none cropped by the frame"
+        "layout": "exactly eight wands in ONE single parallel diagonal row across the open sky — 1 row of 8, evenly spaced, all eight pointing the same way, none crossing, none cropped by the frame",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng tám cây gậy trong MỘT hàng chéo song song duy nhất băng qua bầu trời mở — 1 hàng gồm 8 cây, cách đều nhau, cả tám cùng chỉ một hướng, không cây nào giao nhau, không cây nào bị khung hình cắt"
       },
-      "scene": "eight wands with leaf tips drifting in one parallel diagonal row across a soft open sky toward a river town below"
+      "scene": "eight wands with leaf tips drifting in one parallel diagonal row across a soft open sky toward a river town below",
+      "title_vi": "TÁM GẬY",
+      "emblem_vi": "tám cây gậy song song",
+      "scene_vi": "tám cây gậy đầu đâm lá trôi thành một hàng chéo song song duy nhất băng qua bầu trời mở mềm mại hướng về một thị trấn ven sông phía dưới"
     },
     {
       "n": "9",
@@ -463,12 +670,20 @@
       "count": {
         "n": 9,
         "obj": "wands",
-        "layout": "exactly nine wands: eight planted upright in one straight palisade row BEHIND her, evenly spaced and clear of her body, plus the one she holds in front of her — 8 + 1 = 9; all nine countable against open sky"
+        "layout": "exactly nine wands: eight planted upright in one straight palisade row BEHIND her, evenly spaced and clear of her body, plus the one she holds in front of her — 8 + 1 = 9; all nine countable against open sky",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng chín cây gậy: tám cây cắm dựng thành một hàng rào thẳng Ở PHÍA SAU nàng, cách đều nhau và thoát khỏi cơ thể nàng, cộng một cây nàng cầm phía trước mình — 8 + 1 = 9; cả chín cây đều đếm được trên nền trời mở"
       },
       "scene": "a serene young woman draped in a diaphanous transparent silk veil, gently resting her hands on one standing wand, eight wands upright behind her like a palisade",
       "age": "24 years old",
       "hair": "dark brown hair falling loose in soft waves",
-      "build": "slender, serene and watchful, gentle composed stance"
+      "build": "slender, serene and watchful, gentle composed stance",
+      "title_vi": "CHÍN GẬY",
+      "emblem_vi": "chín cây gậy thành hàng thành lũy",
+      "scene_vi": "một cô gái trẻ thanh thản khoác lớp lụa mỏng trong suốt, nhẹ nhàng đặt đôi tay lên một cây gậy đứng sừng sững, tám cây gậy dựng sau lưng nàng như một hàng rào",
+      "age_vi": "24 tuổi",
+      "hair_vi": "mái tóc nâu sẫm buông xõa thành những sóng mềm",
+      "build_vi": "mảnh mai, thanh thản và cảnh giác, dáng đứng nhẹ nhàng điềm tĩnh"
     },
     {
       "n": "10",
@@ -480,12 +695,20 @@
       "count": {
         "n": 10,
         "obj": "wands",
-        "layout": "exactly ten wands in one natural bundle tied at the middle — count the ten tips of the fan: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; no nine, no eleven"
+        "layout": "exactly ten wands in one natural bundle tied at the middle — count the ten tips of the fan: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; no nine, no eleven",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng mười cây gậy trong một bó tự nhiên buộc ở giữa — hãy đếm mười ngọn của chiếc quạt: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; không phải chín, không phải mười một"
       },
       "scene": "a serene 23-year-old woman reclining gracefully on soft grass, nude but for a sheer transparent silk veil draped across her form, resting beside a boulder; leaning against the boulder behind her is one natural bundle of ten long wooden wands tied loosely at the middle with a thin cord, their upper ends spreading apart in a natural fan like an open hand fan, every wand the same length and thickness, evenly spaced with a clear gap of sky between each shaft, all ten tips clearly separated and countable, the lower ends gathered together in the grass, none crossing, none hidden, a distant sunlit castle beyond",
       "age": "23 years old",
       "hair": "chestnut hair loose in soft waves",
-      "build": "slender, graceful and serene, gentle bearing carrying the bundle"
+      "build": "slender, graceful and serene, gentle bearing carrying the bundle",
+      "title_vi": "MƯỜI GẬY",
+      "emblem_vi": "mười cây gậy bó thành một bó",
+      "scene_vi": "một cô gái 23 tuổi thanh thản nghiêng mình duyên dáng trên thảm cỏ mềm, khỏa thân chỉ có lớp lụa mỏng trong suốt phủ ngang dáng, đang nghỉ bên một tảng đá lớn; tựa vào tảng đá phía sau nàng là một bó tự nhiên gồm mười cây gậy gỗ dài buộc lỏng ở giữa bằng một sợi dây mảnh, các đầu trên xòe ra thành một quạt tự nhiên như chiếc quạt tay mở, mọi cây gậy cùng độ dài và độ dày, cách đều nhau với một khe trời rõ ràng giữa mỗi thân gậy, cả mười ngọn đều tách rời và đếm được, các đầu dưới gom lại trong cỏ, không cây nào giao nhau, không cây nào bị che, phía xa là một lâu đài rực nắng",
+      "age_vi": "23 tuổi",
+      "hair_vi": "mái tóc nâu hạt dẻ buông xõa thành những sóng mềm",
+      "build_vi": "mảnh mai, duyên dáng và thanh thản, dáng dịu dàng vác theo bó gậy"
     },
     {
       "n": "P",
@@ -497,12 +720,20 @@
       "count": {
         "n": 1,
         "obj": "wand",
-        "layout": "exactly one living wand; no second staff, no decorative staffs in the dunes"
+        "layout": "exactly one living wand; no second staff, no decorative staffs in the dunes",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng một cây gậy sống; không có gậy thứ hai, không có gậy trang trí nào trong các đồi cát"
       },
       "scene": "a serene adult woman page standing farther back in the landscape so her whole figure sits smaller within the wide desert vista, draped in a diaphanous transparent silk veil sliding off one shoulder, holding one living wand, desert dunes and pyramids behind her",
       "hair": "soft ginger-auburn hair in a gentle textured bob",
       "age": "18 years old",
-      "build": "petite and serene, lithe youthful frame with a gentle stance"
+      "build": "petite and serene, lithe youthful frame with a gentle stance",
+      "title_vi": "PAGE GẬY",
+      "emblem_vi": "cây gậy cắm lông vũ",
+      "scene_vi": "một cô thị nữ trưởng thành thanh thản đứng lùi sâu hơn trong phong cảnh để toàn thân nàng gọn nhỏ trong khung cảnh sa mạc rộng lớn, khoác lớp lụa mỏng trong suốt trượt khỏi một bên vai, cầm một cây gậy sống, phía sau là những cồn cát sa mạc và kim tự tháp",
+      "hair_vi": "mái tóc đỏ-gừng mềm mại cắt kiểu bob có kết cấu mềm",
+      "age_vi": "18 tuổi",
+      "build_vi": "nhỏ nhắn và thanh thản, khung người trẻ mảnh dẻ với dáng đứng dịu dàng"
     },
     {
       "n": "N",
@@ -514,12 +745,20 @@
       "count": {
         "n": 1,
         "obj": "wand",
-        "layout": "exactly one wand, raised gently in her hand; no other staff"
+        "layout": "exactly one wand, raised gently in her hand; no other staff",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng một cây gậy, giơ nhẹ trong tay nàng; không có gậy nào khác"
       },
       "scene": "a serene 22-year-old female knight, nearly bare with only a wisp of sheer transparent silk draped across her form, riding a calm pure-white horse trotting forward, holding one flourishing living wand out before her, a golden meadow and distant hills behind",
       "age": "22 years old",
       "hair": "soft golden-brown curls loose beneath a delicate feathered diadem",
-      "build": "slender, graceful and serene female knight on a calm pure-white steed, nearly bare in only a sheer silk wisp"
+      "build": "slender, graceful and serene female knight on a calm pure-white steed, nearly bare in only a sheer silk wisp",
+      "title_vi": "HIỆP SĨ GẬY",
+      "emblem_vi": "cây gậy trên con ngựa",
+      "scene_vi": "một nữ hiệp sĩ 22 tuổi thanh thản, gần như trần chỉ với một mảng lụa mỏng trong suốt phủ ngang dáng, cưỡi con ngựa trắng thuần điềm tĩnh đang nước kiệu tiến tới, cầm một cây gậy sống đang đâm chồi giơ ra phía trước, phía sau là đồng cỏ vàng và những ngọn đồi xa",
+      "age_vi": "22 tuổi",
+      "hair_vi": "những lọn xoăn nâu-vàng mềm buông dưới chiếc vương miện lông vũ thanh nhã",
+      "build_vi": "nữ hiệp sĩ mảnh mai, duyên dáng và thanh thản trên con bạch mã điềm tĩnh, gần như trần chỉ trong một mảng lụa mỏng"
     },
     {
       "n": "Q",
@@ -531,12 +770,20 @@
       "count": {
         "n": 1,
         "obj": "wand",
-        "layout": "exactly one sunflower wand; no other staff"
+        "layout": "exactly one sunflower wand; no other staff",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng một cây gậy hướng dương; không có gậy nào khác"
       },
       "scene": "a serene queen with dark loosened hair on a lion-carved throne, draped only in a diaphanous transparent silk veil that clings to her soft curves, one sunflower wand held gently in her hand, a black cat at her feet, her throne set at the edge of a bright spring birch grove — slender white birch trunks, soft green undergrowth and a carpet of wildflowers and sunflowers, dappled sunlight filtering through young leaves",
       "hair": "a magnificent mane of rich russet-red waves falling softly over her shoulders",
       "age": "24 years old",
-      "build": "voluptuous, serene and warm, gentle poised posture on the lion throne"
+      "build": "voluptuous, serene and warm, gentle poised posture on the lion throne",
+      "title_vi": "NỮ HOÀNG GẬY",
+      "emblem_vi": "cây gậy hướng dương giữa hai ngọn lửa",
+      "scene_vi": "một nữ hoàng thanh thản tóc sẫm buông xõa ngồi trên ngai chạm sư tử, chỉ khoác lớp lụa mỏng trong suốt bám theo những đường cong mềm, một cây gậy hướng dương cầm nhẹ trong tay, một con mèo đen dưới chân bà, ngai của bà đặt ở rìa một rặng bạch dương mùa xuân tươi sáng — những thân bạch dương trắng thon, thảm cây xanh mềm và một thảm hoa dại cùng hoa hướng dương, nắng loang đổ xuyên qua những chiếc lá non",
+      "hair_vi": "bờm tóc lộng lẫy màu đỏ-nâu rực gợn sóng đổ mềm qua vai",
+      "age_vi": "24 tuổi",
+      "build_vi": "đầy đặn, thanh thản và ấm áp, dáng ngồi đĩnh đạc nhẹ nhàng trên ngai sư tử"
     },
     {
       "n": "K",
@@ -548,12 +795,20 @@
       "count": {
         "n": 1,
         "obj": "wand",
-        "layout": "exactly one living green wand; no other staff"
+        "layout": "exactly one living green wand; no other staff",
+        "obj_vi": "gậy",
+        "layout_vi": "đúng một cây gậy xanh sống; không có gậy nào khác"
       },
       "scene": "a serene 25-year-old female sovereign with a lion-carved crown seated on a flame-carved throne, draped in a diaphanous transparent silk veil, holding one blossoming wand gently in her hand, her throne set in a clearing of a majestic ancient oak forest — towering dark oak trunks with warm golden sunlight streaming down through the dense canopy, shafts of amber light and drifting golden embers between the trees",
       "age": "25 years old",
       "hair": "dark bronze hair swept back in a soft crown braid with fiery orange ribbons",
-      "build": "graceful, serene and noble high queen with soft gentle poise"
+      "build": "graceful, serene and noble high queen with soft gentle poise",
+      "title_vi": "VUA GẬY",
+      "emblem_vi": "cây gậy rực lửa vươn lên từ đầu sư tử",
+      "scene_vi": "một nữ quân chủ 25 tuổi thanh thản đội vương miện chạm sư tử ngồi trên ngai chạm ngọn lửa, khoác lớp lụa mỏng trong suốt, cầm nhẹ một cây gậy đang nở hoa trong tay, ngai của bà đặt trong một khoảnh rừng sồi cổ thụ hùng vĩ — những thân sồi tối cao vút với nắng vàng ấm xuyên rủ xuống qua tán lá dày đặc, những luồng sáng hổ phách và những đốm than hồng vàng bay lơ lửng giữa những hàng cây",
+      "age_vi": "25 tuổi",
+      "hair_vi": "mái tóc nâu đồng sẫm vuốt ngược thành bím vương miện mềm điểm những dải ruy băng cam rực lửa",
+      "build_vi": "nữ vương cao quý duyên dáng, thanh thản và quý phái với thần thái dịu dàng"
     },
     {
       "n": "A",
@@ -565,9 +820,14 @@
       "count": {
         "n": 1,
         "obj": "chalice",
-        "layout": "exactly one chalice; the five overflowing streams are water, not cups — do not draw extra chalices in the pool"
+        "layout": "exactly one chalice; the five overflowing streams are water, not cups — do not draw extra chalices in the pool",
+        "obj_vi": "chén",
+        "layout_vi": "đúng một chiếc chén; năm dòng chảy trào ra là nước, không phải cốc — đừng vẽ thêm chiếc chén nào trong hồ"
       },
-      "scene": "a divine hand offering one ornate chalice, a dove descending, five streams overflowing into a pool of lilies"
+      "scene": "a divine hand offering one ornate chalice, a dove descending, five streams overflowing into a pool of lilies",
+      "title_vi": "ÁT CỐC",
+      "emblem_vi": "một chiếc chén trào đầy",
+      "scene_vi": "một bàn tay thần thánh trao một chiếc chén chạm khắc cầu kỳ, một con chim bồ câu đang giáng xuống, năm dòng nước trào ra đổ xuống một hồ hoa huệ"
     },
     {
       "n": "2",
@@ -579,12 +839,20 @@
       "count": {
         "n": 2,
         "obj": "chalices",
-        "layout": "exactly two chalices, one raised in each lover's hand, one on the left and one on the right, both bowls fully visible and not overlapping — no third cup"
+        "layout": "exactly two chalices, one raised in each lover's hand, one on the left and one on the right, both bowls fully visible and not overlapping — no third cup",
+        "obj_vi": "chén",
+        "layout_vi": "đúng hai chiếc chén, một chiếc giơ lên trong tay mỗi người, một bên trái và một bên phải, cả hai miệng chén đều thấy trọn và không chồng nhau — không có chiếc cốc thứ ba"
       },
       "scene": "a nude young woman and a nude young man facing one another, her body turned three-quarters toward the viewer with one arm across her breast, each raising one chalice in a toast, a caduceus with a lion head above them",
       "hair": "soft ash-brown hair worn in a low intertwined romantic braid",
       "age": "21 years old",
-      "build": "slender and graceful, gentle curving silhouette leaning in communion"
+      "build": "slender and graceful, gentle curving silhouette leaning in communion",
+      "title_vi": "HAI CỐC",
+      "emblem_vi": "hai chiếc nhẫn lồng vào nhau",
+      "scene_vi": "một cô gái trẻ khỏa thân và một chàng trai khỏa thân đối diện nhau, cơ thể nàng xoay ba phần tư về phía người xem với một cánh tay vắt ngang ngực, mỗi người giơ một chiếc chén nâng ly, phía trên họ là trượng caduceus gắn đầu sư tử",
+      "hair_vi": "mái tóc nâu-tro mềm đeo thành một lọn bím lãng mạn thấp đan xen",
+      "age_vi": "21 tuổi",
+      "build_vi": "mảnh mai và duyên dáng, hình bóng cong nhẹ nghiêng vào nhau trong sự gần gũi"
     },
     {
       "n": "3",
@@ -596,12 +864,20 @@
       "count": {
         "n": 3,
         "obj": "chalices",
-        "layout": "exactly three chalices — one raised by each of the three maidens, three dancers and three cups, one per figure; all three bowls held above shoulder height and countable"
+        "layout": "exactly three chalices — one raised by each of the three maidens, three dancers and three cups, one per figure; all three bowls held above shoulder height and countable",
+        "obj_vi": "chén",
+        "layout_vi": "đúng ba chiếc chén — mỗi thiếu nữ giơ một chiếc, ba vũ công và ba chiếc cốc, mỗi người một chiếc; cả ba miệng chén đều giơ cao quá vai và đếm được"
       },
       "scene": "three nude maidens with flower wreaths dancing in a circle, their bodies turned to the light, each raising one chalice, fruits on the ground",
       "hair": "rich chocolate-brown, golden-blonde, and copper hair among the three maidens",
       "age": "20 years old",
-      "build": "harmonious, curvaceous, dancing together with joyful feminine grace"
+      "build": "harmonious, curvaceous, dancing together with joyful feminine grace",
+      "title_vi": "BA CỐC",
+      "emblem_vi": "ba chiếc chén xếp thành tam giác",
+      "scene_vi": "ba thiếu nữ khỏa thân đội vòng hoa đang nhảy múa thành vòng tròn, cơ thể họ xoay hướng về ánh sáng, mỗi người giơ một chiếc chén, trái cây nằm rải trên mặt đất",
+      "hair_vi": "tóc nâu sô-cô-la đậm, vàng óng và đồng đỏ phân bổ giữa ba thiếu nữ",
+      "age_vi": "20 tuổi",
+      "build_vi": "hài hòa, đầy đặn, cùng nhảy múa với vẻ duyên dáng nữ tính hân hoan"
     },
     {
       "n": "4",
@@ -613,12 +889,20 @@
       "count": {
         "n": 4,
         "obj": "chalices",
-        "layout": "exactly four chalices: three standing upright in a row on the grass in front of him, evenly spaced, plus the one offered by the hand from the cloud — 3 + 1 = 4; all four bowls visible"
+        "layout": "exactly four chalices: three standing upright in a row on the grass in front of him, evenly spaced, plus the one offered by the hand from the cloud — 3 + 1 = 4; all four bowls visible",
+        "obj_vi": "chén",
+        "layout_vi": "đúng bốn chiếc chén: ba chiếc đứng thẳng thành một hàng trên thảm cỏ trước mặt cô, cách đều nhau, cộng với chiếc do bàn tay từ đám mây trao — 3 + 1 = 4; cả bốn miệng chén đều thấy được"
       },
       "scene": "a contemplative young woman seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud",
       "age": "22 years old",
       "hair": "dark wavy hair falling over her shoulder in contemplative thought",
-      "build": "slender, relaxed seated posture against a flowering tree"
+      "build": "slender, relaxed seated posture against a flowering tree",
+      "title_vi": "BỐN CỐC",
+      "emblem_vi": "ba chiếc chén và một chiếc đang được trao",
+      "scene_vi": "một cô gái trẻ trầm ngâm ngồi dưới gốc cây, khoanh tay, ngắm nhìn ba chiếc cốc trên cỏ trong khi một bàn tay thiên thể trao chiếc cốc thứ tư từ đám mây",
+      "age_vi": "22 tuổi",
+      "hair_vi": "mái tóc gợn sóng sẫm màu đổ qua vai trong cơn trầm tư",
+      "build_vi": "mảnh mai, dáng ngồi thư giãn tựa vào gốc cây đang nở hoa"
     },
     {
       "n": "5",
@@ -630,12 +914,20 @@
       "count": {
         "n": 5,
         "obj": "chalices",
-        "layout": "exactly five chalices: three spilled and empty lying in the foreground plus two still upright and full standing on the bank behind him — 3 + 2 = 5; all five bowls countable, none hidden behind his cloak"
+        "layout": "exactly five chalices: three spilled and empty lying in the foreground plus two still upright and full standing on the bank behind him — 3 + 2 = 5; all five bowls countable, none hidden behind his cloak",
+        "obj_vi": "chén",
+        "layout_vi": "đúng năm chiếc chén: ba chiếc đổ rỗng nằm ở tiền cảnh cộng hai chiếc vẫn đứng thẳng đầy nước trên bờ phía sau cô — 3 + 2 = 5; cả năm miệng chén đều đếm được, không chiếc nào bị áo choàng của cô che"
       },
       "scene": "a graceful adult woman in a dark cloak slipping off one bare shoulder, standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her",
       "hair": "long mahogany hair unbound and draping over cloaked shoulders",
       "age": "22 years old",
-      "build": "slender, somber silhouette with delicate bowed neck"
+      "build": "slender, somber silhouette with delicate bowed neck",
+      "title_vi": "NĂM CỐC",
+      "emblem_vi": "ba chiếc đổ, hai chiếc đứng",
+      "scene_vi": "một người phụ nữ trưởng thành duyên dáng trong chiếc áo choàng tối trượt khỏi một bên vai trần, đứng cúi đầu quay lưng lại ánh sáng bên dòng sông, ba chiếc chén đổ rỗng lật úp ở tiền cảnh dưới chân cô, hai chiếc chén đầy vẫn đứng thẳng trên bờ phía sau cô",
+      "hair_vi": "mái tóc nâu gụ dài buông xõa phủ xuống đôi vai khoác choàng",
+      "age_vi": "22 tuổi",
+      "build_vi": "bóng dáng mảnh mai, trầm buồn với cái cổ cúi thanh tao"
     },
     {
       "n": "6",
@@ -647,12 +939,20 @@
       "count": {
         "n": 6,
         "obj": "chalices",
-        "layout": "exactly six chalices, each filled with flowers: one being passed between their hands plus five standing in a row along the courtyard wall behind them — 1 + 5 = 6; all six bowls separate and countable"
+        "layout": "exactly six chalices, each filled with flowers: one being passed between their hands plus five standing in a row along the courtyard wall behind them — 1 + 5 = 6; all six bowls separate and countable",
+        "obj_vi": "chén",
+        "layout_vi": "đúng sáu chiếc chén, mỗi chiếc đều đựng đầy hoa: một chiếc đang được trao giữa hai bên tay cộng năm chiếc dựng thành hàng dọc bức tường sân phía sau họ — 1 + 5 = 6; cả sáu miệng chén đều tách rời và đếm được"
       },
       "scene": "two graceful young women in sheer summer dresses in an old courtyard garden, exchanging one flower-filled chalice, five more set along the wall behind them",
       "hair": "pale golden hair styled in a delicate maiden crown knot",
       "age": "19 years old",
-      "build": "petite, innocent and delicate, sweet gentle posture"
+      "build": "petite, innocent and delicate, sweet gentle posture",
+      "title_vi": "SÁU CỐC",
+      "emblem_vi": "sáu chiếc chén đựng hoa",
+      "scene_vi": "hai cô gái trẻ thanh nhã trong những chiếc váy hè mỏng nhẹ trong một khu vườn sân cổ, đang trao nhau một chiếc chén đựng đầy hoa, năm chiếc nữa xếp dọc theo bức tường phía sau họ",
+      "hair_vi": "mái tóc vàng nhạt búi kiểu vương miện trinh nữ thanh nhã",
+      "age_vi": "19 tuổi",
+      "build_vi": "nhỏ nhắn, ngây thơ và thanh tao, dáng dịu dàng ngọt ngào"
     },
     {
       "n": "7",
@@ -664,12 +964,20 @@
       "count": {
         "n": 7,
         "obj": "chalices",
-        "layout": "exactly seven chalices on ONE luminous cloud, arranged as two clean rows: 4 on the lower row and 3 on the upper row — 4 + 3 = 7; evenly spaced against open sky, each bowl separate and un-occluded"
+        "layout": "exactly seven chalices on ONE luminous cloud, arranged as two clean rows: 4 on the lower row and 3 on the upper row — 4 + 3 = 7; evenly spaced against open sky, each bowl separate and un-occluded",
+        "obj_vi": "chén",
+        "layout_vi": "đúng bảy chiếc chén trên MỘT đám mây rực sáng, xếp thành hai hàng gọn gàng: 4 ở hàng dưới và 3 ở hàng trên — 4 + 3 = 7; cách đều nhau trên nền trời mở, mỗi miệng chén tách rời và không bị che"
       },
       "scene": "a mesmerized young woman seen from behind, marveling at seven floating cups within glowing clouds containing mystical treasures",
       "age": "21 years old",
       "hair": "dark raven curls drifting in mystical haze",
-      "build": "slender, mesmerized posture with hands slightly raised"
+      "build": "slender, mesmerized posture with hands slightly raised",
+      "title_vi": "BẢY CỐC",
+      "emblem_vi": "bảy chiếc chén trên đám mây",
+      "scene_vi": "một cô gái trẻ đang mê mải được nhìn từ phía sau, kinh ngạc ngắm bảy chiếc cốc lơ lửng giữa những đám mây rực sáng chứa những kho báu huyền bí",
+      "age_vi": "21 tuổi",
+      "hair_vi": "những lọn xoăn đen quạ trôi lềnh trong màn sương huyền bí",
+      "build_vi": "mảnh mai, dáng đứng mê mải với hai tay hơi giơ lên"
     },
     {
       "n": "8",
@@ -681,12 +989,20 @@
       "count": {
         "n": 8,
         "obj": "chalices",
-        "layout": "exactly eight chalices stacked on the rocky ledge as 3 + 3 + 2, with one clearly empty gap between the sixth and the seventh — 3 + 3 + 2 = 8; all eight bowls countable, none cropped by the frame"
+        "layout": "exactly eight chalices stacked on the rocky ledge as 3 + 3 + 2, with one clearly empty gap between the sixth and the seventh — 3 + 3 + 2 = 8; all eight bowls countable, none cropped by the frame",
+        "obj_vi": "chén",
+        "layout_vi": "đúng tám chiếc chén xếp chồng trên gờ đá theo cụm 3 + 3 + 2, với một khoảng trống rõ ràng giữa chiếc thứ sáu và chiếc thứ bảy — 3 + 3 + 2 = 8; cả tám miệng chén đều đếm được, không chiếc nào bị khung hình cắt"
       },
       "scene": "a solitary young woman in a deep crimson cloak walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks",
       "age": "23 years old",
       "hair": "deep brown hair tucked under a travel cloak",
-      "build": "lean wanderer silhouette, resolute back turned toward mountains"
+      "build": "lean wanderer silhouette, resolute back turned toward mountains",
+      "title_vi": "TÁM CỐC",
+      "emblem_vi": "tám chiếc chén xếp chồng",
+      "scene_vi": "một cô gái đơn độc trong chiếc áo choàng đỏ thẫm đang bước rời đi với một cây gậy, bỏ lại tám chiếc cốc xếp chồng để lên đường về những đỉnh núi mờ sương dưới ánh trăng",
+      "age_vi": "23 tuổi",
+      "hair_vi": "mái tóc nâu sẫm nép dưới lớp áo choàng viễn hành",
+      "build_vi": "bóng dáng kẻ lang thang gọn gàng, lưng kiên quyết quay về phía những ngọn núi"
     },
     {
       "n": "9",
@@ -698,12 +1014,20 @@
       "count": {
         "n": 9,
         "obj": "chalices",
-        "layout": "exactly nine chalices on the shelf behind him as a neat 3 x 3 grid — three rows of three, 3 + 3 + 3 = 9; evenly spaced, all nine bowls fully visible"
+        "layout": "exactly nine chalices on the shelf behind him as a neat 3 x 3 grid — three rows of three, 3 + 3 + 3 = 9; evenly spaced, all nine bowls fully visible",
+        "obj_vi": "chén",
+        "layout_vi": "đúng chín chiếc chén trên giá phía sau cô theo lưới 3 x 3 gọn gàng — ba hàng mỗi hàng ba chiếc, 3 + 3 + 3 = 9; cách đều nhau, cả chín miệng chén đều thấy trọn"
       },
       "scene": "a content adult woman with bare shoulders seated at a banquet table, silk slipping from one shoulder, before nine golden chalices proudly arranged in a neat grid on a shelf behind her",
       "hair": "warm honey-brown hair in a relaxed loose chignon",
       "age": "24 years old",
-      "build": "luxurious, soft feminine curves, content and smiling seated posture"
+      "build": "luxurious, soft feminine curves, content and smiling seated posture",
+      "title_vi": "CHÍN CỐC",
+      "emblem_vi": "chín chiếc chén xếp thành hình cung",
+      "scene_vi": "một người phụ nữ trưởng thành mãn nguyện, vai trần, ngồi ở bàn tiệc, lụa tuột khỏi một bên vai, trước chín chiếc chén vàng được sắp đầy tự hào thành một lưới ngay ngắn trên giá phía sau cô",
+      "hair_vi": "mái tóc nâu mật ấm búi thấp lỏng lẻo thư giãn",
+      "age_vi": "24 tuổi",
+      "build_vi": "sang trọng, đường cong nữ tính mềm mại, dáng ngồi mãn nguyện đang mỉm cười"
     },
     {
       "n": "10",
@@ -715,12 +1039,20 @@
       "count": {
         "n": 10,
         "obj": "chalices",
-        "layout": "exactly ten chalices along ONE rainbow arc — 4 on the left half, 4 on the right half, 2 at the apex — 4 + 4 + 2 = 10; evenly spaced against open sky, all ten bowls countable"
+        "layout": "exactly ten chalices along ONE rainbow arc — 4 on the left half, 4 on the right half, 2 at the apex — 4 + 4 + 2 = 10; evenly spaced against open sky, all ten bowls countable",
+        "obj_vi": "chén",
+        "layout_vi": "đúng mười chiếc chén dọc theo MỘT vòm cầu vồng — 4 ở nửa trái, 4 ở nửa phải, 2 ở đỉnh — 4 + 4 + 2 = 10; cách đều nhau trên nền trời mở, cả mười miệng chén đều đếm được"
       },
       "scene": "a blissful couple embracing in a meadow, she in slipping silk with one bare shoulder and the long line of her back to the light, his arms around her waist, ten chalices along a rainbow arc, a cottage and dancing children beyond",
       "hair": "warm hazel-brown hair cascading in silky ripples",
       "age": "22 years old",
-      "build": "graceful, tender motherly poise with slender loving frame"
+      "build": "graceful, tender motherly poise with slender loving frame",
+      "title_vi": "MƯỜI CỐC",
+      "emblem_vi": "mười chiếc chén dưới cầu vồng",
+      "scene_vi": "một cặp đôi hạnh phúc ôm nhau trên đồng cỏ, nàng trong dải lụa tuột hở một bên vai trần và đường lưng dài hứng ánh sáng, chàng vòng tay ôm eo nàng, mười chiếc chén dọc theo một vòm cầu vồng, phía xa là một căn nhà tranh và những đứa trẻ đang nhảy múa",
+      "hair_vi": "mái tóc nâu-lục bình ấm đổ xuống thành những gợn lụa mượt mà",
+      "age_vi": "22 tuổi",
+      "build_vi": "duyên dáng, dáng dấp mẫu tử dịu dàng với khung người mảnh mai tràn yêu thương"
     },
     {
       "n": "P",
@@ -732,12 +1064,20 @@
       "count": {
         "n": 1,
         "obj": "chalice",
-        "layout": "exactly one chalice; no other cup anywhere in the scene"
+        "layout": "exactly one chalice; no other cup anywhere in the scene",
+        "obj_vi": "chén",
+        "layout_vi": "đúng một chiếc chén; không có chiếc cốc nào khác ở bất cứ đâu trong cảnh"
       },
       "scene": "a graceful young woman page by the sea in an open robe sliding off one shoulder, holding one chalice from which a curious fish looks out",
       "hair": "dark glossy hair in a single side fishtail braid over the collarbone",
       "age": "18 years old",
-      "build": "petite, curious and dreamy, delicate limbs holding the chalice"
+      "build": "petite, curious and dreamy, delicate limbs holding the chalice",
+      "title_vi": "PAGE CỐC",
+      "emblem_vi": "chiếc chén với con cá",
+      "scene_vi": "một cô thị nữ trẻ duyên dáng bên bờ biển trong chiếc áo choàng hở trượt khỏi một bên vai, cầm một chiếc chén mà một con cá tò mò đang thò đầu ra nhìn",
+      "hair_vi": "mái tóc đen bóng bện thành một lọn đuôi cá lệch đổ qua xương đòn",
+      "age_vi": "18 tuổi",
+      "build_vi": "nhỏ nhắn, tò mò và mơ mộng, đôi chân tay thanh tao ôm chiếc chén"
     },
     {
       "n": "N",
@@ -749,12 +1089,20 @@
       "count": {
         "n": 1,
         "obj": "chalice",
-        "layout": "exactly one golden chalice; no other cup"
+        "layout": "exactly one golden chalice; no other cup",
+        "obj_vi": "chén",
+        "layout_vi": "đúng một chiếc chén vàng; không có cốc nào khác"
       },
       "scene": "a graceful 22-year-old female knight in winged silver armor riding a calm white steed beside a stream, extending a golden chalice of peace",
       "age": "22 years old",
       "hair": "fair sandy-blonde hair falling in soft romantic waves across her brow",
-      "build": "poetic, slender and noble athletic female knight offering the chalice"
+      "build": "poetic, slender and noble athletic female knight offering the chalice",
+      "title_vi": "HIỆP SĨ CỐC",
+      "emblem_vi": "chiếc chén trên móng ngựa",
+      "scene_vi": "một nữ hiệp sĩ 22 tuổi duyên dáng trong bộ giáp bạc có cánh cưỡi con bạch mã điềm tĩnh bên dòng suối, đưa ra chiếc chén vàng của hòa bình",
+      "age_vi": "22 tuổi",
+      "hair_vi": "mái tóc vàng-cát sáng màu đổ thành những sóng lãng mạn mềm ngang qua trán",
+      "build_vi": "thơ mộng, mảnh mai và quý phái — nữ hiệp sĩ khỏe khoắn đang trao chiếc chén"
     },
     {
       "n": "Q",
@@ -766,13 +1114,22 @@
       "count": {
         "n": 1,
         "obj": "chalice",
-        "layout": "exactly one lidded golden chalice; no other cup"
+        "layout": "exactly one lidded golden chalice; no other cup",
+        "obj_vi": "chén",
+        "layout_vi": "đúng một chiếc chén vàng có nắp; không có cốc nào khác"
       },
       "scene": "a youthful adult queen seated on a shell throne at the water's edge, her shoulders bare beneath wet platinum-blonde hair, wearing a gown of antique WHITE SILK GAUZE so sheer and transparent that the light shines through it and the long line of her body reads clearly beneath, holding one lidded golden chalice in her lap, sea foam and breaking waves behind her",
       "hair": "long shimmering platinum-blonde hair falling straight like water to her thighs",
       "build": "slender and ethereal, narrow waist, serene and mystical queenly beauty",
       "allure": "Raise the allure further: an unmistakably inviting presence. She holds a slow sidelong glance on the viewer, lips softly parted, the body turned to display the long line from shoulder to waist to hip, silk slipping as though about to fall, one hand lingering along her own throat, collarbone or thigh. Warm, sensual and inviting — never crude, never posed like a fashion photograph.",
-      "age": "23 years old"
+      "age": "23 years old",
+      "title_vi": "NỮ HOÀNG CỐC",
+      "emblem_vi": "chiếc chén có nắp giữa những con sóng",
+      "scene_vi": "một nữ hoàng trưởng thành trẻ trung ngồi trên ngai vỏ sò ở mép nước, bờ vai trần dưới mái tóc bạch kim ướt, mặc chiếc váy VOAN LỤA TRẮNG cổ mỏng và trong suốt đến mức ánh sáng xuyên qua nó và đường dài của cơ thể đọc rõ bên dưới, cầm một chiếc chén vàng có nắp đặt trên đùi, bọt biển và những con sóng vỡ phía sau",
+      "hair_vi": "mái tóc bạch kim lấp lánh dài thẳng như dòng nước đổ xuống tận đùi",
+      "build_vi": "mảnh mai và huyền ảo, eo thon, vẻ đẹp nữ hoàng thanh thản và huyền bí",
+      "age_vi": "23 tuổi",
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
     },
     {
       "n": "K",
@@ -784,12 +1141,20 @@
       "count": {
         "n": 1,
         "obj": "chalice",
-        "layout": "exactly one chalice; no other cup"
+        "layout": "exactly one chalice; no other cup",
+        "obj_vi": "chén",
+        "layout_vi": "đúng một chiếc chén; không có cốc nào khác"
       },
       "scene": "a serene 25-year-old oceanic queen on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance",
       "age": "25 years old",
       "hair": "deep-wave dark espresso hair crowned in sea-gold and pearls",
-      "build": "calm, statuesque oceanic sovereign with serene noble presence"
+      "build": "calm, statuesque oceanic sovereign with serene noble presence",
+      "title_vi": "VUA CỐC",
+      "emblem_vi": "chiếc chén giữa hai con cá",
+      "scene_vi": "một nữ vương đại dương 25 tuổi thanh thản trên ngai chầu trôi nổi giữa những con sóng lăn, tay cầm quyền trượng hoa sen và một chiếc chén vàng, một con cá heo đang nhảy phía xa",
+      "age_vi": "25 tuổi",
+      "hair_vi": "mái tóc espresso sẫm sóng sâu đội vương miện vàng biển và ngọc trai",
+      "build_vi": "điềm tĩnh, đồ sộ — nữ quân chủ đại dương với hiện diện quý phái thanh thản"
     },
     {
       "n": "A",
@@ -801,9 +1166,14 @@
       "count": {
         "n": 1,
         "obj": "sword",
-        "layout": "exactly one sword, upright in the divine hand; no second blade anywhere"
+        "layout": "exactly one sword, upright in the divine hand; no second blade anywhere",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng một thanh kiếm, dựng thẳng trong bàn tay thần thánh; không có lưỡi kiếm thứ hai ở bất cứ đâu"
       },
-      "scene": "a divine hand grasping one upright sword, a jeweled crown hovering at its tip, barren peaks below"
+      "scene": "a divine hand grasping one upright sword, a jeweled crown hovering at its tip, barren peaks below",
+      "title_vi": "ÁT KIẾM",
+      "emblem_vi": "một thanh kiếm dựng thẳng cùng vương miện",
+      "scene_vi": "một bàn tay thần thánh nắm một thanh kiếm dựng thẳng, một vương miện gắn đá lơ lửng ở mũi kiếm, những đỉnh núi trọc ở phía dưới"
     },
     {
       "n": "2",
@@ -815,12 +1185,20 @@
       "count": {
         "n": 2,
         "obj": "swords",
-        "layout": "exactly two long blades forming a single X across her chest, one over each shoulder; no third blade, no dagger at her belt"
+        "layout": "exactly two long blades forming a single X across her chest, one over each shoulder; no third blade, no dagger at her belt",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng hai lưỡi kiếm dài tạo thành một chữ X duy nhất ngang ngực cô, mỗi thanh vắng qua một bên vai; không có lưỡi thứ ba, không có dao găm ở thắt lưng"
       },
       "scene": "a blindfolded adult woman in a very thin veil of antique silk gauze, almost transparent, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her",
       "hair": "jet-black hair drawn back into a sleek, flawless high knot",
       "build": "slender, perfectly balanced, taut core and crossed arms holding dual blades",
-      "age": "21 years old"
+      "age": "21 years old",
+      "title_vi": "HAI KIẾM",
+      "emblem_vi": "hai thanh kiếm giao nhau",
+      "scene_vi": "một người phụ nữ trưởng thành bịt mắt trong lớp voan lụa cổ rất mỏng, gần như trong suốt, bờ vai trần, ngồi trên ghế đá bên bờ biển, hai thanh kiếm dài bắt chéo ngang ngực, mặt trăng đang mọc phía sau cô",
+      "hair_vi": "mái tóc đen tuyền vuốt ngược ra sau thành búi cao bóng mượt hoàn hảo",
+      "build_vi": "mảnh mai, cân đối hoàn hảo, lườn gọn và đôi tay khoanh giữ cặp kiếm",
+      "age_vi": "21 tuổi"
     },
     {
       "n": "3",
@@ -832,9 +1210,14 @@
       "count": {
         "n": 3,
         "obj": "swords",
-        "layout": "exactly three swords through one heart — one vertical from above and two angled from the left and right; three separate hilts clearly countable against the storm sky, 1, 2, 3"
+        "layout": "exactly three swords through one heart — one vertical from above and two angled from the left and right; three separate hilts clearly countable against the storm sky, 1, 2, 3",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng ba thanh kiếm đâm xuyên một trái tim — một thanh dọc từ phía trên và hai thanh nghiêng từ bên trái và bên phải; ba chuôi kiếm riêng biệt đếm rõ trên nền trời bão, 1, 2, 3"
       },
-      "scene": "a large anatomical heart pierced by three swords, rain and storm clouds behind"
+      "scene": "a large anatomical heart pierced by three swords, rain and storm clouds behind",
+      "title_vi": "BA KIẾM",
+      "emblem_vi": "ba thanh kiếm đâm xuyên một trái tim",
+      "scene_vi": "một trái tim giải phẫu lớn bị ba thanh kiếm đâm xuyên, phía sau là mưa và những đám mây bão"
     },
     {
       "n": "4",
@@ -846,12 +1229,20 @@
       "count": {
         "n": 4,
         "obj": "swords",
-        "layout": "exactly four swords: three mounted horizontally on the wall above him, stacked in a row of 3, plus one lying flat on the tomb slab beneath him — 3 + 1 = 4; all four blades complete and countable"
+        "layout": "exactly four swords: three mounted horizontally on the wall above him, stacked in a row of 3, plus one lying flat on the tomb slab beneath him — 3 + 1 = 4; all four blades complete and countable",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng bốn thanh kiếm: ba thanh gắn ngang trên tường phía trên cô, xếp thành một hàng 3, cộng một thanh nằm phẳng trên phiến mộ đá bên dưới cô — 3 + 1 = 4; cả bốn lưỡi kiếm đều trọn vẹn và đếm được"
       },
       "scene": "a graceful adult woman in a flowing antique gown lying at rest on a stone tomb in a chapel, her hands folded, three swords mounted on the wall above her and one lying beneath her, a stained-glass window behind",
       "hair": "deep sable hair spread neatly around her resting head on stone",
       "age": "22 years old",
-      "build": "slender, peaceful reclined effigy silhouette in sacred stillness"
+      "build": "slender, peaceful reclined effigy silhouette in sacred stillness",
+      "title_vi": "BỐN KIẾM",
+      "emblem_vi": "ba thanh kiếm trên tường, một thanh bên dưới",
+      "scene_vi": "một người phụ nữ trưởng thành duyên dáng trong chiếc váy cổ lộng lẫy đang nằm nghỉ trên một phiến mộ đá trong giáo đường, đôi tay chắp lại, ba thanh kiếm gắn trên tường phía trên cô và một thanh nằm bên dưới cô, phía sau là một cửa sổ kính màu",
+      "hair_vi": "mái tóc nâu chồn sẫm trải gọn gàng quanh đầu đang nghỉ trên đá",
+      "age_vi": "22 tuổi",
+      "build_vi": "mảnh mai, hình bóng tượng nằm nghỉ bình yên trong sự tĩnh lặng thánh thiện"
     },
     {
       "n": "5",
@@ -863,12 +1254,20 @@
       "count": {
         "n": 5,
         "obj": "swords",
-        "layout": "exactly five swords: three gathered in the victor's hands, held upright and fanned so all three hilts are separate, plus two lying abandoned in the sand behind him — 3 + 2 = 5"
+        "layout": "exactly five swords: three gathered in the victor's hands, held upright and fanned so all three hilts are separate, plus two lying abandoned in the sand behind him — 3 + 2 = 5",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng năm thanh kiếm: ba thanh được gom trong tay người thắng, cầm dựng và xòe ra để cả ba chuôi tách rời nhau, cộng hai thanh nằm bị bỏ lại trên cát phía sau cô — 3 + 2 = 5"
       },
       "scene": "a confident young woman holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand",
       "age": "22 years old",
       "hair": "wind-blown dark brown hair with a subtle confident smirk",
-      "build": "lean, agile and sharp-shouldered, turning with collected blades"
+      "build": "lean, agile and sharp-shouldered, turning with collected blades",
+      "title_vi": "NĂM KIẾM",
+      "emblem_vi": "năm thanh kiếm, hai thanh bị bỏ lại",
+      "scene_vi": "một cô gái trẻ tự tin cầm ba thanh kiếm vắng qua vai và nhìn hai bạn đồng hành nữ đang rút lui trên bờ biển bão tố, hai thanh kiếm nằm trên cát",
+      "age_vi": "22 tuổi",
+      "hair_vi": "mái tóc nâu sẫm bay trong gió cùng nụ cười mỉm tự tin thoắt qua",
+      "build_vi": "gọn gàng, nhanh nhẹn và vai sắc, đang xoay người với những lưỡi kiếm đã thu gom"
     },
     {
       "n": "6",
@@ -880,12 +1279,20 @@
       "count": {
         "n": 6,
         "obj": "swords",
-        "layout": "exactly six swords standing upright in the boat — three on the left of the passengers and three on the right, 3 + 3 = 6; evenly spaced, all six hilts above the gunwale, none crossing the figures"
+        "layout": "exactly six swords standing upright in the boat — three on the left of the passengers and three on the right, 3 + 3 = 6; evenly spaced, all six hilts above the gunwale, none crossing the figures",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng sáu thanh kiếm dựng thẳng trong thuyền — ba thanh bên trái hành khách và ba thanh bên phải, 3 + 3 = 6; cách đều nhau, cả sáu chuôi đều nhô cao hơn mạn thuyền, không thanh nào giao qua các nhân vật"
       },
       "scene": "a cloaked woman and a child being poled across a river by a ferryman, six swords upright along the boat",
       "hair": "light ash-brown hair gathered softly in a misty veil",
       "age": "21 years old",
-      "build": "slender, quiet passenger silhouette seated in the ferry boat"
+      "build": "slender, quiet passenger silhouette seated in the ferry boat",
+      "title_vi": "SÁU KIẾM",
+      "emblem_vi": "sáu thanh kiếm trên thuyền",
+      "scene_vi": "một người phụ nữ khoác áo choàng và một đứa trẻ được người lái đò chèo qua sông, sáu thanh kiếm dựng thẳng dọc thuyền",
+      "hair_vi": "mái tóc nâu-tro nhạt gom mềm trong lớp khăn che mờ sương",
+      "age_vi": "21 tuổi",
+      "build_vi": "mảnh mai, bóng dáng hành khách lặng lẽ ngồi trong thuyền đò"
     },
     {
       "n": "7",
@@ -897,12 +1304,20 @@
       "count": {
         "n": 7,
         "obj": "swords",
-        "layout": "five swords carried in his arms, held upright and fanned apart so that there are FOUR GAPS of clear sky between the five hilts — five hilts, four gaps — plus TWO swords planted upright in the grass behind him with ONE WIDE GAP of bare grass between them — two swords, one gap; 5 + 2 = 7. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is drawing FOUR swords planted in the grass instead of two. Plant exactly TWO in the grass, never four, and count them: 1, 2"
+        "layout": "five swords carried in his arms, held upright and fanned apart so that there are FOUR GAPS of clear sky between the five hilts — five hilts, four gaps — plus TWO swords planted upright in the grass behind him with ONE WIDE GAP of bare grass between them — two swords, one gap; 5 + 2 = 7. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is drawing FOUR swords planted in the grass instead of two. Plant exactly TWO in the grass, never four, and count them: 1, 2",
+        "obj_vi": "kiếm",
+        "layout_vi": "năm thanh kiếm được bế trong vòng tay cô, cầm dựng và xòe ra sao cho có BỐN KHE trời quang giữa năm chuôi kiếm — năm chuôi, bốn khe — cộng HAI thanh kiếm cắm dựng trên cỏ phía sau cô với MỘT KHE RỘNG cỏ trống giữa chúng — hai thanh, một khe; 5 + 2 = 7. LÁ BÀI NÀY ĐÃ TỪNG THẤT BẠI MỘT LẦN VÌ HIỆN THỊ CHÍN THANH KIẾM: lỗi thường gặp là vẽ BỐN thanh cắm trên cỏ thay vì hai. Hãy cắm đúng HAI thanh trên cỏ, không bao giờ bốn, và đếm chúng: 1, 2"
       },
       "scene": "a nimble young woman stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright",
       "age": "20 years old",
       "hair": "mischievous tousled dark chestnut hair",
-      "build": "light-footed, slender agile rogue build tiptoeing away"
+      "build": "light-footed, slender agile rogue build tiptoeing away",
+      "title_vi": "BẢY KIẾM",
+      "emblem_vi": "bảy thanh kiếm, hai thanh bị bỏ lại",
+      "scene_vi": "một cô gái trẻ nhanh nhẹn đang lén bế năm thanh kiếm trong vòng tay trong khi ngoái nhìn lại một doanh trại quân sự nơi hai thanh kiếm vẫn cắm dựng",
+      "age_vi": "20 tuổi",
+      "hair_vi": "mái tóc nâu hạt dẻ sẫm rối tinh nghịch",
+      "build_vi": "bước chân nhẹ, thể ngoại hình lanh lợi mảnh mai đang nhón gót lẻn đi"
     },
     {
       "n": "8",
@@ -914,12 +1329,20 @@
       "count": {
         "n": 8,
         "obj": "swords",
-        "layout": "eight swords planted in one open ring around her — THREE in front of her with two gaps between them, ONE at her left side, ONE at her right side, THREE behind her with two gaps between them; 3 + 1 + 1 + 3 = 8. Walk the ring and count the eight gaps of bare ground between neighbours: 1, 2, 3, 4, 5, 6, 7, 8. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is adding one extra sword to the group behind her. Keep the group behind her at exactly THREE"
+        "layout": "eight swords planted in one open ring around her — THREE in front of her with two gaps between them, ONE at her left side, ONE at her right side, THREE behind her with two gaps between them; 3 + 1 + 1 + 3 = 8. Walk the ring and count the eight gaps of bare ground between neighbours: 1, 2, 3, 4, 5, 6, 7, 8. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is adding one extra sword to the group behind her. Keep the group behind her at exactly THREE",
+        "obj_vi": "kiếm",
+        "layout_vi": "tám thanh kiếm cắm thành một vòng tròn mở quanh cô — BA thanh phía trước cô với hai khe giữa chúng, MỘT thanh bên trái cô, MỘT thanh bên phải cô, BA thanh phía sau cô với hai khe giữa chúng; 3 + 1 + 1 + 3 = 8. Hãy đi một vòng và đếm tám khoảng đất trống giữa các thanh láng giềng: 1, 2, 3, 4, 5, 6, 7, 8. LÁ BÀI NÀY ĐÃ TỪNG THẤT BẠI MỘT LẦN VÌ HIỆN THỊ CHÍN THANH KIẾM: lỗi thường gặp là thêm một thanh kiếm thừa vào nhóm phía sau cô. Giữ nhóm phía sau cô ở đúng BA thanh"
       },
       "scene": "a blindfolded woman in a flowing gown loosened from one shoulder and loosely bound, standing in a ring of eight swords, a fortress on the cliff behind",
       "hair": "dark brown hair bound loosely with a crimson ribbon",
       "age": "20 years old",
-      "build": "slender, delicate and vulnerable silhouette surrounded by upright blades"
+      "build": "slender, delicate and vulnerable silhouette surrounded by upright blades",
+      "title_vi": "TÁM KIẾM",
+      "emblem_vi": "tám thanh kiếm thành vòng tròn",
+      "scene_vi": "một người phụ nữ bịt mắt trong chiếc váy lộng nới lỏng tuột khỏi một bên vai và bị trói lỏng, đứng trong vòng tròn tám thanh kiếm, một pháo đài trên vách đá phía sau",
+      "hair_vi": "mái tóc nâu sẫm buộc lỏng bằng ruy băng đỏ thẫm",
+      "age_vi": "20 tuổi",
+      "build_vi": "mảnh mai, bóng dáng thanh tao và mong manh bị bao quanh bởi những lưỡi kiếm dựng"
     },
     {
       "n": "9",
@@ -931,13 +1354,22 @@
       "count": {
         "n": 9,
         "obj": "swords",
-        "layout": "exactly nine swords mounted on the dark wall in three rows of three — 3 + 3 + 3 = 9; a neat 3 x 3 grid of horizontal blades, all nine countable, none hidden behind her head or hands"
+        "layout": "exactly nine swords mounted on the dark wall in three rows of three — 3 + 3 + 3 = 9; a neat 3 x 3 grid of horizontal blades, all nine countable, none hidden behind her head or hands",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng chín thanh kiếm gắn trên bức tường tối thành ba hàng mỗi hàng ba — 3 + 3 + 3 = 9; một lưới 3 x 3 ngay ngắn gồm những lưỡi kiếm nằm ngang, cả chín thanh đều đếm được, không thanh nào bị che sau đầu hay tay cô"
       },
       "scene": "a distressed woman sitting up in bed at night, her bare shoulder and back above the sheet, face in her hands, nine swords mounted in rows on the dark wall",
       "hair": "long black hair falling in sorrowful waves over her weeping hands",
       "allure": "a sorrow that is still deeply desirable: the sheet has slipped so the whole long line of her back and the curve of her hip lie bare, her lips softly parted, her eyes heavy and downcast rather than screwed shut, one hand resting on her own bare thigh or at the hollow of her throat, her body turned to show the line from shoulder to waist to hip even as she bows her head — the beauty of a desirable woman in the small hours, never a contorted grimace, never a wail",
       "age": "22 years old",
-      "build": "slender, delicate nightgown silhouette seated in emotional release"
+      "build": "slender, delicate nightgown silhouette seated in emotional release",
+      "title_vi": "CHÍN KIẾM",
+      "emblem_vi": "chín thanh kiếm trên tường",
+      "scene_vi": "một người phụ nữ đau khổ ngồi dậy trên giường vào ban đêm, vai và lưng trần nhô lên trên tấm ga, mặt úp vào đôi tay, chín thanh kiếm gắn thành hàng trên bức tường tối",
+      "hair_vi": "mái tóc đen dài đổ thành những sóng bi thương qua đôi tay đang khóc",
+      "age_vi": "22 tuổi",
+      "allure_vi": "một nỗi buồn vẫn đầy sức cám dỗ: tấm ga đã trượt đi để cả đường dài của lưng và đường cong hông của cô phơi trần, môi hé mềm, đôi mắt nặng trĩu và cúi xuống thay vì nhắm tịt, một tay đặt lên đùi trần của chính mình hoặc ngay hõm cổ, cơ thể xoay để khoe đường từ vai tới eo tới hông ngay cả khi cô cúi đầu — vẻ đẹp của một người phụ nữ đáng mơ ước trong giờ khuya, không bao giờ là nét mặt nhăn nhăn nhó, không bao giờ là tiếng gào khóc",
+      "build_vi": "mảnh mai, hình bóng váy ngủ thanh tao ngồi trong cơn giải tỏa cảm xúc"
     },
     {
       "n": "10",
@@ -949,12 +1381,20 @@
       "count": {
         "n": 10,
         "obj": "swords",
-        "layout": "exactly ten swords planted along the back in two staggered rows of five — 5 + 5 = 10; all ten hilts countable in a row from shoulder to hip, evenly spaced, none overlapping"
+        "layout": "exactly ten swords planted along the back in two staggered rows of five — 5 + 5 = 10; all ten hilts countable in a row from shoulder to hip, evenly spaced, none overlapping",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng mười thanh kiếm cắm dọc theo sống lưng thành hai hàng so le mỗi hàng năm thanh — 5 + 5 = 10; cả mười chuôi kiếm đếm được thành một hàng từ vai tới hông, cách đều nhau, không thanh nào chồng nhau"
       },
       "scene": "a peaceful young woman lying draped in crimson silk on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters",
       "age": "23 years old",
       "hair": "dark silky hair strewn across shoreline sand",
-      "build": "lean peaceful reclining maiden silhouette bathed in golden morning horizon light"
+      "build": "lean peaceful reclining maiden silhouette bathed in golden morning horizon light",
+      "title_vi": "MƯỜI KIẾM",
+      "emblem_vi": "mười thanh kiếm dọc một sống lưng",
+      "scene_vi": "một cô gái trẻ bình yên nằm khoác lụa đỏ thẫm trên bờ biển lúc bình minh dưới mười thanh kiếm dựng thẳng, nắng vàng xuyên quẩy ngang mặt nước tối",
+      "age_vi": "23 tuổi",
+      "hair_vi": "mái tóc đen mượt như lụa rải trên nền cát bờ biển",
+      "build_vi": "hình bóng trinh nữ nằm nghiêng gọn gàng và bình yên ngâm trong ánh chân trời buổi sớm vàng"
     },
     {
       "n": "P",
@@ -966,12 +1406,20 @@
       "count": {
         "n": 1,
         "obj": "sword",
-        "layout": "exactly one sword, gripped in both hands; no dagger, no second blade"
+        "layout": "exactly one sword, gripped in both hands; no dagger, no second blade",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng một thanh kiếm, nắm bằng cả hai tay; không dao găm, không lưỡi thứ hai"
       },
       "scene": "an alert young woman page in a flowing cape on a windy mound holding one raised sword with both hands",
       "hair": "windswept honey-brown hair cut in a sharp feathered pixie cut",
       "age": "18 years old",
-      "build": "lithe, sharp and vigilant, athletic spring in her stance on rocky hill"
+      "build": "lithe, sharp and vigilant, athletic spring in her stance on rocky hill",
+      "title_vi": "PAGE KIẾM",
+      "emblem_vi": "thanh kiếm cắm lông vũ",
+      "scene_vi": "một cô thị nữ trẻ thận trọng trong chiếc áo choàng lộng lẫy trên một gò đồi đầy gió, cầm một thanh kiếm giơ cao bằng cả hai tay",
+      "hair_vi": "mái tóc nâu mật bay trong gió cắt kiểu pixie lông vũ sắc sảo",
+      "age_vi": "18 tuổi",
+      "build_vi": "mảnh dẻo, sắc sảo và cảnh giác, sự đàn hồi thể thao trong dáng đứng trên đồi đá"
     },
     {
       "n": "N",
@@ -983,12 +1431,20 @@
       "count": {
         "n": 1,
         "obj": "sword",
-        "layout": "exactly one sword, pointed forward like a lance; no other blade"
+        "layout": "exactly one sword, pointed forward like a lance; no other blade",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng một thanh kiếm, chĩa về phía trước như một ngọn giáo; không có lưỡi nào khác"
       },
       "scene": "a fierce 21-year-old female knight in gleaming steel armor charging on a galloping horse, sword held high into the storm winds",
       "age": "21 years old",
       "hair": "dark hair streaming wildly back from beneath an open winged helmet",
-      "build": "fierce, athletic female knight in full gallant charge"
+      "build": "fierce, athletic female knight in full gallant charge",
+      "title_vi": "HIỆP SĨ KIẾM",
+      "emblem_vi": "thanh kiếm trên con ngựa",
+      "scene_vi": "một nữ hiệp sĩ 21 tuổi dũng mãnh trong bộ giáp thép bóng loáng lao như bay trên con ngựa phi nước đại, thanh kiếm giơ cao vào giữa những cơn gió bão",
+      "age_vi": "21 tuổi",
+      "hair_vi": "mái tóc sẫm bay ngược cuồng dã từ bên dưới chiếc mũ giáp có cánh để mở",
+      "build_vi": "dữ dằn, thể thao — nữ hiệp sĩ trong cú xung phong hiên ngang"
     },
     {
       "n": "Q",
@@ -1000,13 +1456,22 @@
       "count": {
         "n": 1,
         "obj": "sword",
-        "layout": "exactly one upright sword; no other blade"
+        "layout": "exactly one upright sword; no other blade",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng một thanh kiếm dựng thẳng; không có lưỡi nào khác"
       },
       "scene": "a stern dignified adult queen whose body is wrapped in a single sheet of TRANSPARENT antique silk gauze, one shoulder and the curve of her breast left bare, posed with sensual grace yet enthroned with majesty, seated on a butterfly-carved stone throne above a sea of clouds, one upright sword held in her hand",
       "hair": "deep mahogany-red hair in an intricate woven crown braid",
       "allure": "a woman of strong character and unmistakable sensuality at once: she sits tall and unbowed on the throne, chin raised, her gaze level, keen and fearless — a spirited, sharp-eyed sovereign, not a meek one — while the transparent silk slides off one shoulder and over one thigh so the long line of the body shows, her lips softly parted, one hand resting along her own thigh, collarbone or loosened hair. Proud, alive and inviting — a queen with a temperament, never a placid ornament",
       "age": "24 years old",
-      "build": "statuesque, sharp profile, austere elegant collarbones, stern intellectual beauty"
+      "build": "statuesque, sharp profile, austere elegant collarbones, stern intellectual beauty",
+      "title_vi": "NỮ HOÀNG KIẾM",
+      "emblem_vi": "thanh kiếm quấn cành nguyệt quế",
+      "scene_vi": "một nữ hoàng trưởng thành nghiêm nghị đoan trang mà cơ thể được quấn trong duy nhất một tấm voan lụa cổ TRONG SUỐT, một bên vai và đường cong ngực phơi trần, tạo dáng với nét duyên dáng gợi cảm nhưng vẫn ngồi ngai đầy bệ vệ uy nghiêm, ngồi trên ngai đá chạm con bướm phía trên một biển mây, một thanh kiếm dựng thẳng trong tay bà",
+      "hair_vi": "mái tóc đỏ-gụ sẫm bện thành bím vương miện đan xen cầu kỳ",
+      "age_vi": "24 tuổi",
+      "allure_vi": "một người phụ nữ vừa có cá tính mãnh liệt vừa gợi cảm không thể nhầm: bà ngồi cao thẳng lưng không cúi trên ngai, cằm ngẩng lên, ánh mắt ngang tầm, sắc bén và không sợ hãi — một nữ quân chủ nhiệt huyết và mắt tinh, chứ không hề nhu nhược — trong khi lớp lụa trong suốt trượt khỏi một bên vai và qua một bên đùi để đường dài của cơ thể hiện ra, môi hé mềm, một tay đặt dọc theo đùi, xương đòn hoặc mái tóc buông của chính bà. Kiêu hãnh, rực sống và mời gọi — một nữ hoàng có khí chất, không bao giờ chỉ là vật trang trí hiền thục",
+      "build_vi": "đồ sộ, đường nét mặt sắc, xương đòn thanh nhã nghiêm nghị, vẻ đẹp trí tuệ lạnh lùng"
     },
     {
       "n": "K",
@@ -1018,12 +1483,20 @@
       "count": {
         "n": 1,
         "obj": "sword",
-        "layout": "exactly one upright sword; no other blade"
+        "layout": "exactly one upright sword; no other blade",
+        "obj_vi": "kiếm",
+        "layout_vi": "đúng một thanh kiếm dựng thẳng; không có lưỡi nào khác"
       },
       "scene": "a stern and majestic 25-year-old female supreme judge on a high stone throne, holding an upright sword of truth, clear blue skies behind",
       "age": "25 years old",
       "hair": "clean-cut raven hair crowned with sharp golden circlet",
-      "build": "tall, imposing, sharp-eyed judicial female ruler with blade upright"
+      "build": "tall, imposing, sharp-eyed judicial female ruler with blade upright",
+      "title_vi": "VUA KIẾM",
+      "emblem_vi": "thanh kiếm giữa hai cánh",
+      "scene_vi": "một nữ tối thượng phán quan 25 tuổi nghiêm nghị và hùng vĩ trên ngai đá cao, cầm thanh kiếm dựng thẳng của chân lý, sau lưng là bầu trời xanh trong vắt",
+      "age_vi": "25 tuổi",
+      "hair_vi": "mái tóc quạ cắt cúp gọn gàng đội vòng miện vàng sắc nét",
+      "build_vi": "cao, oai nghiêm, nữ cai trị tư pháp mắt sắc với lưỡi kiếm dựng thẳng"
     },
     {
       "n": "A",
@@ -1035,9 +1508,14 @@
       "count": {
         "n": 1,
         "obj": "pentacle coin",
-        "layout": "exactly one large golden pentacle coin in the divine hand; no other coin, no coins scattered in the garden"
+        "layout": "exactly one large golden pentacle coin in the divine hand; no other coin, no coins scattered in the garden",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng một đồng xu ngôi sao vàng lớn trong bàn tay thần thánh; không có đồng xu nào khác, không có xu nào rải rác trong vườn"
       },
-      "scene": "a divine hand offering one large golden pentacle coin over a lush garden gateway with lilies, mountains beyond"
+      "scene": "a divine hand offering one large golden pentacle coin over a lush garden gateway with lilies, mountains beyond",
+      "title_vi": "ÁT XU",
+      "emblem_vi": "một đồng xu ngôi sao trong bàn tay",
+      "scene_vi": "một bàn tay thần thánh trao một đồng xu ngôi sao vàng lớn phía trên một cổng vườn xum xuê với hoa huệ, những ngọn núi ở phía xa"
     },
     {
       "n": "2",
@@ -1049,12 +1527,20 @@
       "count": {
         "n": 2,
         "obj": "pentacle coins",
-        "layout": "exactly two coins, one at each end of the looping infinity ribbon, one in each hand; both discs fully visible against the sky, no third coin"
+        "layout": "exactly two coins, one at each end of the looping infinity ribbon, one in each hand; both discs fully visible against the sky, no third coin",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng hai đồng xu, một ở mỗi đầu của dải ruy băng vô cực xoay vòng, một trong mỗi bàn tay; cả hai đĩa đều thấy trọn trên nền trời, không có đồng thứ ba"
       },
       "scene": "a joyful 19-year-old young woman dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind",
       "age": "19 years old",
       "hair": "tousled sandy-gold curls bouncing with her dance",
-      "build": "agile, lithe and flexible young dancer balancing two coins in an infinity ribbon"
+      "build": "agile, lithe and flexible young dancer balancing two coins in an infinity ribbon",
+      "title_vi": "HAI XU",
+      "emblem_vi": "hai đồng xu và dải ruy băng vô cực",
+      "scene_vi": "một cô gái trẻ 19 tuổi hân hoan đang nhảy múa trên một sân thượng bên biển, tung hứng hai đồng xu ngôi sao vàng lồng trong một dải ruy băng vô cực với những con thuyền giữa sóng biển cuộn trào phía sau",
+      "age_vi": "19 tuổi",
+      "hair_vi": "những lọn xoăn vàng-cát xõa bay nảy theo nhịp nhảy của cô",
+      "build_vi": "nhanh nhẹn, mảnh dẻo và linh hoạt — vũ công trẻ thăng bằng hai đồng xu trong dải ruy băng vô cực"
     },
     {
       "n": "3",
@@ -1066,12 +1552,20 @@
       "count": {
         "n": 3,
         "obj": "pentacle coins",
-        "layout": "exactly three coins set into the stone arch above the sculptor — one at the apex and two at the springing points, 1 + 2 = 3; all three discs fully visible, none hidden by the arch's shadow"
+        "layout": "exactly three coins set into the stone arch above the sculptor — one at the apex and two at the springing points, 1 + 2 = 3; all three discs fully visible, none hidden by the arch's shadow",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng ba đồng xu gắn vào vòm đá phía trên nữ điêu khắc — một ở đỉnh vòm và hai ở hai điểm gối vòm, 1 + 2 = 3; cả ba đĩa đều thấy trọn, không đĩa nào bị bóng vòm che"
       },
       "scene": "a young woman sculptor in an open workshop apron slipping off one shoulder, hair loose, chiseling a column, a monk and an architect commenting, three coins set in the arch above",
       "hair": "dark auburn hair coiled in a practical braided crown",
       "age": "22 years old",
-      "build": "focused, toned artisan shoulders, sculpted hands crafting the cathedral"
+      "build": "focused, toned artisan shoulders, sculpted hands crafting the cathedral",
+      "title_vi": "BA XU",
+      "emblem_vi": "ba đồng xu trong một vòm",
+      "scene_vi": "một nữ điêu khắc viên còn trẻ trong chiếc tạp dề xưởng để hở trượt khỏi một bên vai, tóc xõa, đang đục một cây cột, một tu sĩ và một kiến trúc sư đang bình luận bên cạnh, ba đồng xu gắn trong vòm phía trên",
+      "hair_vi": "mái tóc nâu-đỏ trầm quấn thành vương miện bím thực tế",
+      "age_vi": "22 tuổi",
+      "build_vi": "tập trung, đôi vai thợ thủ công săn chắc, đôi bàn tay tạc điêu luyện đang tạo nên nhà thờ lớn"
     },
     {
       "n": "4",
@@ -1083,12 +1577,20 @@
       "count": {
         "n": 4,
         "obj": "pentacle coins",
-        "layout": "exactly four coins: one clutched to his chest, one balanced in his crown, two pressed beneath his feet — 1 + 1 + 2 = 4; all four discs fully visible, none buried in the ground or hidden by his robes"
+        "layout": "exactly four coins: one clutched to his chest, one balanced in his crown, two pressed beneath his feet — 1 + 1 + 2 = 4; all four discs fully visible, none buried in the ground or hidden by his robes",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng bốn đồng xu: một ôm chặt trước ngực, một thăng bằng trên vương miện, hai ép dưới chân cô — 1 + 1 + 2 = 4; cả bốn đĩa đều thấy trọn, không đồng nào bị chôn trong đất hay bị áo choàng che"
       },
       "scene": "a wealthy young woman seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet",
       "age": "24 years old",
       "hair": "neatly combed dark brown hair holding gold close",
-      "build": "solid, grounded seated posture guarding her wealth"
+      "build": "solid, grounded seated posture guarding her wealth",
+      "title_vi": "BỐN XU",
+      "emblem_vi": "bốn đồng xu, một đồng trên đầu",
+      "scene_vi": "một tiểu thư giàu có trẻ ngồi trên ghế đá, ôm một đồng xu ngôi sao vàng chặt vào ngực, một đồng đặt trên vương miện và hai đồng dưới chân cô",
+      "age_vi": "24 tuổi",
+      "hair_vi": "mái tóc nâu sẫm chải gọn gàng giữ khuất vàng sát người",
+      "build_vi": "vững chãi, dáng ngồi hạ trọng tâm canh giữ của cải của cô"
     },
     {
       "n": "5",
@@ -1100,12 +1602,20 @@
       "count": {
         "n": 5,
         "obj": "pentacle coins",
-        "layout": "exactly five glowing coins set in the tall stained-glass window in a quincunx — one at the top center, two on the middle row, two on the bottom row, 1 + 2 + 2 = 5; all five discs separate and countable"
+        "layout": "exactly five glowing coins set in the tall stained-glass window in a quincunx — one at the top center, two on the middle row, two on the bottom row, 1 + 2 + 2 = 5; all five discs separate and countable",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng năm đồng xu phát sáng gắn trong cửa sổ kính màu cao theo bố cục quincunx — một ở đỉnh chính giữa, hai ở hàng giữa, hai ở hàng dưới, 1 + 2 + 2 = 5; cả năm đĩa đều tách rời và đếm được"
       },
       "scene": "two ragged beggars passing a glowing church in the snow, five coins shining in the tall stained-glass window",
       "hair": "long windswept dark-brown hair catching falling snow",
       "age": "20 years old",
-      "build": "slender, shivering yet enduring silhouette under church window"
+      "build": "slender, shivering yet enduring silhouette under church window",
+      "title_vi": "NĂM XU",
+      "emblem_vi": "năm đồng xu trong cửa sổ nhà thờ",
+      "scene_vi": "hai kẻ ăn xin rách rưới đi ngang qua một nhà thờ rực sáng trong tuyết, năm đồng xu tỏa sáng trong cửa sổ kính màu cao",
+      "hair_vi": "mái tóc nâu sẫm dài bay trong gió hứng những bông tuyết rơi",
+      "age_vi": "20 tuổi",
+      "build_vi": "mảnh mai, bóng dáng run rẩy nhưng bền bỉ dưới cửa sổ nhà thờ"
     },
     {
       "n": "6",
@@ -1117,12 +1627,20 @@
       "count": {
         "n": 6,
         "obj": "pentacle coins",
-        "layout": "exactly six coins on the balance — three stacked in the left pan and three stacked in the right pan, 3 + 3 = 6; all six discs visible above the pan rims, no coins loose on the ground"
+        "layout": "exactly six coins on the balance — three stacked in the left pan and three stacked in the right pan, 3 + 3 = 6; all six discs visible above the pan rims, no coins loose on the ground",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng sáu đồng xu trên cán cân — ba xếp chồng trong đĩa bên trái và ba xếp chồng trong đĩa bên phải, 3 + 3 = 6; cả sáu đĩa đều nhìn thấy nhô lên trên vành đĩa cân, không có đồng nào vương vãi trên đất"
       },
       "scene": "a prosperous young woman in rich robes holding scales in one hand, distributing golden coins to two kneeling maidens",
       "age": "23 years old",
       "hair": "well-groomed golden-brown hair in merchant styling",
-      "build": "prosperous, upright dignified posture distributing coins"
+      "build": "prosperous, upright dignified posture distributing coins",
+      "title_vi": "SÁU XU",
+      "emblem_vi": "sáu đồng xu trên cán cân",
+      "scene_vi": "một tiểu thư trẻ thịnh vượng trong bộ trang phục giàu có một tay cầm cán cân, đang phân phát những đồng xu vàng cho hai thiếu nữ đang quỳ",
+      "age_vi": "23 tuổi",
+      "hair_vi": "mái tóc nâu-vàng chải chuốt gọn gàng theo phong cách thương nhân",
+      "build_vi": "thịnh vượng, dáng đứng thẳng đoan trang đang phân phát tiền xu"
     },
     {
       "n": "7",
@@ -1134,12 +1652,20 @@
       "count": {
         "n": 7,
         "obj": "pentacle coins",
-        "layout": "exactly seven coins growing on the vine — three on the left branch, three on the right branch, one at the top center, 3 + 3 + 1 = 7; all seven fully visible and un-occluded by leaves"
+        "layout": "exactly seven coins growing on the vine — three on the left branch, three on the right branch, one at the top center, 3 + 3 + 1 = 7; all seven fully visible and un-occluded by leaves",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng bảy đồng xu mọc trên dây leo — ba ở nhánh bên trái, ba ở nhánh bên phải, một ở đỉnh chính giữa, 3 + 3 + 1 = 7; cả bảy đều thấy trọn và không bị lá che"
       },
       "scene": "a patient young woman leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine",
       "age": "22 years old",
       "hair": "sweat-touched warm chestnut hair resting on hoe handle",
-      "build": "lean, hardworking farm-toned musculature, patient contemplative stance"
+      "build": "lean, hardworking farm-toned musculature, patient contemplative stance",
+      "title_vi": "BẢY XU",
+      "emblem_vi": "bảy đồng xu trên dây leo",
+      "scene_vi": "một cô gái trẻ kiên nhẫn tựa vào cây gậy làm vườn của mình, trầm ngâm ngắm bảy đồng xu ngôi sao vàng đang nở trên một dây leo xanh tươi tốt",
+      "age_vi": "22 tuổi",
+      "hair_vi": "mái tóc nâu hạt dẻ ấm hơi đẫm mồ hôi đặt tựa trên cán cuốc",
+      "build_vi": "gọn gàng, vóc dáng nông dân săn chắc vì lao động, dáng đứng trầm ngâm kiên nhẫn"
     },
     {
       "n": "8",
@@ -1151,12 +1677,20 @@
       "count": {
         "n": 8,
         "obj": "pentacle coins",
-        "layout": "exactly eight finished coins in ONE straight row of 8 along the front edge of the bench, evenly spaced and all eight countable; the blank stone disc she is chiseling is unfinished and bears no star, so it does NOT count and must not look like a coin"
+        "layout": "exactly eight finished coins in ONE straight row of 8 along the front edge of the bench, evenly spaced and all eight countable; the blank stone disc she is chiseling is unfinished and bears no star, so it does NOT count and must not look like a coin",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng tám đồng xu thành phẩm trong MỘT hàng thẳng gồm 8 dọc mép trước của băng ghế, cách đều nhau và cả tám đều đếm được; chiếc đĩa đá trống mà cô đang đục là chưa hoàn thiện và không mang ngôi sao, nên nó KHÔNG ĐƯỢC tính và không được trông giống một đồng xu"
       },
       "scene": "a young woman apprentice in an apron slipping off one shoulder, sleeves rolled, her chestnut hair pinned in a neat low chignon, chiseling a plain stone disc at a bench, eight coins in one row along the bench edge, a town through the window",
       "hair": "chestnut hair bound in a neat, focused low chignon",
       "age": "21 years old",
-      "build": "slender and meticulous, steady hands engraving coins at the workbench"
+      "build": "slender and meticulous, steady hands engraving coins at the workbench",
+      "title_vi": "TÁM XU",
+      "emblem_vi": "tám đồng xu thành một hàng",
+      "scene_vi": "một cô học việc trẻ trong tạp dề tuột khỏi một bên vai, tay áo xắn lên, tóc nâu hạt dẻ ghim thành búi thấp gọn gàng, đang đục một chiếc đĩa đá trơn ở băng ghế, tám đồng xu xếp thành một hàng dọc mép ghế, một thị trấn hiện qua ô cửa sổ",
+      "hair_vi": "mái tóc nâu hạt dẻ buộc thành búi thấp gọn gàng, tập trung",
+      "age_vi": "21 tuổi",
+      "build_vi": "mảnh mai và tỉ mỉ, đôi tay vững chãi khắc những đồng xu ở bàn làm việc"
     },
     {
       "n": "9",
@@ -1168,12 +1702,20 @@
       "count": {
         "n": 9,
         "obj": "pentacle coins",
-        "layout": "exactly nine coins fixed to the arbor beam in ONE row of 9, evenly spaced against open sky, all nine fully visible, none hidden by leaves or by her body — count them left to right: 1 to 9"
+        "layout": "exactly nine coins fixed to the arbor beam in ONE row of 9, evenly spaced against open sky, all nine fully visible, none hidden by leaves or by her body — count them left to right: 1 to 9",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng chín đồng xu gắn trên thanh xà của giàn leo trong MỘT hàng gồm 9, cách đều nhau trên nền trời mở, cả chín đều thấy trọn, không đồng nào bị che bởi lá hay bởi cơ thể cô — hãy đếm từ trái sang phải: từ 1 tới 9"
       },
       "scene": "an elegant woman in a sheer flowing gown that clings to breast and hip, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet",
       "hair": "long vine-dark espresso hair loosely curled with gold thread",
       "age": "23 years old",
-      "build": "graceful, refined aristocratic hourglass build in blooming grape vineyard"
+      "build": "graceful, refined aristocratic hourglass build in blooming grape vineyard",
+      "title_vi": "CHÍN XU",
+      "emblem_vi": "chín đồng xu trên giàn cây leo",
+      "scene_vi": "một quý bà thanh nhã trong chiếc váy mỏng bay bổng bám theo ngực và hông, một con chim ưng đậu trên bàn tay đeo găng của bà, tay kia đang chạm những chùm nho chín, chín đồng xu dọc theo thanh xà của giàn leo, một con ốc sên dưới chân bà",
+      "hair_vi": "mái tóc espresso sẫm màu dây dài xoăn lỏng quấn sợi chỉ vàng",
+      "age_vi": "23 tuổi",
+      "build_vi": "duyên dáng, thân hình đồng hồ cát quý tộc tinh tế trong vườn nho đang ra hoa"
     },
     {
       "n": "10",
@@ -1185,12 +1727,20 @@
       "count": {
         "n": 10,
         "obj": "pentacle coins",
-        "layout": "exactly ten coins on the wall in a Tree-of-Life pyramid — 4 on the bottom row, 3 above them, 2 above those, 1 at the apex, 4 + 3 + 2 + 1 = 10; all ten discs countable, none hidden behind the figures"
+        "layout": "exactly ten coins on the wall in a Tree-of-Life pyramid — 4 on the bottom row, 3 above them, 2 above those, 1 at the apex, 4 + 3 + 2 + 1 = 10; all ten discs countable, none hidden behind the figures",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng mười đồng xu trên tường theo hình kim tự tháp Cây Sự Sống — 4 ở hàng dưới cùng, 3 ở trên chúng, 2 ở trên tiếp, 1 ở đỉnh, 4 + 3 + 2 + 1 = 10; cả mười đĩa đều đếm được, không đồng nào bị che phía sau các nhân vật"
       },
       "scene": "a family hall — a patriarch seated, a couple standing with his hand at her waist, a child playing with two dogs — ten coins in a pyramid emblem on the wall behind them",
       "hair": "warm honey-brown hair in a thick braided crown",
       "age": "22 years old",
-      "build": "content, gentle matriarchal beauty surrounded by familial wealth"
+      "build": "content, gentle matriarchal beauty surrounded by familial wealth",
+      "title_vi": "MƯỜI XU",
+      "emblem_vi": "mười đồng xu theo hình kim tự tháp cây sự sống",
+      "scene_vi": "một sảnh gia đình — một ngài tộc trưởng đang ngồi, một cặp đôi đứng với bàn tay chàng đặt ở eo nàng, một đứa trẻ đang chơi với hai con chó — mười đồng xu xếp theo hình kim tự tháp trên bức tường phía sau họ",
+      "hair_vi": "mái tóc nâu mật ấm bện thành bím vương miện dày",
+      "age_vi": "22 tuổi",
+      "build_vi": "mãn nguyện, vẻ đẹp mẫu tử dịu dàng được bao quanh bởi của cải gia đình"
     },
     {
       "n": "P",
@@ -1202,12 +1752,20 @@
       "count": {
         "n": 1,
         "obj": "pentacle coin",
-        "layout": "exactly one large coin, held in both hands; no other coin anywhere"
+        "layout": "exactly one large coin, held in both hands; no other coin anywhere",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng một đồng xu lớn, cầm bằng cả hai tay; không có đồng nào khác ở bất cứ đâu"
       },
       "scene": "a studious young woman page in an open robe studying one large pentacle coin held in both hands, a plowed field behind her",
       "hair": "golden-blonde hair falling loose past shoulders, catching meadow sun",
       "age": "18 years old",
-      "build": "petite, earnest scholar-student frame, holding coin aloft with reverence"
+      "build": "petite, earnest scholar-student frame, holding coin aloft with reverence",
+      "title_vi": "PAGE XU",
+      "emblem_vi": "một đồng xu được hai tay nâng",
+      "scene_vi": "một cô thị nữ trẻ chăm học trong chiếc áo choàng hở đang ngắm nghiền ngẫm một đồng xu ngôi sao lớn cầm bằng cả hai tay, phía sau là cánh đồng đã cày xới",
+      "hair_vi": "mái tóc vàng óng buông xõa qua vai, hứng nắng đồng cỏ",
+      "age_vi": "18 tuổi",
+      "build_vi": "nhỏ nhắn, khung người học trò chân thành, giơ đồng xu lên cao đầy lòng thành kính"
     },
     {
       "n": "N",
@@ -1219,12 +1777,20 @@
       "count": {
         "n": 1,
         "obj": "pentacle coin",
-        "layout": "exactly one coin, resting in his open palm; no other coin"
+        "layout": "exactly one coin, resting in his open palm; no other coin",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng một đồng xu, đặt trong lòng bàn tay mở của cô; không có đồng nào khác"
       },
       "scene": "a steadfast 23-year-old female knight in dark armor holding a golden pentacle with calm reverence in a plowed field",
       "age": "23 years old",
       "hair": "dark bronze hair braided under an oak-leaf crested helmet",
-      "build": "sturdy, athletic female knight on a calm heavy warhorse"
+      "build": "sturdy, athletic female knight on a calm heavy warhorse",
+      "title_vi": "HIỆP SĨ XU",
+      "emblem_vi": "một đồng xu trên ngựa kéo",
+      "scene_vi": "một nữ hiệp sĩ 23 tuổi vững vàng trong bộ giáp sẫm màu cầm đồng xu ngôi sao vàng với sự thành kính điềm tĩnh trên cánh đồng đã cày xới",
+      "age_vi": "23 tuổi",
+      "hair_vi": "mái tóc nâu đồng sẫm bện dưới chiếc mũ giáp mào hình lá sồi",
+      "build_vi": "chắc khỏe, thể thao — nữ hiệp sĩ trên con chiến mã nặng nề điềm tĩnh"
     },
     {
       "n": "Q",
@@ -1236,12 +1802,20 @@
       "count": {
         "n": 1,
         "obj": "pentacle coin",
-        "layout": "exactly one coin, resting in her lap; no other coin"
+        "layout": "exactly one coin, resting in her lap; no other coin",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng một đồng xu, đặt trên đùi bà; không có đồng nào khác"
       },
       "scene": "a warm nude queen with a flower crown on a goat-carved throne, one breast bared, one pentacle resting in her lap, a rabbit in the garden",
       "hair": "deep chocolate hair with a ruddy golden sheen, crowned in blooming vines",
       "age": "24 years old",
-      "build": "voluptuous, maternal, generous warm feminine curves on carved beast throne"
+      "build": "voluptuous, maternal, generous warm feminine curves on carved beast throne",
+      "title_vi": "NỮ HOÀNG XU",
+      "emblem_vi": "một đồng xu điểm hoa hồng quấn quanh",
+      "scene_vi": "một nữ hoàng khỏa thân ấm áp đội vương miện hoa trên ngai chạm hình dê, hở một bên ngực, một đồng xu ngôi sao đặt trên đùi, một con thỏ trong khu vườn",
+      "hair_vi": "mái tóc sô-cô-la sẫm ánh huyết quang vàng, đội những dây leo đang nở hoa",
+      "age_vi": "24 tuổi",
+      "build_vi": "đầy đặn, mẫu tử, đường cong nữ tính ấm áp hào phóng trên ngai chạm thú"
     },
     {
       "n": "K",
@@ -1253,12 +1827,20 @@
       "count": {
         "n": 1,
         "obj": "pentacle coin",
-        "layout": "exactly one coin, held in one hand; no other coin"
+        "layout": "exactly one coin, held in one hand; no other coin",
+        "obj_vi": "đồng xu ngôi sao",
+        "layout_vi": "đúng một đồng xu, cầm trong một tay; không có đồng nào khác"
       },
       "scene": "a wealthy 25-year-old female queen of wealth seated on a bull-carved throne amid blooming grapevines and castle walls, holding a golden pentacle in her lap",
       "age": "25 years old",
       "hair": "dark wavy hair woven with golden laurel leaves and ripe grapes",
-      "build": "robust, wealthy sovereign seated comfortably in lush castle gardens"
+      "build": "robust, wealthy sovereign seated comfortably in lush castle gardens",
+      "title_vi": "VUA XU",
+      "emblem_vi": "một đồng xu phía trên đầu bò đực",
+      "scene_vi": "một nữ hoàng giàu có 25 tuổi trị vì của cải ngồi trên ngai chạm bò đực giữa những dây nho đang nở và những bức tường lâu đài, một đồng xu vàng đặt trên đùi bà",
+      "age_vi": "25 tuổi",
+      "hair_vi": "mái tóc sẫm gợn sóng đan những lá nguyệt quế vàng và những chùm nho chín",
+      "build_vi": "dẻo dai vững chãi, nữ vương giàu có ngồi thoải mái trong vườn lâu đài xum xuê"
     }
   ]
 }
