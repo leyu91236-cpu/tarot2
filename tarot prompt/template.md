@@ -18,11 +18,17 @@ At the lower part of the scene: the hand-lettered title "{TITLE}" in glowing ant
 Scene content:
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
+WARDROBE (HARD RULE): every female figure wears a MINIMALIST SHEER DIAPHANOUS SILK DRAPE — thin, translucent, body-hugging, sensual and revealing in the classical fine-art tradition; the silk color is per-card {WARDROBE}, harmonizing with the scene palette; knights keep their armor with a sheer silk under-drape accent.
+
 Depth layering: paint the scene first covering the whole canvas, then draw the thin double golden line-art border and the four corner flourishes ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
 
 STRICT ANATOMY (HARD RULE): exactly two arms, two legs, one head and one torso per character; every joint (shoulder, elbow, wrist, hip, knee, ankle) must connect naturally to the body — NO extra limbs, NO limbs fused into the ribs, hip, chest or back, NO missing/amputated arms, NO deformed joints, NO wrong finger counts. Keep both arms clearly separated from the torso with visible armpits, elbows and wrists.
 
-Sensual fine-art anatomy, painterly warm oil-painting lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical thin golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage classical oil-painting fine-art illustration, high detail.
+CLEAN FRAME (HARD RULE): the thin golden border lines must be perfectly clean, smooth, grain-free and continuous — NO noise, NO speckles, NO broken or jittery strokes on the frame, NO texture bleeding onto the border; corner flourishes crisp and symmetrical.
+
+MAXIMUM MICRO-DETAIL (HARD): push fine detail to the limit — individually resolvable eyelashes and layered iris texture, catchlights in the eyes, fine strands of hair, silk thread weave in fabrics, subtle skin pores with soft subsurface glow, crisp jewelry and emblem edges, stone and plant textures, clean sharp lettering contours.
+
+Sensual fine-art anatomy, painterly warm oil-painting lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical thin golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage classical oil-painting fine-art illustration, 4K UHD, ultra high definition, sharp focus, crisp textures.
 ```
 
 ---
@@ -38,11 +44,17 @@ Bên trong cảnh, ở vùng phía trên: {EMBLEM} được thể hiện như m�
 Nội dung cảnh:
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
+TRANG PHỤC (QUY TẮC CỨNG): mọi nhân vật nữ mặc GIẢI LỤA MỎNG MANH XUYÊN THẤU, TỐI GIẢN — mỏng, xuyên thấu, bám theo cơ thể, gợi cảm và hở hang theo truyền thống fine-art cổ điển; màu lụa riêng theo lá {WARDROBE}, hài hòa bảng màu cảnh; hiệp sĩ giữ giáp nhưng kèm lớp lụa mỏng điểm xuyến.
+
 Hiệu ứng phân lớp chiều sâu: vẽ cảnh trước, phủ kín toàn bộ canvas, sau đó vẽ đường viền vàng mảnh hình đường kép và bốn hoa văn góc ĐÈ LÊN TRÊN các mép của cảnh — đồ trang trí tiền cảnh chồng lên nội dung hậu cảnh để tạo cảm giác chiều sâu mạnh.
 
 GIẢI PHẪU NGHIÊM NGẶT (QUY TẮC CỨNG): mỗi nhân vật có đúng hai tay, hai chân, một đầu và một thân; mọi khớp (vai, khuỷu, cổ tay, hông, gối, cổ chân) phải nối tự nhiên với cơ thể — KHÔNG thừa chi, KHÔNG chi dính vào sườn, hông, ngực hay lưng, KHÔNG tay bị mất/cụt, KHÔNG khớp biến dạng, KHÔNG sai số lượng ngón tay. Giữ hai cánh tay tách rõ khỏi thân với nách, khuỷu và cổ tay nhìn thấy rõ.
 
-Giải phẫu fine-art gợi cảm, ánh sáng ấm kiểu tranh dầu vẽ trên những vùng bóng tinh tế, phối cảnh không khí giàu chiều sâu, khung vàng mảnh đối xứng, căn giữa hoàn hảo, khổ dọc tỉ lệ 7:12, minh họa fine-art tranh dầu cổ điển cổ kính, độ chi tiết cao.
+KHUNG SẠCH (QUY TẮC CỨNG): các đường viền vàng mảnh phải hoàn toàn sạch, mượt, không hạt nhiễu và liền mạch — KHÔNG noise, KHÔNG đốm lấm tấm, KHÔNG nét đứt gãy hay rung trên khung, KHÔNG texture chảy lem vào viền; hoa văn góc sắc nét và đối xứng.
+
+CHI TIẾT VI MÔ TỐI ĐA (CỨNG): đẩy chi tiết nhỏ lên mức tối đa — từng sợi lông mi và kết cấu mống mắt nhiều lớp, điểm phản quang trong mắt, từng sợi tóc mảnh, kết cấu sợi lụa trong vải, lỗ chân lông tinh tế với ánh sáng dưới da, cạnh trang sức và huy hiệu sắc nét, kết cấu đá và cây cỏ, nét chữ sạch sắc gọn.
+
+Giải phẫu fine-art gợi cảm, ánh sáng ấm kiểu tranh dầu trên những vùng bóng tinh tế, phối cảnh không khí giàu chiều sâu, khung vàng mảnh đối xứng, căn giữa hoàn hảo, khổ dọc tỉ lệ 7:12, minh họa fine-art tranh dầu cổ điển, 4K UHD, siêu nét, chi tiết cao, focus sắc, texture rõ.
 ```
 
 ---

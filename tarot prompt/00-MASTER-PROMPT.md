@@ -13,6 +13,7 @@ Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài
    * Kế thừa phong cách tạo hình sống động, gợi cảm và cổ điển từ tài liệu gốc `01-CARD-TABLE.md` (hình mẫu tiêu biểu như lá **The Empress**: *"a voluptuous nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her"*).
    * **100% Nhân vật nữ** trong độ tuổi thanh xuân từ **18 đến 25 tuổi**.
    * Mỗi lá bài giữ nét đặc trưng độc bản về vóc dáng (*slender, voluptuous, athletic, statuesque*), mái tóc và thần thái.
+   * **CHUẨN TRANG PHỤC (WARDROBE STANDARD — HARD RULE)**: mọi nhân vật nữ mặc **giải lụa MỎNG MANH XUYÊN THẤU, TỐI GIẢN** (*minimalist sheer diaphanous silk drape*) — quấn tối thiểu, bám theo đường cong, **gợi cảm, tạo cảm giác hở hang** đúng truyền thống fine-art cổ điển. **Màu lụa riêng theo từng lá** (định nghĩa tại khóa `wardrobe` / `wardrobe_vi` trong `cards.json`), hài hòa với bảng màu cảnh. Riêng các lá hiệp sĩ cần giáp (Knight): giữ giáp nhưng kèm giải lụa mỏng điểm xuyến dưới/bên ngoài giáp để hợp chuẩn chung.
    * **CẤM CƠ THỂ BỊ DI DẠNG (ANATOMY LOCK — HARD RULE)**: Mỗi nhân vật chỉ được có **tối đa 2 tay, 2 chân, 1 đầu, 1 thân**; mọi khớp (vai, khuỷu, cổ tay, hông, gối, cổ chân) phải nối tự nhiên với thân, **không thừa chi, không chi mọc dính vào sườn/hông/ngực, không tay cụt, không khớp biến dạng, không ngón tay sai số lượng**. Kiểm tra giải phẫu kỹ trước khi chốt ảnh: nếu thấy 3 tay / tay dính thân / chân sai khớp → **vẽ lại**, không chấp nhận bản lỗi. Ưu tiên tư thế 2 tay tách rõ khỏi thân (có nách, khuỷu, cổ tay rõ ràng) để giảm nguy cơ lỗi.
 
 3. **Cấu trúc 3 Lớp Chiều Sâu (3-Layer Depth — chuẩn Star v2)**:
@@ -37,5 +38,5 @@ Scene content:
 
 Depth layering: paint the scene first covering the whole canvas, then draw the thin double golden line-art border and the four corner flourishes ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
 
-Sensual fine-art anatomy, painterly warm oil-painting lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical thin golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage classical oil-painting fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm oil-painting lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical thin golden frame border (perfectly clean, grain-free, continuous lines — NO noise, NO speckles, NO broken strokes on the frame), maximum micro-detail (eyelashes, iris texture, hair strands, silk weave, skin pores, crisp emblem edges), perfectly centered, portrait orientation 7:12 aspect ratio, vintage classical oil-painting fine-art illustration, 4K UHD, ultra high definition, sharp focus, high detail.
 ```

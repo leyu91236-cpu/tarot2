@@ -40,3 +40,9 @@ tarot2/
 3. **Count Lock**: `count.n` trong `cards.json` là ràng buộc CỨNG về số lượng vật phẩm bộ bài
    (gậy/cốc/kiếm/xu); `count = null` nghĩa là không có vật phẩm bộ bài nào.
 4. **Nhân vật**: nữ, 18–25 tuổi; đặc trưng mắt/da/tóc/vóc dáng lấy theo `02-CHARACTER-SPECS.md`.
+5. **Chất lượng (Clean Frame + Micro-Detail)**: khung viền vàng phải sạch tuyệt đối (không noise/đốm/nét đứt);
+   chi tiết vi mô tối đa (lông mi, mống mắt, sợi tóc, kết cấu lụa, lỗ chân lông, cạnh trang sức);
+   phong cách kết xuất **4K UHD / ultra-detail / sharp focus** — quy định tại `template.md` (CLEAN FRAME + MAXIMUM MICRO-DETAIL).
+6. **Trang phục (Wardrobe)**: nhân vật nữ mặc **giải lụa mỏng manh, xuyên thấu, tối giản**, màu riêng
+   theo từng lá (khóa `wardrobe`/`wardrobe_vi` trong `cards.json`), gợi cảm tạo cảm giác hở hang
+   đúng truyền thống fine-art; hiệp sĩ kèm lụa mỏng điểm xuyến ngoài giáp.
