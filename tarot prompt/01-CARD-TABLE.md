@@ -1,5 +1,9 @@
 # 🌹 BẢNG THÔNG SỐ NHÂN VẬT — 72 NHÂN VẬT NỮ (QUYẾN RŨ · GỢI CẢM · GOTHIC FINE-ART)
 
+> **LƯU Ý SONG NGỮ:** các chuỗi **tiếng Anh** trong bảng (kiểu tóc, màu mắt...) là **dữ liệu prompt (bản EN)** —
+> cố tình giữ tiếng Anh vì model sinh ảnh hiểu tiếng Anh tốt hơn. Bản dịch tiếng Việt tương ứng của
+> `scene/hair/build/emblem` nằm trong `cards.json` dưới các khóa hậu tố `_vi`.
+
 > File **phát triển từ** `01-CARD-TABLE.md` (bảng chuẩn — nguồn gốc tuổi/tóc/vóc dáng/huy hiệu/tên)
 > và `tarot prompt/cards.json`. Tuổi được **giữ nguyên 100%** so với bảng chuẩn; kiểu tóc **giữ nguyên kiểu dáng & màu**
 > (chỉ gỡ từ ngữ chiến binh/thô cứng khỏi câu mô tả).
