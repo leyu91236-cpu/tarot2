@@ -18,7 +18,7 @@ At the lower part of the scene: the hand-lettered title "{TITLE}" in glowing ant
 Scene content:
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
-WARDROBE (HARD RULE): NO WARDROBE AT ALL — every female figure is fully UNCLOTHED, rendered as a pure CLASSICAL FINE-ART NUDE in the grand tradition of the museum masters (Ingres, Bouguereau, Cabanel); her hair always swept back behind her shoulders, never veiling her form; the body portrayed with the dignity, grace and luminous finish of great academic figure painting — majestic, serene, never vulgar; knightly figures too follow this rule (no armor).
+WARDROBE (HARD RULE): every female figure wears a MINIMALIST SHEER SILK DRAPE wrapped around the HIPS covering ONLY THE LOWER BODY, while THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); her hair always swept back behind her shoulders, never veiling her form; the silk color is per-card {WARDROBE}, harmonizing with the scene palette; knights keep their armor with a sheer silk wrap around the hips.
 
 FIGURE PORTRAIT (HARD RULE): render every female figure as a FINE-ART FIGURE PORTRAIT CELEBRATING THE BEAUTY OF THE FEMALE BODY — a 3/4-to-full-figure composition in the tradition of the classical nude-figure masters (Ingres, Bouguereau, Cabanel); the woman remains the undeniable visual heart of the card even amid complex scenery; graceful serene pose with elegant gesture, luminous skin rendered with soft subsurface-scatter glow, harmonious flowing proportions; the female form is honored as pure fine art — dignified, graceful, majestic, never vulgar.
 
@@ -46,7 +46,7 @@ Bên trong cảnh, ở vùng phía trên: {EMBLEM} được thể hiện như m�
 Nội dung cảnh:
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
-TRANG PHỤC (QUY TẮC CỨNG): KHÔNG TRANG PHỤC — mọi nhân vật nữ HOÀN TOÀN TRẦN, được dựng như NHÂN THỂ TRẦN FINE-ART CỔ ĐIỂN thuần túy theo truyền thống các bậc thầy bảo tàng (Ingres, Bouguereau, Cabanel); mái tóc luôn vuốt ra phía sau vai, không che cơ thể; thể hiện sự uy nghi, duyên dáng và làn da phát sáng của hội họa học viện đỉnh cao — tráng lệ, thảnh thơi, không dung tục; các lá hiệp sĩ cũng theo quy tắc này (không giáp).
+TRANG PHỤC (QUY TẮC CỨNG): mọi nhân vật nữ mặc GIẢI LỤA MỎNG MANH quấn quanh HÔNG — CHỈ CHE PHẦN DƯỚI CƠ THỂ, trong khi BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); mái tóc luôn vuốt ra phía sau vai, không che cơ thể; màu lụa riêng theo lá {WARDROBE}, hài hòa bảng màu cảnh; hiệp sĩ giữ giáp kèm lụa quấn hông.
 
 CHÂN DUNG NGHỆ THUẬT (QUY TẮC CỨNG): dựng mọi nhân vật nữ như một BỨC CHÂN DUNG NHÂN THỂ fine-art TÔN VINH VẺ ĐẸP CƠ THỂ PHỤ NỮ — bố cục chân dung từ 3/4 đến toàn thân theo truyền thống các bậc thầy nhân thể cổ điển (Ingres, Bouguereau, Cabanel); nhân vật luôn là trái tim thị giác của lá bài kể cả giữa cảnh vật phức tạp; tư thế yên quý, cử chỉ thanh nhã, da phát sáng mềm mại với tán sắc dưới da, tỷ lệ hài hòa miên man; cơ thể phụ nữ được tôn vinh như tác phẩm mỹ thuật thuần túy — yên quý, duyên dáng, tráng lệ, không dung tục.
 

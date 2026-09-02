@@ -8,7 +8,7 @@
     ],
     "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint.",
     "bilingual_note": "Song ngữ: các khóa có hậu tố _vi là bản TIẾNG VIỆT để đọc và chỉnh sửa; các khóa gốc (không hậu tố) là bản TIẾNG ANH dùng làm prompt sinh ảnh. Khóa title (EN) là chữ được IN LÊN lá bài — không đổi; title_vi chỉ là bản ghi chú tiếng Việt tham khảo.",
-    "wardrobe_note_vi": "ĐÃ GỠ: yếu tố trang phục bị loại bỏ hoàn toàn — nhân vật nữ là nhân thể trần cổ điển thuần túy (classical fine-art nude, truyền thống Ingres/Bouguereau/Cabanel); các lá hiệp sĩ cũng không còn ngoại lệ giáp."
+    "wardrobe_note_vi": "Chuẩn hiện hành: lụa quấn hông che phần dưới, BỘ NGỰC TRẦN fine-art cổ điển, tóc vuốt sau vai; màu lụa riêng từng lá."
   },
   "cards": [
     {
@@ -28,7 +28,9 @@
       "scene_vi": "một cô gái lang thang 19 tuổi vô tư, chỉ khoác lên người một lớp lụa mỏng trong suốt mỏng đến mức bám sát và lộ ra thân thể trần bên dưới, lớp lụa tuột khỏi một bên vai và bay phần phật phía sau, một bông hồng trắng giơ lên ở một tay và đôi mắt cúi xuống ngắm nhìn nó, bước nhẹ về phía mép vực, một chú chó nhỏ màu trắng nhảy cẫng bên gót chân nàng, những dãy núi xa xa dưới nắng mai vàng óng",
       "hair_vi": "mái tóc vàng mật ong gợn sóng buông thõng tới bả vai, bay trong gió, rực nắng và vô tư",
       "age_vi": "19 tuổi",
-      "build_vi": "nhỏ nhắn và mảnh mai, eo thon, sức sống trẻ trung cùng bước chân nhẹ nhàng, đàn hồi"
+      "build_vi": "nhỏ nhắn và mảnh mai, eo thon, sức sống trẻ trung cùng bước chân nhẹ nhàng, đàn hồi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer ivory-white silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer ivory-white silk"
     },
     {
       "n": "I",
@@ -53,7 +55,9 @@
       "scene_vi": "một nữ pháp sư trẻ khỏa thân, thân trên trần với một dải lụa quấn thấp qua hông, một tay giơ gậy lên trời còn tay kia chỉ xuống đất, chiếc bàn thờ trước mặt nàng bày một cốc, một thanh kiếm, một cây gậy và một đồng xu ngôi sao, phía sau là khu vườn hồng đen",
       "hair_vi": "mái tóc đen tuyền thẳng mượt buông dài quá eo như tấm rèm lụa bóng, rẽ ngôi giữa",
       "age_vi": "22 tuổi",
-      "build_vi": "dáng đồ sộ đầy uy quyền, tỉ lệ thon dài thanh nhã với tư thế đĩnh đạc"
+      "build_vi": "dáng đồ sộ đầy uy quyền, tỉ lệ thon dài thanh nhã với tư thế đĩnh đạc",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer jet-black silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer jet-black silk"
     },
     {
       "n": "II",
@@ -72,7 +76,9 @@
       "scene_vi": "một nữ tế khỏa thân thanh thản, bờ vai trần cùng đường cong mềm của bầu ngực chỉ được che bởi một lớp voan mỏng lành, ngồi giữa hai trụ đá, một cuộn sách huyền bí đặt trên đùi, một trăng lưỡi liềm bạc dưới chân",
       "hair_vi": "mái tóc nâu ánh đỏ trầm với những lọn sóng tự nhiên mềm mại, buông xuống bên dưới lớp khăn voan mỏng",
       "age_vi": "23 tuổi",
-      "build_vi": "thanh thản, mảnh mai và duyên dáng, cổ cao với những đường cong nữ tính cổ điển mềm mại"
+      "build_vi": "thanh thản, mảnh mai và duyên dáng, cổ cao với những đường cong nữ tính cổ điển mềm mại",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer midnight-blue gauze with silver shimmer",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer midnight-blue gauze with silver shimmer"
     },
     {
       "n": "III",
@@ -91,7 +97,9 @@
       "scene_vi": "một nữ hoàng khỏa thân thon thả, hở một bên ngực, tóc xõa đội vương miện hoa, nghiêng mình trên ngai nhung giữa những bông lúa chín vàng và trái cây, chiếc khiên hình trái tim của sao Kim dựa bên cạnh",
       "build_vi": "đầy đặn và quyến rũ, vòng một và vòng ba nữ tính tròn trịa, hiện diện rạng rỡ ấm áp của một nữ thần",
       "hair_vi": "mái tóc vàng óng màu lúa chín dày, đổ xuống cả hai vai thành những lọn xoăn mềm cài những bông hoa",
-      "age_vi": "24 tuổi"
+      "age_vi": "24 tuổi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer golden-cream silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer golden-cream silk"
     },
     {
       "n": "IV",
@@ -110,7 +118,9 @@
       "scene_vi": "một nữ hoàng đế 25 tuổi thanh thản nghiêng mình duyên dáng trên ngai đá chạm đầu cừu đực, chỉ khoác lớp lụa mỏng trong suốt mỏng đến mức bám theo những đường cong mềm và rực ánh ấm trên làn da, tấm vải mỏng như tơ tuột khỏi một bên vai, một tay buông lỏng cầm quyền trượng ankh, phía sau là những ngọn núi trọc gồ ghề",
       "age_vi": "25 tuổi",
       "hair_vi": "mái tóc nâu đồng sẫm bóng mượt gợn sóng mềm, đội vòng miện vàng hình sừng cừu",
-      "build_vi": "duyên dáng, mềm mại và thanh nhã — một nữ quân chủ với những đường cong được tạc nhẹ nhàng và thần thái điềm tĩnh, dịu dàng"
+      "build_vi": "duyên dáng, mềm mại và thanh nhã — một nữ quân chủ với những đường cong được tạc nhẹ nhàng và thần thái điềm tĩnh, dịu dàng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer crimson-and-gold silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer crimson-and-gold silk"
     },
     {
       "n": "V",
@@ -129,7 +139,9 @@
       "scene_vi": "một nữ thượng tế huyền bí 24 tuổi thanh thản chỉ khoác lớp lụa đỏ mỏng trong suốt mỏng đến mức bám theo đường cong và rực ánh nến ấm trên da, lớp vải mỏng như tơ tuột khỏi một bên vai, giơ một tay ban phép lành, hai nữ thị vệ đang quỳ trước mặt bà, sau lưng là những cột trụ đền thánh",
       "age_vi": "24 tuổi",
       "hair_vi": "mái tóc nâu espresso gợn sóng dày buông xõa trên vai và lưng trần",
-      "build_vi": "cao, quý phái và thanh thản — nữ thượng tế với dáng đứng đoan trang đầy uy nghi"
+      "build_vi": "cao, quý phái và thanh thản — nữ thượng tế với dáng đứng đoan trang đầy uy nghi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer deep-red ceremonial silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer deep-red ceremonial silk"
     },
     {
       "n": "VI",
@@ -148,7 +160,9 @@
       "scene_vi": "một người đàn ông và một người phụ nữ khỏa thân nắm tay nhau đứng dưới một thiên thần lớn có cánh, cơ thể nàng xoay ba phần tư về phía người xem với dải lụa trượt xuống hông và bàn tay chàng đặt ở thắt lưng nàng, sau lưng nàng là cây trí thức có rắn quấn, sau lưng chàng là cây ngọn lửa",
       "hair_vi": "mái tóc nâu hạt dẻ ấm buộc lỏng thành búi lãng mạn với những lọn tơ mềm ôm gò má",
       "age_vi": "21 tuổi",
-      "build_vi": "hình bóng đồng hồ cát mảnh mai, eo mềm uyển chuyển, đường cong dịu dàng bên cạnh người yêu"
+      "build_vi": "hình bóng đồng hồ cát mảnh mai, eo mềm uyển chuyển, đường cong dịu dàng bên cạnh người yêu",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: her: sheer rose-gold silk — him: simple linen drape",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: her: sheer rose-gold silk — him: simple linen drape"
     },
     {
       "n": "VII",
@@ -167,7 +181,9 @@
       "scene_vi": "một nữ phu xe vai trần anh hùng quấn lụa trắng mỏng nhẹ không giáp, đứng thẳng trong cỗ xe đá giữa hai tượng nhân sư dưới tán mái đầy sao, sau lưng là một thành trì",
       "hair_vi": "mái tóc nâu chồn sẫm bện chặt thành một lọn bím dày đổ qua một bên vai",
       "age_vi": "22 tuổi",
-      "build_vi": "săn chắc và gọn gàng theo kiểu vận động viên, vai tạc và eo thắt, tư thế kiên quyết anh hùng"
+      "build_vi": "săn chắc và gọn gàng theo kiểu vận động viên, vai tạc và eo thắt, tư thế kiên quyết anh hùng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer pure-white silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer pure-white silk"
     },
     {
       "n": "VIII",
@@ -186,7 +202,9 @@
       "scene_vi": "một người phụ nữ khỏa thân đeo vòng hoa hồng, một gối nhấc lên, nghiêng sát vào để bình tĩnh khép hai hàm của một con sư tử vàng lớn, lưng trần cong và hông nàng rực nắng chiều thấp, biểu tượng vô cực phát sáng trên đầu nàng",
       "hair_vi": "mái tóc dài gợn sóng đỏ đồng bóng đổ xuống như bờm sư tử",
       "age_vi": "23 tuổi",
-      "build_vi": "mảnh dẻo mà khỏe, đường cơ nổi dọc sống lưng, đường cong mềm mại duyên dáng"
+      "build_vi": "mảnh dẻo mà khỏe, đường cơ nổi dọc sống lưng, đường cong mềm mại duyên dáng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer pale-rose silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer pale-rose silk"
     },
     {
       "n": "IX",
@@ -205,7 +223,9 @@
       "scene_vi": "một cô ẩn sĩ đứng trên đỉnh núi trọc dưới bầu trời đêm thăm thẳm đầy sao, giơ cao chiếc đèn lồng đang cháy tỏa ánh vàng ấm rực ra ngoài, chỉ khoác lớp voan lụa trắng mỏng lỏng lẻo tuột khỏi bờ vai trần và rủ thấp quanh hông, lưng trần cùng đường cong một bên ngực ẩn hiện trong ánh đèn vàng",
       "hair_vi": "mái tóc dài ánh bạc-tro huyền ảo buông xõa thành những sóng mềm",
       "age_vi": "23 tuổi",
-      "build_vi": "bóng dáng mảnh mai, huyền bí và thanh tao, dáng đứng thiền định tĩnh lặng"
+      "build_vi": "bóng dáng mảnh mai, huyền bí và thanh tao, dáng đứng thiền định tĩnh lặng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer pale grey-blue gauze",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer pale grey-blue gauze"
     },
     {
       "n": "X",
@@ -230,7 +250,9 @@
       "scene_vi": "một bánh xe vận mệnh vàng lớn khắc những chữ huyền bí, một nữ nhân sư có cánh thanh thản chỉ khoác lớp lụa mỏng trong suốt bám theo đường cong mềm và rực ánh ấm, ngồi dịu dàng trên đỉnh bánh xe, một tay buông nhẹ cầm một thanh kiếm dựng thẳng, một con rắn vàng vươn lên một bên và một vị thần đầu chó rừng ở bên kia, bốn nữ thần quan sát có cánh thanh nhã quấn lụa mỏng bay ngả nghiêng ở bốn góc",
       "age_vi": "22 tuổi",
       "hair_vi": "mái tóc vàng-hổ phách gợn sóng mềm, đội vòng nguyệt quế thiên thể thanh nhã",
-      "build_vi": "nữ thần hộ vệ có cánh duyên dáng, mềm mại và thanh thản với những đường cong tạc nhẹ và thần thái dịu dàng, mơ mộng"
+      "build_vi": "nữ thần hộ vệ có cánh duyên dáng, mềm mại và thanh thản với những đường cong tạc nhẹ và thần thái dịu dàng, mơ mộng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer white-gold silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer white-gold silk"
     },
     {
       "n": "XI",
@@ -255,7 +277,9 @@
       "scene_vi": "một nữ hoàng vai trần dáng đồ sộ, dải lụa mỏng trượt hẳn khỏi một bên vai phơi một bên ngực và một bên hông, một tay cầm kiếm dựng thẳng và tay kia cầm cán cân thăng bằng, ngồi trên ngai đá giữa các cột trụ",
       "hair_vi": "mái tóc đen quạ bóng mượt vuốt ngược sắc nét thành nửa đuôi ngựa búi cao bóng loáng",
       "age_vi": "24 tuổi",
-      "build_vi": "đồ sộ và uy nghi, xương đòn nổi rõ, lưng thẳng và tư thế nghiêm cân đối"
+      "build_vi": "đồ sộ và uy nghi, xương đòn nổi rõ, lưng thẳng và tư thế nghiêm cân đối",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer antique-white silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer antique-white silk"
     },
     {
       "n": "XII",
@@ -274,7 +298,9 @@
       "scene_vi": "một cô gái 21 tuổi khỏa thân thanh thản bị treo lộn ngược bởi một mắt cá vào một cây sống hình chữ thập, một chân co duyên dáng, quầng hào quang ánh vàng rực rỡ phát sáng quanh đầu nàng",
       "age_vi": "21 tuổi",
       "hair_vi": "mái tóc nâu vàng xõa rối đổ ngược theo trọng lực, rực sáng trong thứ ánh sáng kỳ ảo",
-      "build_vi": "thể chất vũ công trẻ gọn, mảnh dẻo và uyển chuyển, thần thái thanh thản an bình"
+      "build_vi": "thể chất vũ công trẻ gọn, mảnh dẻo và uyển chuyển, thần thái thanh thản an bình",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer pale-gold silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer pale-gold silk"
     },
     {
       "n": "XIII",
@@ -293,7 +319,9 @@
       "scene_vi": "một bóng dáng nữ tái nhợt 22 tuổi ấn tượng khoác lụa đen mỏng vừa che vừa phơi thân thể trần, cưỡi chiến mã đen điềm tĩnh, cầm lá cờ đen trang trí bông hồng trắng năm cánh, bình minh vàng rực sáng giữa hai tòa tháp đôi xa xa",
       "age_vi": "22 tuổi",
       "hair_vi": "mái tóc dài màu bạch kim nhạt buông xõa tự do",
-      "build_vi": "bóng dáng nữ cao, mảnh và đáng nể quấn trong lụa đen mỏng"
+      "build_vi": "bóng dáng nữ cao, mảnh và đáng nể quấn trong lụa đen mỏng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer jet-black silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer jet-black silk"
     },
     {
       "n": "XIV",
@@ -318,7 +346,9 @@
       "scene_vi": "một bóng hình có cánh duyên dáng tóc dài buông xõa, khoác lớp lụa mỏng trong suốt, ngồi thanh nhã trên tảng đá phủ rêu bên hồ với một chân thả xuống mặt nước, rót từ chiếc chén vàng nghiêng cao trên tay giơ lên trong khi tay kia cầm chiếc chén vàng thứ hai đặt ngay bên dưới miệng chén trên để miệng chén hứng dòng nước rơi, một dòng nước thẳng liền mạch đổ từ chén trên nghiêng xuống và chảy trọn vào trong miệng chén dưới, hoa diên vĩ nở quanh hồ, ánh sáng nâu đỏ và vàng đất ấm áp",
       "hair_vi": "mái tóc vàng-tro nhạt mảnh mịn lơ lửng không trọng lực trong không khí",
       "age_vi": "22 tuổi",
-      "build_vi": "thanh thoát và nhẹ như tổ tiên, chân tay dài thon, lưng cong mềm uyển chuyển, dáng đứng thiên thần duyên dáng"
+      "build_vi": "thanh thoát và nhẹ như tổ tiên, chân tay dài thon, lưng cong mềm uyển chuyển, dáng đứng thiên thần duyên dáng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer pearl-white silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer pearl-white silk"
     },
     {
       "n": "XV",
@@ -337,7 +367,9 @@
       "scene_vi": "một nữ đại ác quỷ có sừng và cánh khoác lụa đen mỏng ngồi trên bệ đá tối; bên cạnh bà, hai cô gái trẻ khỏa thân quyến rũ cong mình trong những sợi xích vàng, thân thể họ rực sáng trong bóng nến bên trong hang động hắc diện",
       "hair_vi": "mái tóc đen nửa đêm gợn sóng ngấm sắc đỏ rượu vang, hoang dã và bất trị",
       "age_vi": "21 tuổi",
-      "build_vi": "gợi cảm và đầy đặn, lưng cong và hông tròn mềm, hiện diện mê hồn đầy từ tính"
+      "build_vi": "gợi cảm và đầy đặn, lưng cong và hông tròn mềm, hiện diện mê hồn đầy từ tính",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer black silk with wine-red sheen",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer black silk with wine-red sheen"
     },
     {
       "n": "XVI",
@@ -356,7 +388,9 @@
       "scene_vi": "một tòa tháp đá cao bị một tia sét khúc khuỷu đánh trúng, vương miện vàng trên đỉnh đổ nhào trong ngọn lửa, hai cô gái trẻ thanh nhã đang rơi xuyên qua giông bão và tro bụi, thân thể họ được thắp sáng bởi ánh chớp chói lóa",
       "hair_vi": "mái tóc nâu hạt dẻ màu bão tố bị gió sấm thổi bay mạnh về phía sau",
       "age_vi": "20 tuổi",
-      "build_vi": "gọn và thể thao, thể chất nhào lộn linh hoạt cong mình giữa cú rơi"
+      "build_vi": "gọn và thể thao, thể chất nhào lộn linh hoạt cong mình giữa cú rơi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer storm-grey silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer storm-grey silk"
     },
     {
       "n": "XVII",
@@ -381,7 +415,9 @@
       "scene_vi": "một người phụ nữ khỏa thân đứng ngang eo trong hồ nước trong vào ban đêm, cơ thể cong ngửa và xoay ba phần tư về phía người xem, tóc ướt đổ dọc sống lưng, cả hai tay giơ lên đổ nước từ hai cái vò, một gối nhấc lên, một ngôi sao tám cánh lớn và bảy ngôi sao nhỏ hơn ở phía trên",
       "hair_vi": "mái tóc vàng nhạt lấp lánh rất dài, ướt và mượt như lụa, đổ dài qua một bên vai trần",
       "age_vi": "20 tuổi",
-      "build_vi": "thon và mảnh mai, eo nhỏ, đôi chân dài duyên dáng, tỉ lệ trinh nữ rực rỡ ánh sáng"
+      "build_vi": "thon và mảnh mai, eo nhỏ, đôi chân dài duyên dáng, tỉ lệ trinh nữ rực rỡ ánh sáng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: water-beaded hair and sheer pale-silver gauze (bare beneath)",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: water-beaded hair and sheer pale-silver gauze (bare beneath)"
     },
     {
       "n": "XVIII",
@@ -402,7 +438,9 @@
       "build_vi": "bóng dáng thủy tiên mảnh mai huyền bí, eo thanh tao và hông cong mềm",
       "hair_vi": "mái tóc đen ánh mực-xanh với những vệt highlight bạc lạnh, đổ như nước xuống tận hông",
       "age_vi": "21 tuổi",
-      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang.",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer silver-blue water gauze",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer silver-blue water gauze"
     },
     {
       "n": "XIX",
@@ -423,7 +461,9 @@
       "build_vi": "trẻ trung và đầy sức sống, làn da ửng nắng, đường cong nữ tính tràn năng lượng và vui vẻ",
       "hair_vi": "mái tóc vàng hướng dương rạng rỡ, những lọn xoăn nảy bồng bềnh cài những bông hoa đỏ",
       "age_vi": "19 tuổi",
-      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang.",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer scarlet silk sash and veil",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer scarlet silk sash and veil"
     },
     {
       "n": "XX",
@@ -442,7 +482,9 @@
       "scene_vi": "một nữ thiên thần có cánh thanh thản chỉ khoác lớp lụa mỏng trong suốt bám theo đường cong mềm và rực ánh ấm, nhẹ nhàng giơ cao chiếc kèn vàng mang lá cờ trắng; phía dưới, vươn lên từ mặt nước tĩnh lặng, ba cô gái trẻ xinh đẹp với đôi tay hé mở quay hướng về ánh thần thánh — một người da trắng tóc vàng óng buông dài, một người tông ấm với những lọn xoăn nâu-đỏ trầm, và một người da sẫm sâu với những lọn đen xoắn chặt — mỗi người một gương mặt và vóc dáng riêng biệt, mỗi người đều khoác lụa mỏng trong suốt",
       "hair_vi": "mái tóc vàng mật ong-hổ phách rực rỡ gợn sóng sáng bóng hứng những tia nắng vàng dịu",
       "age_vi": "22 tuổi",
-      "build_vi": "thiên thần có cánh duyên dáng, mềm mại và thanh thản với những đường cong tạc nhẹ và thần thái dịu dàng, ngưỡng vọng"
+      "build_vi": "thiên thần có cánh duyên dáng, mềm mại và thanh thản với những đường cong tạc nhẹ và thần thái dịu dàng, ngưỡng vọng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer white-gold silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer white-gold silk"
     },
     {
       "n": "XXI",
@@ -469,7 +511,9 @@
       "build_vi": "thể chất vũ công duyên dáng, mềm mại và thanh thản, đường cong dịu, dáng uyển chuyển mềm mại",
       "hair_vi": "mái tóc nâu sô-cô-la sẫm gợn sóng mềm trôi xoáy nhẹ cùng những dải ruy băng lụa tím",
       "age_vi": "22 tuổi",
-      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang.",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer white silk with violet ribbons",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer white silk with violet ribbons"
     },
     {
       "n": "A",
@@ -513,7 +557,9 @@
       "scene_vi": "một quý phu nhân thanh thản trên thành lũy, khoác lớp lụa mỏng trong suốt tuột khỏi một bên vai, quả địa cầu thế giới đặt trong một bàn tay với đôi mắt cúi xuống ngắm nhìn nó, một cây gậy dựng thẳng trong tay kia, cây gậy thứ hai cắm trên tường phía sau nàng",
       "hair_vi": "mái tóc nâu ánh đỏ trầm đổ thành những lọn xoắn dài buông lỏng qua một bên vai",
       "age_vi": "22 tuổi",
-      "build_vi": "mảnh mai, thanh thản và trầm tư, dáng đứng thẳng dịu dàng nhìn ra từ lan can"
+      "build_vi": "mảnh mai, thanh thản và trầm tư, dáng đứng thẳng dịu dàng nhìn ra từ lan can",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer russet-brown silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer russet-brown silk"
     },
     {
       "n": "3",
@@ -538,7 +584,9 @@
       "scene_vi": "một nữ thương nhân thanh thản được nhìn từ phía sau trên một mũi đá cao, đứng thẳng với đường lưng dài quay về phía ta, chỉ khoác lớp lụa mỏng trong suốt bám sát phơi đường cong mềm và bay trong gió biển, một tay đặt cao trên cây gậy bên cạnh còn tay kia giơ lên che mắt khi nàng dõi nhìn xa ra khơi, ba cây gậy cắm dựng thành một hàng quanh nàng, những thuyền buồm trên biển vàng",
       "hair_vi": "mái tóc nâu caramel ấm bện lỏng cùng dây thừng vàng",
       "age_vi": "23 tuổi",
-      "build_vi": "cao và đồ sộ, đường lưng dài hướng về chân trời"
+      "build_vi": "cao và đồ sộ, đường lưng dài hướng về chân trời",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer amber-gold silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer amber-gold silk"
     },
     {
       "n": "4",
@@ -565,7 +613,9 @@
       "hair_vi": "mỗi vũ công một vẻ: một người tóc vàng mật buông dài, một người những lọn đen xoắn chặt",
       "build_vi": "cả hai đều mảnh dẻo và rạo rực lễ hội, eo vũ công hân hoan và đôi tay giơ duyên dáng, gương mặt và vóc dáng khác biệt",
       "age_vi": "20 tuổi",
-      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang.",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: both dancers: sheer ivory silk (one warm-gold, one rosy)",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: both dancers: sheer ivory silk (one warm-gold, one rosy)"
     },
     {
       "n": "5",
@@ -590,7 +640,9 @@
       "scene_vi": "năm cô gái trẻ thanh nhã khoác những lớp lụa mỏng trong suốt đứng thành một vòng tròn lỏng trên đồng cỏ mềm, mỗi người một vẻ riêng biệt và tất cả đều mang tông da sáng — một người da trắng sứ với tóc vàng bạch kim dài, một người da ngà ửng hồng với tóc đỏ đồng gợn sóng, một người da ngà ấm với tóc nâu sô-cô-la sẫm, một người da trắng với tóc đen quạ thẳng, và một người da vàng nhạt với tóc vàng-dâu — mỗi người cầm đúng một cây gậy cắm dựng bên cạnh mình",
       "age_vi": "21 tuổi",
       "hair_vi": "mỗi người một vẻ: một người vàng, một người lọn nâu-đỏ trầm, một người đen xoắn chặt, một người đen thẳng, một người gợn sóng đồng",
-      "build_vi": "tất cả đều mảnh mai, duyên dáng và nhẹ nhàng với gương mặt và vóc dáng riêng, dáng đứng như đang nhẩm nhịp nhảy"
+      "build_vi": "tất cả đều mảnh mai, duyên dáng và nhẹ nhàng với gương mặt và vóc dáng riêng, dáng đứng như đang nhẩm nhịp nhảy",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: each: sheer silk in cream / rose / honey / pearl / peach",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: each: sheer silk in cream / rose / honey / pearl / peach"
     },
     {
       "n": "6",
@@ -615,7 +667,9 @@
       "scene_vi": "một người phụ nữ thanh thản cưỡi ngựa trắng, khoác lớp lụa mỏng trong suốt, một vòng nguyệt quế trên trán, một cây gậy đội vương miện giơ nhẹ trong tay, năm người hâm mộ phía sau nàng mỗi người cầm một cây gậy",
       "hair_vi": "mái tóc vàng mật bay mềm trong gió",
       "age_vi": "22 tuổi",
-      "build_vi": "duyên dáng, đĩnh đạc và thanh thản, tư thế cưỡi ngựa thanh nhã trên lưng ngựa"
+      "build_vi": "duyên dáng, đĩnh đạc và thanh thản, tư thế cưỡi ngựa thanh nhã trên lưng ngựa",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer laurel-white silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer laurel-white silk"
     },
     {
       "n": "7",
@@ -640,7 +694,9 @@
       "scene_vi": "một cô gái trẻ thanh thản đứng trên đỉnh vách cao, khoác lớp lụa mỏng trong suốt, cả hai tay nhẹ nhàng nắm một cây gậy lớn, sáu cây gậy vươn lên từ phía dưới",
       "age_vi": "21 tuổi",
       "hair_vi": "mái tóc espresso sẫm đổ thành những lọn xoăn mềm buông lỏng",
-      "build_vi": "mảnh mai, thanh thản và duyên dáng, dáng đứng điềm tĩnh sẵn sàng"
+      "build_vi": "mảnh mai, thanh thản và duyên dáng, dáng đứng điềm tĩnh sẵn sàng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer warm stone-grey silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer warm stone-grey silk"
     },
     {
       "n": "8",
@@ -684,7 +740,9 @@
       "scene_vi": "một cô gái trẻ thanh thản khoác lớp lụa mỏng trong suốt, nhẹ nhàng đặt đôi tay lên một cây gậy đứng sừng sững, tám cây gậy dựng sau lưng nàng như một hàng rào",
       "age_vi": "24 tuổi",
       "hair_vi": "mái tóc nâu sẫm buông xõa thành những sóng mềm",
-      "build_vi": "mảnh mai, thanh thản và cảnh giác, dáng đứng nhẹ nhàng điềm tĩnh"
+      "build_vi": "mảnh mai, thanh thản và cảnh giác, dáng đứng nhẹ nhàng điềm tĩnh",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer moss-grey silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer moss-grey silk"
     },
     {
       "n": "10",
@@ -709,7 +767,9 @@
       "scene_vi": "một cô gái 23 tuổi thanh thản nghiêng mình duyên dáng trên thảm cỏ mềm, khỏa thân chỉ có lớp lụa mỏng trong suốt phủ ngang dáng, đang nghỉ bên một tảng đá lớn; tựa vào tảng đá phía sau nàng là một bó tự nhiên gồm mười cây gậy gỗ dài buộc lỏng ở giữa bằng một sợi dây mảnh, các đầu trên xòe ra thành một quạt tự nhiên như chiếc quạt tay mở, mọi cây gậy cùng độ dài và độ dày, cách đều nhau với một khe trời rõ ràng giữa mỗi thân gậy, cả mười ngọn đều tách rời và đếm được, các đầu dưới gom lại trong cỏ, không cây nào giao nhau, không cây nào bị che, phía xa là một lâu đài rực nắng",
       "age_vi": "23 tuổi",
       "hair_vi": "mái tóc nâu hạt dẻ buông xõa thành những sóng mềm",
-      "build_vi": "mảnh mai, duyên dáng và thanh thản, dáng dịu dàng vác theo bó gậy"
+      "build_vi": "mảnh mai, duyên dáng và thanh thản, dáng dịu dàng vác theo bó gậy",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer chestnut-cream silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer chestnut-cream silk"
     },
     {
       "n": "P",
@@ -734,7 +794,9 @@
       "scene_vi": "một cô thị nữ trưởng thành thanh thản đứng lùi sâu hơn trong phong cảnh để toàn thân nàng gọn nhỏ trong khung cảnh sa mạc rộng lớn, khoác lớp lụa mỏng trong suốt trượt khỏi một bên vai, cầm một cây gậy sống, phía sau là những cồn cát sa mạc và kim tự tháp",
       "hair_vi": "mái tóc đỏ-gừng mềm mại cắt kiểu bob có kết cấu mềm",
       "age_vi": "18 tuổi",
-      "build_vi": "nhỏ nhắn và thanh thản, khung người trẻ mảnh dẻ với dáng đứng dịu dàng"
+      "build_vi": "nhỏ nhắn và thanh thản, khung người trẻ mảnh dẻ với dáng đứng dịu dàng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer apricot silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer apricot silk"
     },
     {
       "n": "N",
@@ -759,7 +821,9 @@
       "scene_vi": "một nữ hiệp sĩ 22 tuổi thanh thản, gần như trần chỉ với một mảng lụa mỏng trong suốt phủ ngang dáng, cưỡi con ngựa trắng thuần điềm tĩnh đang nước kiệu tiến tới, cầm một cây gậy sống đang đâm chồi giơ ra phía trước, phía sau là đồng cỏ vàng và những ngọn đồi xa",
       "age_vi": "22 tuổi",
       "hair_vi": "những lọn xoăn nâu-vàng mềm buông dưới chiếc vương miện lông vũ thanh nhã",
-      "build_vi": "nữ hiệp sĩ mảnh mai, duyên dáng và thanh thản trên con bạch mã điềm tĩnh, gần như trần chỉ trong một mảng lụa mỏng"
+      "build_vi": "nữ hiệp sĩ mảnh mai, duyên dáng và thanh thản trên con bạch mã điềm tĩnh, gần như trần chỉ trong một mảng lụa mỏng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer white-gold silk (minimal wrap)",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer white-gold silk (minimal wrap)"
     },
     {
       "n": "Q",
@@ -784,7 +848,9 @@
       "scene_vi": "một nữ hoàng thanh thản tóc sẫm buông xõa ngồi trên ngai chạm sư tử, chỉ khoác lớp lụa mỏng trong suốt bám theo những đường cong mềm, một cây gậy hướng dương cầm nhẹ trong tay, một con mèo đen dưới chân bà, ngai của bà đặt ở rìa một rặng bạch dương mùa xuân tươi sáng — những thân bạch dương trắng thon, thảm cây xanh mềm và một thảm hoa dại cùng hoa hướng dương, nắng loang đổ xuyên qua những chiếc lá non",
       "hair_vi": "bờm tóc lộng lẫy màu đỏ-nâu rực gợn sóng đổ mềm qua vai",
       "age_vi": "24 tuổi",
-      "build_vi": "đầy đặn, thanh thản và ấm áp, dáng ngồi đĩnh đạc nhẹ nhàng trên ngai sư tử"
+      "build_vi": "đầy đặn, thanh thản và ấm áp, dáng ngồi đĩnh đạc nhẹ nhàng trên ngai sư tử",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer russet-red silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer russet-red silk"
     },
     {
       "n": "K",
@@ -809,7 +875,9 @@
       "scene_vi": "một nữ quân chủ 25 tuổi thanh thản đội vương miện chạm sư tử ngồi trên ngai chạm ngọn lửa, khoác lớp lụa mỏng trong suốt, cầm nhẹ một cây gậy đang nở hoa trong tay, ngai của bà đặt trong một khoảnh rừng sồi cổ thụ hùng vĩ — những thân sồi tối cao vút với nắng vàng ấm xuyên rủ xuống qua tán lá dày đặc, những luồng sáng hổ phách và những đốm than hồng vàng bay lơ lửng giữa những hàng cây",
       "age_vi": "25 tuổi",
       "hair_vi": "mái tóc nâu đồng sẫm vuốt ngược thành bím vương miện mềm điểm những dải ruy băng cam rực lửa",
-      "build_vi": "nữ vương cao quý duyên dáng, thanh thản và quý phái với thần thái dịu dàng"
+      "build_vi": "nữ vương cao quý duyên dáng, thanh thản và quý phái với thần thái dịu dàng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer deep-bronze silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer deep-bronze silk"
     },
     {
       "n": "A",
@@ -853,7 +921,9 @@
       "scene_vi": "một cô gái trẻ khỏa thân và một chàng trai khỏa thân đối diện nhau, cơ thể nàng xoay ba phần tư về phía người xem với một cánh tay vắt ngang ngực, mỗi người giơ một chiếc chén nâng ly, phía trên họ là trượng caduceus gắn đầu sư tử",
       "hair_vi": "mái tóc nâu-tro mềm đeo thành một lọn bím lãng mạn thấp đan xen",
       "age_vi": "21 tuổi",
-      "build_vi": "mảnh mai và duyên dáng, hình bóng cong nhẹ nghiêng vào nhau trong sự gần gũi"
+      "build_vi": "mảnh mai và duyên dáng, hình bóng cong nhẹ nghiêng vào nhau trong sự gần gũi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: her: sheer powder-rose silk — him: linen drape",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: her: sheer powder-rose silk — him: linen drape"
     },
     {
       "n": "3",
@@ -878,7 +948,9 @@
       "scene_vi": "ba thiếu nữ khỏa thân đội vòng hoa đang nhảy múa thành vòng tròn, cơ thể họ xoay hướng về ánh sáng, mỗi người giơ một chiếc chén, trái cây nằm rải trên mặt đất",
       "hair_vi": "tóc nâu sô-cô-la đậm, vàng óng và đồng đỏ phân bổ giữa ba thiếu nữ",
       "age_vi": "20 tuổi",
-      "build_vi": "hài hòa, đầy đặn, cùng nhảy múa với vẻ duyên dáng nữ tính hân hoan"
+      "build_vi": "hài hòa, đầy đặn, cùng nhảy múa với vẻ duyên dáng nữ tính hân hoan",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: three: sheer silk in cream, rose and peach",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: three: sheer silk in cream, rose and peach"
     },
     {
       "n": "4",
@@ -903,7 +975,9 @@
       "scene_vi": "một cô gái trẻ trầm ngâm ngồi dưới gốc cây, khoanh tay, ngắm nhìn ba chiếc cốc trên cỏ trong khi một bàn tay thiên thể trao chiếc cốc thứ tư từ đám mây",
       "age_vi": "22 tuổi",
       "hair_vi": "mái tóc gợn sóng sẫm màu đổ qua vai trong cơn trầm tư",
-      "build_vi": "mảnh mai, dáng ngồi thư giãn tựa vào gốc cây đang nở hoa"
+      "build_vi": "mảnh mai, dáng ngồi thư giãn tựa vào gốc cây đang nở hoa",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer willow-green summer silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer willow-green summer silk"
     },
     {
       "n": "5",
@@ -928,7 +1002,9 @@
       "scene_vi": "một người phụ nữ trưởng thành duyên dáng trong chiếc áo choàng tối trượt khỏi một bên vai trần, đứng cúi đầu quay lưng lại ánh sáng bên dòng sông, ba chiếc chén đổ rỗng lật úp ở tiền cảnh dưới chân cô, hai chiếc chén đầy vẫn đứng thẳng trên bờ phía sau cô",
       "hair_vi": "mái tóc nâu gụ dài buông xõa phủ xuống đôi vai khoác choàng",
       "age_vi": "22 tuổi",
-      "build_vi": "bóng dáng mảnh mai, trầm buồn với cái cổ cúi thanh tao"
+      "build_vi": "bóng dáng mảnh mai, trầm buồn với cái cổ cúi thanh tao",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: dark cloak over sheer ash-grey silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: dark cloak over sheer ash-grey silk"
     },
     {
       "n": "6",
@@ -953,7 +1029,9 @@
       "scene_vi": "hai cô gái trẻ thanh nhã trong những chiếc váy hè mỏng nhẹ trong một khu vườn sân cổ, đang trao nhau một chiếc chén đựng đầy hoa, năm chiếc nữa xếp dọc theo bức tường phía sau họ",
       "hair_vi": "mái tóc vàng nhạt búi kiểu vương miện trinh nữ thanh nhã",
       "age_vi": "19 tuổi",
-      "build_vi": "nhỏ nhắn, ngây thơ và thanh tao, dáng dịu dàng ngọt ngào"
+      "build_vi": "nhỏ nhắn, ngây thơ và thanh tao, dáng dịu dàng ngọt ngào",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer powder-blue summer silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer powder-blue summer silk"
     },
     {
       "n": "7",
@@ -978,7 +1056,9 @@
       "scene_vi": "một cô gái trẻ đang mê mải được nhìn từ phía sau, kinh ngạc ngắm bảy chiếc cốc lơ lửng giữa những đám mây rực sáng chứa những kho báu huyền bí",
       "age_vi": "21 tuổi",
       "hair_vi": "những lọn xoăn đen quạ trôi lềnh trong màn sương huyền bí",
-      "build_vi": "mảnh mai, dáng đứng mê mải với hai tay hơi giơ lên"
+      "build_vi": "mảnh mai, dáng đứng mê mải với hai tay hơi giơ lên",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer dream-violet gauze",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer dream-violet gauze"
     },
     {
       "n": "8",
@@ -1003,7 +1083,9 @@
       "scene_vi": "một cô gái đơn độc trong chiếc áo choàng đỏ thẫm đang bước rời đi với một cây gậy, bỏ lại tám chiếc cốc xếp chồng để lên đường về những đỉnh núi mờ sương dưới ánh trăng",
       "age_vi": "23 tuổi",
       "hair_vi": "mái tóc nâu sẫm nép dưới lớp áo choàng viễn hành",
-      "build_vi": "bóng dáng kẻ lang thang gọn gàng, lưng kiên quyết quay về phía những ngọn núi"
+      "build_vi": "bóng dáng kẻ lang thang gọn gàng, lưng kiên quyết quay về phía những ngọn núi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: crimson cloak over sheer dove-grey silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: crimson cloak over sheer dove-grey silk"
     },
     {
       "n": "9",
@@ -1028,7 +1110,9 @@
       "scene_vi": "một người phụ nữ trưởng thành mãn nguyện, vai trần, ngồi ở bàn tiệc, lụa tuột khỏi một bên vai, trước chín chiếc chén vàng được sắp đầy tự hào thành một lưới ngay ngắn trên giá phía sau cô",
       "hair_vi": "mái tóc nâu mật ấm búi thấp lỏng lẻo thư giãn",
       "age_vi": "24 tuổi",
-      "build_vi": "sang trọng, đường cong nữ tính mềm mại, dáng ngồi mãn nguyện đang mỉm cười"
+      "build_vi": "sang trọng, đường cong nữ tính mềm mại, dáng ngồi mãn nguyện đang mỉm cười",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer cream-gold silk slipping off one shoulder",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer cream-gold silk slipping off one shoulder"
     },
     {
       "n": "10",
@@ -1053,7 +1137,9 @@
       "scene_vi": "một cặp đôi hạnh phúc ôm nhau trên đồng cỏ, nàng trong dải lụa tuột hở một bên vai trần và đường lưng dài hứng ánh sáng, chàng vòng tay ôm eo nàng, mười chiếc chén dọc theo một vòm cầu vồng, phía xa là một căn nhà tranh và những đứa trẻ đang nhảy múa",
       "hair_vi": "mái tóc nâu-lục bình ấm đổ xuống thành những gợn lụa mượt mà",
       "age_vi": "22 tuổi",
-      "build_vi": "duyên dáng, dáng dấp mẫu tử dịu dàng với khung người mảnh mai tràn yêu thương"
+      "build_vi": "duyên dáng, dáng dấp mẫu tử dịu dàng với khung người mảnh mai tràn yêu thương",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer blush-pink silk — him: open linen shirt",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer blush-pink silk — him: open linen shirt"
     },
     {
       "n": "P",
@@ -1078,7 +1164,9 @@
       "scene_vi": "một cô thị nữ trẻ duyên dáng bên bờ biển trong chiếc áo choàng hở trượt khỏi một bên vai, cầm một chiếc chén mà một con cá tò mò đang thò đầu ra nhìn",
       "hair_vi": "mái tóc đen bóng bện thành một lọn đuôi cá lệch đổ qua xương đòn",
       "age_vi": "18 tuổi",
-      "build_vi": "nhỏ nhắn, tò mò và mơ mộng, đôi chân tay thanh tao ôm chiếc chén"
+      "build_vi": "nhỏ nhắn, tò mò và mơ mộng, đôi chân tay thanh tao ôm chiếc chén",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer aqua-white open silk robe",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer aqua-white open silk robe"
     },
     {
       "n": "N",
@@ -1103,7 +1191,9 @@
       "scene_vi": "một nữ hiệp sĩ 22 tuổi duyên dáng trong bộ giáp bạc có cánh cưỡi con bạch mã điềm tĩnh bên dòng suối, đưa ra chiếc chén vàng của hòa bình",
       "age_vi": "22 tuổi",
       "hair_vi": "mái tóc vàng-cát sáng màu đổ thành những sóng lãng mạn mềm ngang qua trán",
-      "build_vi": "thơ mộng, mảnh mai và quý phái — nữ hiệp sĩ khỏe khoắn đang trao chiếc chén"
+      "build_vi": "thơ mộng, mảnh mai và quý phái — nữ hiệp sĩ khỏe khoắn đang trao chiếc chén",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: silver armor + sheer pearl-blue silk under-drape",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: silver armor + sheer pearl-blue silk under-drape"
     },
     {
       "n": "Q",
@@ -1130,7 +1220,9 @@
       "hair_vi": "mái tóc bạch kim lấp lánh dài thẳng như dòng nước đổ xuống tận đùi",
       "build_vi": "mảnh mai và huyền ảo, eo thon, vẻ đẹp nữ hoàng thanh thản và huyền bí",
       "age_vi": "23 tuổi",
-      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang."
+      "allure_vi": "Nâng độ quyến rũ lên thêm nữa: một hiện diện mời gọi không thể nhầm lẫn. Nàng níu giữ một cái liếc chậm rãi xéo về phía người xem, môi hé mềm, cơ thể xoay để khoe đường dài chạy từ vai tới eo tới hông, lụa trượt trôi như sắp rơi, một tay lướt đọng dọc theo cổ họng, xương đòn hoặc đùi của chính nàng. Ấm áp, gợi cảm và mời gọi — không bao giờ thô tục, không bao giờ tạo dáng như một bức ảnh thời trang.",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer antique-white silk gauze (transparent in light)",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer antique-white silk gauze (transparent in light)"
     },
     {
       "n": "K",
@@ -1155,7 +1247,9 @@
       "scene_vi": "một nữ vương đại dương 25 tuổi thanh thản trên ngai chầu trôi nổi giữa những con sóng lăn, tay cầm quyền trượng hoa sen và một chiếc chén vàng, một con cá heo đang nhảy phía xa",
       "age_vi": "25 tuổi",
       "hair_vi": "mái tóc espresso sẫm sóng sâu đội vương miện vàng biển và ngọc trai",
-      "build_vi": "điềm tĩnh, đồ sộ — nữ quân chủ đại dương với hiện diện quý phái thanh thản"
+      "build_vi": "điềm tĩnh, đồ sộ — nữ quân chủ đại dương với hiện diện quý phái thanh thản",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer deep sea-teal silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer deep sea-teal silk"
     },
     {
       "n": "A",
@@ -1199,7 +1293,9 @@
       "scene_vi": "một người phụ nữ trưởng thành bịt mắt trong lớp voan lụa cổ rất mỏng, gần như trong suốt, bờ vai trần, ngồi trên ghế đá bên bờ biển, hai thanh kiếm dài bắt chéo ngang ngực, mặt trăng đang mọc phía sau cô",
       "hair_vi": "mái tóc đen tuyền vuốt ngược ra sau thành búi cao bóng mượt hoàn hảo",
       "build_vi": "mảnh mai, cân đối hoàn hảo, lườn gọn và đôi tay khoanh giữ cặp kiếm",
-      "age_vi": "21 tuổi"
+      "age_vi": "21 tuổi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer antique-white silk gauze (almost transparent)",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer antique-white silk gauze (almost transparent)"
     },
     {
       "n": "3",
@@ -1243,7 +1339,9 @@
       "scene_vi": "một người phụ nữ trưởng thành duyên dáng trong chiếc váy cổ lộng lẫy đang nằm nghỉ trên một phiến mộ đá trong giáo đường, đôi tay chắp lại, ba thanh kiếm gắn trên tường phía trên cô và một thanh nằm bên dưới cô, phía sau là một cửa sổ kính màu",
       "hair_vi": "mái tóc nâu chồn sẫm trải gọn gàng quanh đầu đang nghỉ trên đá",
       "age_vi": "22 tuổi",
-      "build_vi": "mảnh mai, hình bóng tượng nằm nghỉ bình yên trong sự tĩnh lặng thánh thiện"
+      "build_vi": "mảnh mai, hình bóng tượng nằm nghỉ bình yên trong sự tĩnh lặng thánh thiện",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer gold-grey antique silk gown",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer gold-grey antique silk gown"
     },
     {
       "n": "5",
@@ -1268,7 +1366,9 @@
       "scene_vi": "một cô gái trẻ tự tin cầm ba thanh kiếm vắng qua vai và nhìn hai bạn đồng hành nữ đang rút lui trên bờ biển bão tố, hai thanh kiếm nằm trên cát",
       "age_vi": "22 tuổi",
       "hair_vi": "mái tóc nâu sẫm bay trong gió cùng nụ cười mỉm tự tin thoắt qua",
-      "build_vi": "gọn gàng, nhanh nhẹn và vai sắc, đang xoay người với những lưỡi kiếm đã thu gom"
+      "build_vi": "gọn gàng, nhanh nhẹn và vai sắc, đang xoay người với những lưỡi kiếm đã thu gom",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer slate-grey silk under a wind-worn wrap",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer slate-grey silk under a wind-worn wrap"
     },
     {
       "n": "6",
@@ -1293,7 +1393,9 @@
       "scene_vi": "một người phụ nữ khoác áo choàng và một đứa trẻ được người lái đò chèo qua sông, sáu thanh kiếm dựng thẳng dọc thuyền",
       "hair_vi": "mái tóc nâu-tro nhạt gom mềm trong lớp khăn che mờ sương",
       "age_vi": "21 tuổi",
-      "build_vi": "mảnh mai, bóng dáng hành khách lặng lẽ ngồi trong thuyền đò"
+      "build_vi": "mảnh mai, bóng dáng hành khách lặng lẽ ngồi trong thuyền đò",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer mist-grey silk under the cloak",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer mist-grey silk under the cloak"
     },
     {
       "n": "7",
@@ -1318,7 +1420,9 @@
       "scene_vi": "một cô gái trẻ nhanh nhẹn đang lén bế năm thanh kiếm trong vòng tay trong khi ngoái nhìn lại một doanh trại quân sự nơi hai thanh kiếm vẫn cắm dựng",
       "age_vi": "20 tuổi",
       "hair_vi": "mái tóc nâu hạt dẻ sẫm rối tinh nghịch",
-      "build_vi": "bước chân nhẹ, thể ngoại hình lanh lợi mảnh mai đang nhón gót lẻn đi"
+      "build_vi": "bước chân nhẹ, thể ngoại hình lanh lợi mảnh mai đang nhón gót lẻn đi",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer moss-drab short silk wrap",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer moss-drab short silk wrap"
     },
     {
       "n": "8",
@@ -1343,7 +1447,9 @@
       "scene_vi": "một người phụ nữ bịt mắt trong chiếc váy lộng nới lỏng tuột khỏi một bên vai và bị trói lỏng, đứng trong vòng tròn tám thanh kiếm, một pháo đài trên vách đá phía sau",
       "hair_vi": "mái tóc nâu sẫm buộc lỏng bằng ruy băng đỏ thẫm",
       "age_vi": "20 tuổi",
-      "build_vi": "mảnh mai, bóng dáng thanh tao và mong manh bị bao quanh bởi những lưỡi kiếm dựng"
+      "build_vi": "mảnh mai, bóng dáng thanh tao và mong manh bị bao quanh bởi những lưỡi kiếm dựng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer loosened white silk gown (crimson ribbon)",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer loosened white silk gown (crimson ribbon)"
     },
     {
       "n": "9",
@@ -1370,7 +1476,9 @@
       "hair_vi": "mái tóc đen dài đổ thành những sóng bi thương qua đôi tay đang khóc",
       "age_vi": "22 tuổi",
       "allure_vi": "một nỗi buồn vẫn đầy sức cám dỗ: tấm ga đã trượt đi để cả đường dài của lưng và đường cong hông của cô phơi trần, môi hé mềm, đôi mắt nặng trĩu và cúi xuống thay vì nhắm tịt, một tay đặt lên đùi trần của chính mình hoặc ngay hõm cổ, cơ thể xoay để khoe đường từ vai tới eo tới hông ngay cả khi cô cúi đầu — vẻ đẹp của một người phụ nữ đáng mơ ước trong giờ khuya, không bao giờ là nét mặt nhăn nhăn nhó, không bao giờ là tiếng gào khóc",
-      "build_vi": "mảnh mai, hình bóng váy ngủ thanh tao ngồi trong cơn giải tỏa cảm xúc"
+      "build_vi": "mảnh mai, hình bóng váy ngủ thanh tao ngồi trong cơn giải tỏa cảm xúc",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: slipped silk sheet, bare above it",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: slipped silk sheet, bare above it"
     },
     {
       "n": "10",
@@ -1395,7 +1503,9 @@
       "scene_vi": "một cô gái trẻ bình yên nằm khoác lụa đỏ thẫm trên bờ biển lúc bình minh dưới mười thanh kiếm dựng thẳng, nắng vàng xuyên quẩy ngang mặt nước tối",
       "age_vi": "23 tuổi",
       "hair_vi": "mái tóc đen mượt như lụa rải trên nền cát bờ biển",
-      "build_vi": "hình bóng trinh nữ nằm nghiêng gọn gàng và bình yên ngâm trong ánh chân trời buổi sớm vàng"
+      "build_vi": "hình bóng trinh nữ nằm nghiêng gọn gàng và bình yên ngâm trong ánh chân trời buổi sớm vàng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer crimson silk drape on the sand",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer crimson silk drape on the sand"
     },
     {
       "n": "P",
@@ -1420,7 +1530,9 @@
       "scene_vi": "một cô thị nữ trẻ thận trọng trong chiếc áo choàng lộng lẫy trên một gò đồi đầy gió, cầm một thanh kiếm giơ cao bằng cả hai tay",
       "hair_vi": "mái tóc nâu mật bay trong gió cắt kiểu pixie lông vũ sắc sảo",
       "age_vi": "18 tuổi",
-      "build_vi": "mảnh dẻo, sắc sảo và cảnh giác, sự đàn hồi thể thao trong dáng đứng trên đồi đá"
+      "build_vi": "mảnh dẻo, sắc sảo và cảnh giác, sự đàn hồi thể thao trong dáng đứng trên đồi đá",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer wind-grey-blue silk under the cape",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer wind-grey-blue silk under the cape"
     },
     {
       "n": "N",
@@ -1445,7 +1557,9 @@
       "scene_vi": "một nữ hiệp sĩ 21 tuổi dũng mãnh trong bộ giáp thép bóng loáng lao như bay trên con ngựa phi nước đại, thanh kiếm giơ cao vào giữa những cơn gió bão",
       "age_vi": "21 tuổi",
       "hair_vi": "mái tóc sẫm bay ngược cuồng dã từ bên dưới chiếc mũ giáp có cánh để mở",
-      "build_vi": "dữ dằn, thể thao — nữ hiệp sĩ trong cú xung phong hiên ngang"
+      "build_vi": "dữ dằn, thể thao — nữ hiệp sĩ trong cú xung phong hiên ngang",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: steel armor + sheer ice-blue silk under-drape",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: steel armor + sheer ice-blue silk under-drape"
     },
     {
       "n": "Q",
@@ -1472,7 +1586,9 @@
       "hair_vi": "mái tóc đỏ-gụ sẫm bện thành bím vương miện đan xen cầu kỳ",
       "age_vi": "24 tuổi",
       "allure_vi": "một người phụ nữ vừa có cá tính mãnh liệt vừa gợi cảm không thể nhầm: bà ngồi cao thẳng lưng không cúi trên ngai, cằm ngẩng lên, ánh mắt ngang tầm, sắc bén và không sợ hãi — một nữ quân chủ nhiệt huyết và mắt tinh, chứ không hề nhu nhược — trong khi lớp lụa trong suốt trượt khỏi một bên vai và qua một bên đùi để đường dài của cơ thể hiện ra, môi hé mềm, một tay đặt dọc theo đùi, xương đòn hoặc mái tóc buông của chính bà. Kiêu hãnh, rực sống và mời gọi — một nữ hoàng có khí chất, không bao giờ chỉ là vật trang trí hiền thục",
-      "build_vi": "đồ sộ, đường nét mặt sắc, xương đòn thanh nhã nghiêm nghị, vẻ đẹp trí tuệ lạnh lùng"
+      "build_vi": "đồ sộ, đường nét mặt sắc, xương đòn thanh nhã nghiêm nghị, vẻ đẹp trí tuệ lạnh lùng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: one sheer transparent antique-silk gauze wrap",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: one sheer transparent antique-silk gauze wrap"
     },
     {
       "n": "K",
@@ -1497,7 +1613,9 @@
       "scene_vi": "một nữ tối thượng phán quan 25 tuổi nghiêm nghị và hùng vĩ trên ngai đá cao, cầm thanh kiếm dựng thẳng của chân lý, sau lưng là bầu trời xanh trong vắt",
       "age_vi": "25 tuổi",
       "hair_vi": "mái tóc quạ cắt cúp gọn gàng đội vòng miện vàng sắc nét",
-      "build_vi": "cao, oai nghiêm, nữ cai trị tư pháp mắt sắc với lưỡi kiếm dựng thẳng"
+      "build_vi": "cao, oai nghiêm, nữ cai trị tư pháp mắt sắc với lưỡi kiếm dựng thẳng",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer royal-blue silk under the judge mantle",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer royal-blue silk under the judge mantle"
     },
     {
       "n": "A",
@@ -1541,7 +1659,9 @@
       "scene_vi": "một cô gái trẻ 19 tuổi hân hoan đang nhảy múa trên một sân thượng bên biển, tung hứng hai đồng xu ngôi sao vàng lồng trong một dải ruy băng vô cực với những con thuyền giữa sóng biển cuộn trào phía sau",
       "age_vi": "19 tuổi",
       "hair_vi": "những lọn xoăn vàng-cát xõa bay nảy theo nhịp nhảy của cô",
-      "build_vi": "nhanh nhẹn, mảnh dẻo và linh hoạt — vũ công trẻ thăng bằng hai đồng xu trong dải ruy băng vô cực"
+      "build_vi": "nhanh nhẹn, mảnh dẻo và linh hoạt — vũ công trẻ thăng bằng hai đồng xu trong dải ruy băng vô cực",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer sea-green dance silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer sea-green dance silk"
     },
     {
       "n": "3",
@@ -1566,7 +1686,9 @@
       "scene_vi": "một nữ điêu khắc viên còn trẻ trong chiếc tạp dề xưởng để hở trượt khỏi một bên vai, tóc xõa, đang đục một cây cột, một tu sĩ và một kiến trúc sư đang bình luận bên cạnh, ba đồng xu gắn trong vòm phía trên",
       "hair_vi": "mái tóc nâu-đỏ trầm quấn thành vương miện bím thực tế",
       "age_vi": "22 tuổi",
-      "build_vi": "tập trung, đôi vai thợ thủ công săn chắc, đôi bàn tay tạc điêu luyện đang tạo nên nhà thờ lớn"
+      "build_vi": "tập trung, đôi vai thợ thủ công săn chắc, đôi bàn tay tạc điêu luyện đang tạo nên nhà thờ lớn",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: open work apron over sheer terra-cotta silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: open work apron over sheer terra-cotta silk"
     },
     {
       "n": "4",
@@ -1591,7 +1713,9 @@
       "scene_vi": "một tiểu thư giàu có trẻ ngồi trên ghế đá, ôm một đồng xu ngôi sao vàng chặt vào ngực, một đồng đặt trên vương miện và hai đồng dưới chân cô",
       "age_vi": "24 tuổi",
       "hair_vi": "mái tóc nâu sẫm chải gọn gàng giữ khuất vàng sát người",
-      "build_vi": "vững chãi, dáng ngồi hạ trọng tâm canh giữ của cải của cô"
+      "build_vi": "vững chãi, dáng ngồi hạ trọng tâm canh giữ của cải của cô",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: rich green-gold robe over sheer moss silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: rich green-gold robe over sheer moss silk"
     },
     {
       "n": "5",
@@ -1616,7 +1740,9 @@
       "scene_vi": "hai kẻ ăn xin rách rưới đi ngang qua một nhà thờ rực sáng trong tuyết, năm đồng xu tỏa sáng trong cửa sổ kính màu cao",
       "hair_vi": "mái tóc nâu sẫm dài bay trong gió hứng những bông tuyết rơi",
       "age_vi": "20 tuổi",
-      "build_vi": "mảnh mai, bóng dáng run rẩy nhưng bền bỉ dưới cửa sổ nhà thờ"
+      "build_vi": "mảnh mai, bóng dáng run rẩy nhưng bền bỉ dưới cửa sổ nhà thờ",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: threadbare grey shawl over worn sheer fawn silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: threadbare grey shawl over worn sheer fawn silk"
     },
     {
       "n": "6",
@@ -1641,7 +1767,9 @@
       "scene_vi": "một tiểu thư trẻ thịnh vượng trong bộ trang phục giàu có một tay cầm cán cân, đang phân phát những đồng xu vàng cho hai thiếu nữ đang quỳ",
       "age_vi": "23 tuổi",
       "hair_vi": "mái tóc nâu-vàng chải chuốt gọn gàng theo phong cách thương nhân",
-      "build_vi": "thịnh vượng, dáng đứng thẳng đoan trang đang phân phát tiền xu"
+      "build_vi": "thịnh vượng, dáng đứng thẳng đoan trang đang phân phát tiền xu",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: rich burgundy robe, half-open over sheer cream silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: rich burgundy robe, half-open over sheer cream silk"
     },
     {
       "n": "7",
@@ -1666,7 +1794,9 @@
       "scene_vi": "một cô gái trẻ kiên nhẫn tựa vào cây gậy làm vườn của mình, trầm ngâm ngắm bảy đồng xu ngôi sao vàng đang nở trên một dây leo xanh tươi tốt",
       "age_vi": "22 tuổi",
       "hair_vi": "mái tóc nâu hạt dẻ ấm hơi đẫm mồ hôi đặt tựa trên cán cuốc",
-      "build_vi": "gọn gàng, vóc dáng nông dân săn chắc vì lao động, dáng đứng trầm ngâm kiên nhẫn"
+      "build_vi": "gọn gàng, vóc dáng nông dân săn chắc vì lao động, dáng đứng trầm ngâm kiên nhẫn",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer field-tan silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer field-tan silk"
     },
     {
       "n": "8",
@@ -1691,7 +1821,9 @@
       "scene_vi": "một cô học việc trẻ trong tạp dề tuột khỏi một bên vai, tay áo xắn lên, tóc nâu hạt dẻ ghim thành búi thấp gọn gàng, đang đục một chiếc đĩa đá trơn ở băng ghế, tám đồng xu xếp thành một hàng dọc mép ghế, một thị trấn hiện qua ô cửa sổ",
       "hair_vi": "mái tóc nâu hạt dẻ buộc thành búi thấp gọn gàng, tập trung",
       "age_vi": "21 tuổi",
-      "build_vi": "mảnh mai và tỉ mỉ, đôi tay vững chãi khắc những đồng xu ở bàn làm việc"
+      "build_vi": "mảnh mai và tỉ mỉ, đôi tay vững chãi khắc những đồng xu ở bàn làm việc",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: work apron slipping over sheer linen-cream silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: work apron slipping over sheer linen-cream silk"
     },
     {
       "n": "9",
@@ -1716,7 +1848,9 @@
       "scene_vi": "một quý bà thanh nhã trong chiếc váy mỏng bay bổng bám theo ngực và hông, một con chim ưng đậu trên bàn tay đeo găng của bà, tay kia đang chạm những chùm nho chín, chín đồng xu dọc theo thanh xà của giàn leo, một con ốc sên dưới chân bà",
       "hair_vi": "mái tóc espresso sẫm màu dây dài xoăn lỏng quấn sợi chỉ vàng",
       "age_vi": "23 tuổi",
-      "build_vi": "duyên dáng, thân hình đồng hồ cát quý tộc tinh tế trong vườn nho đang ra hoa"
+      "build_vi": "duyên dáng, thân hình đồng hồ cát quý tộc tinh tế trong vườn nho đang ra hoa",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer transparent bronze-silk flowing gown",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer transparent bronze-silk flowing gown"
     },
     {
       "n": "10",
@@ -1741,7 +1875,9 @@
       "scene_vi": "một sảnh gia đình — một ngài tộc trưởng đang ngồi, một cặp đôi đứng với bàn tay chàng đặt ở eo nàng, một đứa trẻ đang chơi với hai con chó — mười đồng xu xếp theo hình kim tự tháp trên bức tường phía sau họ",
       "hair_vi": "mái tóc nâu mật ấm bện thành bím vương miện dày",
       "age_vi": "22 tuổi",
-      "build_vi": "mãn nguyện, vẻ đẹp mẫu tử dịu dàng được bao quanh bởi của cải gia đình"
+      "build_vi": "mãn nguyện, vẻ đẹp mẫu tử dịu dàng được bao quanh bởi của cải gia đình",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: cream-gold brocade accents over sheer ivory silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: cream-gold brocade accents over sheer ivory silk"
     },
     {
       "n": "P",
@@ -1766,7 +1902,9 @@
       "scene_vi": "một cô thị nữ trẻ chăm học trong chiếc áo choàng hở đang ngắm nghiền ngẫm một đồng xu ngôi sao lớn cầm bằng cả hai tay, phía sau là cánh đồng đã cày xới",
       "hair_vi": "mái tóc vàng óng buông xõa qua vai, hứng nắng đồng cỏ",
       "age_vi": "18 tuổi",
-      "build_vi": "nhỏ nhắn, khung người học trò chân thành, giơ đồng xu lên cao đầy lòng thành kính"
+      "build_vi": "nhỏ nhắn, khung người học trò chân thành, giơ đồng xu lên cao đầy lòng thành kính",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: open robe over sheer meadow-green silk",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: open robe over sheer meadow-green silk"
     },
     {
       "n": "N",
@@ -1791,7 +1929,9 @@
       "scene_vi": "một nữ hiệp sĩ 23 tuổi vững vàng trong bộ giáp sẫm màu cầm đồng xu ngôi sao vàng với sự thành kính điềm tĩnh trên cánh đồng đã cày xới",
       "age_vi": "23 tuổi",
       "hair_vi": "mái tóc nâu đồng sẫm bện dưới chiếc mũ giáp mào hình lá sồi",
-      "build_vi": "chắc khỏe, thể thao — nữ hiệp sĩ trên con chiến mã nặng nề điềm tĩnh"
+      "build_vi": "chắc khỏe, thể thao — nữ hiệp sĩ trên con chiến mã nặng nề điềm tĩnh",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: dark armor + sheer oak-brown silk under-drape",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: dark armor + sheer oak-brown silk under-drape"
     },
     {
       "n": "Q",
@@ -1816,7 +1956,9 @@
       "scene_vi": "một nữ hoàng khỏa thân ấm áp đội vương miện hoa trên ngai chạm hình dê, hở một bên ngực, một đồng xu ngôi sao đặt trên đùi, một con thỏ trong khu vườn",
       "hair_vi": "mái tóc sô-cô-la sẫm ánh huyết quang vàng, đội những dây leo đang nở hoa",
       "age_vi": "24 tuổi",
-      "build_vi": "đầy đặn, mẫu tử, đường cong nữ tính ấm áp hào phóng trên ngai chạm thú"
+      "build_vi": "đầy đặn, mẫu tử, đường cong nữ tính ấm áp hào phóng trên ngai chạm thú",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: bare beneath a sheer vine-green silk stole + flower crown",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: bare beneath a sheer vine-green silk stole + flower crown"
     },
     {
       "n": "K",
@@ -1841,7 +1983,9 @@
       "scene_vi": "một nữ hoàng giàu có 25 tuổi trị vì của cải ngồi trên ngai chạm bò đực giữa những dây nho đang nở và những bức tường lâu đài, một đồng xu vàng đặt trên đùi bà",
       "age_vi": "25 tuổi",
       "hair_vi": "mái tóc sẫm gợn sóng đan những lá nguyệt quế vàng và những chùm nho chín",
-      "build_vi": "dẻo dai vững chãi, nữ vương giàu có ngồi thoải mái trong vườn lâu đài xum xuê"
+      "build_vi": "dẻo dai vững chãi, nữ vương giàu có ngồi thoải mái trong vườn lâu đài xum xuê",
+      "wardrobe": "minimalist sheer diaphanous silk drape wrapped around the hips covering ONLY the lower body; THE BUST IS LEFT BARE in the grand tradition of classical fine-art figure painting (museum masters Ingres, Bouguereau, Cabanel); hair swept back behind the shoulders, never veiling the form; silk color: sheer deep forest-green silk with gold thread",
+      "wardrobe_vi": "giải lụa mỏng manh quấn quanh hông CHỈ che phần dưới cơ thể; BỘ NGỰC TRẦN theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt ra phía sau vai, không che cơ thể; màu lụa: sheer deep forest-green silk with gold thread"
     }
   ]
 }
