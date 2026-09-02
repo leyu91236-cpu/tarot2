@@ -43,9 +43,10 @@ tarot2/
 5. **Chất lượng (Clean Frame + Micro-Detail)**: khung viền vàng phải sạch tuyệt đối (không noise/đốm/nét đứt);
    chi tiết vi mô tối đa (lông mi, mống mắt, sợi tóc, kết cấu lụa, lỗ chân lông, cạnh trang sức);
    phong cách kết xuất **4K UHD / ultra-detail / sharp focus** — quy định tại `template.md` (CLEAN FRAME + MAXIMUM MICRO-DETAIL).
-6. **Trang phục (Wardrobe)**: nhân vật nữ mặc **giải lụa mỏng manh, xuyên thấu, tối giản**, màu riêng
-   theo từng lá (khóa `wardrobe`/`wardrobe_vi` trong `cards.json`), gợi cảm tạo cảm giác hở hang
-   đúng truyền thống fine-art; hiệp sĩ kèm lụa mỏng điểm xuyến ngoài giáp.
+6. **Trang phục (Wardrobe)**: nhân vật nữ mặc **giải lụa mỏng manh chỉ quấn quanh hông — chỉ che phần
+   dưới cơ thể**; phần thân trên trần theo truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau,
+   Cabanel), tóc dài rủ che dàn trải nghệ thuật; màu lụa riêng theo từng lá (khóa `wardrobe`/`wardrobe_vi`
+   trong `cards.json`); hiệp sĩ giữ giáp + lụa quấn hông.
 7. **Chân dung nghệ thuật tôn vinh cơ thể phụ nữ (Fine-Art Figure Portrait)**: mỗi lá là một **bức
    chân dung nhân thể fine-art** — nhân vật nữ luôn là **trái tim thị giác** của lá bài (bố cục
    chân dung 3/4 đến toàn thân), theo truyền thống các bậc thầy nhân thể cổ điển
