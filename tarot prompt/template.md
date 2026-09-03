@@ -6,7 +6,7 @@ At the BOTTOM: inside the ribbon banner, the title "{TITLE}" in clean antique go
 In the large open center panel (filling the entire inner window edge to edge and bleeding slightly beneath the golden border, matching the open space of The Star without heavy inner arch barriers):
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
-NUDE (HARD RULE): the central figure of every card is ONE fully nude young woman, aged 18–25, breasts and hips fully exposed; no garment or body-wrapping veil may cover her nudity — garlands, crowns, jewelry and loosely falling sheer ribbons are ornament only and do not count as clothing.
+NUDE (HARD RULE): the central figure of every card is ONE nude young woman, aged 18–25, breasts and hips fully exposed; no garment or body-wrapping veil may cover her nudity — garlands, crowns, jewelry and loosely falling sheer ribbons are ornament only and do not count as clothing.
 
 Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
 
