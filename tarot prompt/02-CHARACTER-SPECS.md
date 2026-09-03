@@ -5,6 +5,10 @@
 > File này **bổ sung** 4 thuộc tính mới: **Đôi mắt · Màu da · Nét riêng (signature) · Không khí (aura)**,
 > và **chuẩn hóa vóc dáng** vào dải **Thanh mảnh → Trung bình** (không vượt trần "trung bình").
 
+> **BIÊN TẬP MỚI NHẤT — FULL NUDE 78/78 LÁ:** scene của **toàn bộ lá bài** (kể cả 6 lá vật thể/bàn tay thuần gốc)
+> được biên tập để nhân vật chính luôn là **một thiếu nữ trẻ khỏa thân hoàn toàn — a fully nude young woman (18–25)**.
+> Chi tiết trong `cards.json` (trường `scene`) và quy chuẩn MỤC 1.6.
+
 ---
 
 ## 0. THANG NHÂN VẬT — TỪ THONG THẢ → TRUNG BÌNH
@@ -92,8 +96,18 @@ Không nhân vật nào dùng chung nét riêng với nhân vật khác.
 
 ### 1.5 Phạm vi & độ tuổi
 - 72 nhân vật nữ, **18–25 tuổi** (giữ nguyên bảng chuẩn), 100% nữ.
-- 6 lá **không có nhân vật** (vật thể thuần): `wands-ace`, `wands-08`, `cups-ace`,
-  `swords-ace`, `swords-03`, `pentacles-ace` — không nằm trong file này.
+- 6 lá **không nằm trong bảng thông số này** (đây là các lá vật thể/bàn tay thuần gốc): `wands-ace`,
+  `wands-08`, `cups-ace`, `swords-ace`, `swords-03`, `pentacles-ace`.
+  → Trong `cards.json`, scene của **6 lá này giờ vẫn được thêm một thiếu nữ khỏa thân trẻ làm nhân vật chính** (xem MỤC 1.6),
+  nhưng chúng không gắn bộ thuộc tính nhân vật cố định nên không liệt kê trong file này.
+
+### 1.6 FULL NUDE STANDARD — HARD RULE (đồng bộ scene trong `cards.json`)
+- Toàn bộ **78/78 lá**: nhân vật chính của scene luôn là **một thiếu nữ trẻ khỏa thân hoàn toàn
+  — a fully nude young woman (18–25)** làm điểm nhấn trung tâm (ngực + vùng hông hiển hiện rõ).
+- Trang phục / vải cuốn che thân **không được dùng**: vòng hoa, vương miện, trang sức,
+  ruy băng hay khăn voan buông rơi chỉ là phụ kiện trang trí — **không tính là quần áo che thân**.
+- Nhân vật phụ trong khung hình cũng vẽ theo chuẩn nữ khỏa thân (nếu có);
+  **không đưa trẻ vị thành niên khỏa thân** vào bất kỳ lá nào.
 
 ---
 
@@ -218,9 +232,10 @@ Không nhân vật nào dùng chung nét riêng với nhân vật khác.
 ## 8. KIỂM TRA NHANH (CHECKLIST)
 
 - [x] 72/72 nhân vật có đủ: tuổi · mắt · tóc (chuẩn) · vóc dáng (A–D) · da · nét riêng · không khí
+- [x] **FULL NUDE 78/78 lá** — nhân vật chính mọi scene là thiếu nữ khỏa thân trẻ (18–25); không có trang phục/vải che thân (xem MỤC 1.6)
 - [x] 0 nhân vật da đen / da sẫm — chỉ 10 tông từ porcelain → amber-gold
 - [x] 0 nhân vật vượt trần "trung bình" — không plus-size, không béo (A 29 · B 30 · C 9 · D 4)
 - [x] Mỗi nhân vật 1 tổ hợp mắt (màu + dáng + ánh nhìn) duy nhất
 - [x] Mỗi nhân vật 1 nét riêng duy nhất (không trùng)
 - [x] Tuổi và kiểu tóc giữ nguyên 100% so với bảng chuẩn `01-CARD-TABLE.md`
-- [x] 6 lá không nhân vật được loại trừ đúng: wands-ace, wands-08, cups-ace, swords-ace, swords-03, pentacles-ace
+- [x] 6 lá (wands-ace, wands-08, cups-ace, swords-ace, swords-03, pentacles-ace) không nằm trong bảng nhân vật này; scene của chúng trong `cards.json` đã có thêm nude young woman theo MỤC 1.6

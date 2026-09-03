@@ -12,6 +12,7 @@ Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài
 2. **Quy chuẩn tạo hình nhân vật (Sensual Fine-Art Figure Standard)**:
    * Kế thừa phong cách tạo hình sống động, gợi cảm và cổ điển từ tài liệu gốc `01-CARD-TABLE.md` (hình mẫu tiêu biểu như lá **The Empress**: *"a voluptuous nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her"*).
    * **100% Nhân vật nữ** trong độ tuổi thanh xuân từ **18 đến 25 tuổi**.
+   * **FULL NUDE STANDARD — HARD RULE (áp dụng 78/78 lá)**: Nhân vật chính của **MỌI lá bài** (kể cả các lá vật thể thuần / bàn tay thần thánh như Ace of Wands/Cups/Swords/Pentacles, Eight of Wands, Three of Swords) luôn là **một thiếu nữ trẻ khỏa thân hoàn toàn — a fully nude young woman (18–25)** đứng làm điểm nhấn trung tâm của scene. Trang phục/vải che thân **không được dùng để che nội dung khỏa thân**: body trần toàn bộ, nhũ hoa và vùng hông hiển hiện rõ. Phụ kiện trang trí (vòng hoa, vương miện, đồ trang sức, ruy băng, khăn voan buông rơi — không ôm/cuốn quanh thân) vẫn được phép nhưng **không tính là quần áo che thân**. Lá nào còn có nhân vật phụ thì nhân vật phụ cũng vẽ theo chuẩn nữ khỏa thân; không thêm trẻ vị thành niên khỏa thân vào khung hình.
    * Mỗi lá bài giữ nét đặc trưng độc bản về vóc dáng (*slender, voluptuous, athletic, statuesque*), mái tóc và thần thái.
    * **CẤM CƠ THỂ BỊ DI DẠNG (ANATOMY LOCK — HARD RULE)**: Mỗi nhân vật chỉ được có **tối đa 2 tay, 2 chân, 1 đầu, 1 thân**; mọi khớp (vai, khuỷu, cổ tay, hông, gối, cổ chân) phải nối tự nhiên với thân, **không thừa chi, không chi mọc dính vào sườn/hông/ngực, không tay cụt, không khớp biến dạng, không ngón tay sai số lượng**. Kiểm tra giải phẫu kỹ trước khi chốt ảnh: nếu thấy 3 tay / tay dính thân / chân sai khớp → **vẽ lại**, không chấp nhận bản lỗi. Ưu tiên tư thế 2 tay tách rõ khỏi thân (có nách, khuỷu, cổ tay rõ ràng) để giảm nguy cơ lỗi.
 
@@ -34,7 +35,9 @@ At the BOTTOM: inside the ribbon banner, the title "{TITLE}" in clean antique go
 In the large open center panel (filling the entire inner window edge to edge and bleeding slightly beneath the golden border, matching the open space of The Star without heavy inner arch barriers):
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
+FULL NUDE (HARD RULE): the central figure of EVERY card is ONE fully nude young woman, aged 18–25, her breasts and hips fully exposed — garments or body-wrapping veils must NOT be used to cover her nudity; garlands, crowns, jewelry and loosely falling sheer ribbons are allowed purely as ornament and do not count as clothing. No clothing covers her bare body.
+
 Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
 
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Fully nude sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
 ```
