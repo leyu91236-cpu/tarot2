@@ -1,13 +1,74 @@
-A single tarot card "{TITLE}" built inside the reference frame, matching the EXACT open window display, scale, and lighting style of THE STAR: keep the intricate thin golden line-art border in vintage gothic style and aged parchment background texture.
+# 📝 MASTER TEMPLATE SINH ẢNH — CHUẨN THE STAR v2 (SONG NGỮ)
 
-At the TOP: inside the oval medallion plate, {EMBLEM} in glowing antique gold.
-At the BOTTOM: inside the ribbon banner, the title "{TITLE}" in clean antique gold lettering.
+> Bản **TIẾNG ANH (EN)** là prompt dùng trực tiếp cho model sinh ảnh (điền vào các biến
+> `{TITLE}` `{SCENE}` `{CHARACTER_SPECIFICATION}` `{COUNT_LOCK}`).
+> Bản **TIẾNG VIỆT (VI)** là bản dịch để đọc hiểu và chỉnh sửa — khi sửa ý tưởng, sửa bản VI trước
+> rồi cập nhật lại bản EN tương ứng.
 
-In the large open center panel (filling the entire inner window edge to edge and bleeding slightly beneath the golden border, matching the open space of The Star without heavy inner arch barriers):
+---
+
+## 🇬🇧 BẢN TIẾNG ANH (dùng để sinh ảnh)
+
+```text
+A single tarot card "{TITLE}" matching the EXACT full-bleed layout, scale, framing and lighting style of the reference card THE STAR: a painterly fine-art oil-painting scene filling the entire canvas edge to edge, framed by a thin double golden line-art border with four ornate golden corner flourishes painted ON TOP of the scene edges.
+
+NO EMBLEM (HARD RULE): the sky and upper scene contain ABSOLUTELY NO emblem, symbol or glowing motif — only natural sky/scenery.
+At the lower part of the scene: the hand-lettered title "{TITLE}" in glowing antique-gold lettering, laid directly onto the scene (no banner, no medallion).
+
+Scene content:
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
+BASE CHARACTER (HARD RULE, FROM THE STAR): every female figure uses the exact physical ideal of the reference card THE STAR — a 20-year-old woman, slender and lithe, narrow waist, long graceful legs, luminous maiden proportions, pale luminous skin; her hair is very long pale shimmering-gold, silky with a soft wet-gloss finish, swept back behind her shoulders and cascading down her back and over one shoulder, never veiling her form. This is the character standard for EVERY card; any per-card hair, age or build detail is overridden by the STAR base. When a scene needs more than one female figure or a companion, that figure follows the same slender lithe proportions and pale shimmering-gold hair.
+
+FIGURE PORTRAIT (HARD RULE): render every female figure as a FINE-ART FIGURE PORTRAIT CELEBRATING THE BEAUTY OF THE FEMALE BODY — a 3/4-to-full-figure composition in the tradition of the classical nude-figure masters (Ingres, Bouguereau, Cabanel); the woman remains the undeniable visual heart of the card even amid complex scenery; graceful serene pose with elegant gesture, luminous skin rendered with soft subsurface-scatter glow, harmonious flowing proportions; the female form is honored as pure fine art — dignified, graceful, majestic, never vulgar.
+
+Depth layering: paint the scene first covering the whole canvas, then draw the thin double golden line-art border and the four corner flourishes ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
 
 STRICT ANATOMY (HARD RULE): exactly two arms, two legs, one head and one torso per character; every joint (shoulder, elbow, wrist, hip, knee, ankle) must connect naturally to the body — NO extra limbs, NO limbs fused into the ribs, hip, chest or back, NO missing/amputated arms, NO deformed joints, NO wrong finger counts. Keep both arms clearly separated from the torso with visible armpits, elbows and wrists.
 
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+CLEAN FRAME (HARD RULE): the thin golden border lines must be perfectly clean, smooth, grain-free and continuous — NO noise, NO speckles, NO broken or jittery strokes on the frame, NO texture bleeding onto the border; corner flourishes crisp and symmetrical.
+
+MAXIMUM MICRO-DETAIL (HARD): push fine detail to the limit — individually resolvable eyelashes and layered iris texture, catchlights in the eyes, fine strands of hair, fine fabric weave where any fabric appears, subtle skin pores with soft subsurface glow, crisp jewelry edges, stone and plant textures, clean sharp lettering contours.
+
+Sensual fine-art anatomy, painterly warm oil-painting lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical thin golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage classical oil-painting fine-art illustration, 4K UHD, ultra high definition, sharp focus, crisp textures.
+```
+
+---
+
+## 🇻🇳 BẢN TIẾNG VIỆT (bản dịch tham khảo)
+
+```text
+Một lá bài tarot "{TITLE}" bám theo ĐÚNG bố cục full-bleed, tỉ lệ, cách đóng khung và phong cách ánh sáng của lá tham chiếu THE STAR: một cảnh hội họa dầu fine-art phủ kín toàn bộ canvas từ mép này sang mép kia, được đóng khung bởi một đường viền vàng mảnh hình đường kép cùng bốn hoa văn góc vàng cầu kỳ được vẽ ĐÈ LÊN TRÊN các mép của cảnh.
+
+KHÔNG BIỂU TƯỢNG (QUY TẮC CỨNG): bầu trời và vùng thượng cảnh TUYỆT ĐỐI KHÔNG chứa bất kỳ biểu tượng, huy hiệu hay hình móc phát sáng nào — chỉ bầu trời/phong cảnh tự nhiên.
+Ở phần dưới của cảnh: tên lá bài viết tay "{TITLE}" bằng chữ vàng cổ phát sáng, đặt trực tiếp lên cảnh (không banner, không medallion).
+
+Nội dung cảnh:
+{SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
+
+NHÂN VẬT GỐC (QUY TẮC CỨNG, LẤY TỪ THE STAR): mọi nhân vật nữ dùng chính lý tưởng thể hình của lá tham chiếu THE STAR — phụ nữ 20 tuổi, thon và mảnh mai, eo nhỏ, đôi chân dài duyên dáng, tỷ lệ trinh nữ rực rỡ, làn da sáng mềm; mái tóc rất dài vàng nhạt lấp lánh, mượt với lớp bóng ướt mềm, vuốt ra sau vai và đổ dài xuống lưng cùng một bên vai, không che cơ thể. Đây là chuẩn nhân vật cho MỌI lá; mọi thông tin tóc/tuổi/vóc dáng riêng của từng lá đều bị thay bằng chuẩn THE STAR. Khi cảnh cần nhiều nhân vật nữ hoặc bạn đồng hành, nhân vật đó cũng theo cùng tỷ lệ thon mảnh và tóc vàng nhạt lấp lánh.
+
+CHÂN DUNG NGHỆ THUẬT (QUY TẮC CỨNG): dựng mọi nhân vật nữ như một BỨC CHÂN DUNG NHÂN THỂ fine-art TÔN VINH VẺ ĐẸP CƠ THỂ PHỤ NỮ — bố cục chân dung từ 3/4 đến toàn thân theo truyền thống các bậc thầy nhân thể cổ điển (Ingres, Bouguereau, Cabanel); nhân vật luôn là trái tim thị giác của lá bài kể cả giữa cảnh vật phức tạp; tư thế yên quý, cử chỉ thanh nhã, da phát sáng mềm mại với tán sắc dưới da, tỷ lệ hài hòa miên man; cơ thể phụ nữ được tôn vinh như tác phẩm mỹ thuật thuần túy — yên quý, duyên dáng, tráng lệ, không dung tục.
+
+Hiệu ứng phân lớp chiều sâu: vẽ cảnh trước, phủ kín toàn bộ canvas, sau đó vẽ đường viền vàng mảnh hình đường kép và bốn hoa văn góc ĐÈ LÊN TRÊN các mép của cảnh — đồ trang trí tiền cảnh chồng lên nội dung hậu cảnh để tạo cảm giác chiều sâu mạnh.
+
+GIẢI PHẪU NGHIÊM NGẶT (QUY TẮC CỨNG): mỗi nhân vật có đúng hai tay, hai chân, một đầu và một thân; mọi khớp (vai, khuỷu, cổ tay, hông, gối, cổ chân) phải nối tự nhiên với cơ thể — KHÔNG thừa chi, KHÔNG chi dính vào sườn, hông, ngực hay lưng, KHÔNG tay bị mất/cụt, KHÔNG khớp biến dạng, KHÔNG sai số lượng ngón tay. Giữ hai cánh tay tách rõ khỏi thân với nách, khuỷu và cổ tay nhìn thấy rõ.
+
+KHUNG SẠCH (QUY TẮC CỨNG): các đường viền vàng mảnh phải hoàn toàn sạch, mượt, không hạt nhiễu và liền mạch — KHÔNG noise, KHÔNG đốm lấm tấm, KHÔNG nét đứt gãy hay rung trên khung, KHÔNG texture chảy lem vào viền; hoa văn góc sắc nét và đối xứng.
+
+CHI TIẾT VI MÔ TỐI ĐA (CỨNG): đẩy chi tiết nhỏ lên mức tối đa — từng sợi lông mi và kết cấu mống mắt nhiều lớp, điểm phản quang trong mắt, từng sợi tóc mảnh, kết cấu vải nếu có, lỗ chân lông tinh tế với ánh sáng dưới da, cạnh trang sức sắc nét, kết cấu đá và cây cỏ, nét chữ sạch sắc gọn.
+
+Giải phẫu fine-art gợi cảm, ánh sáng ấm kiểu tranh dầu trên những vùng bóng tinh tế, phối cảnh không khí giàu chiều sâu, khung vàng mảnh đối xứng, căn giữa hoàn hảo, khổ dọc tỉ lệ 7:12, minh họa fine-art tranh dầu cổ điển, 4K UHD, siêu nét, chi tiết cao, focus sắc, texture rõ.
+```
+
+---
+
+## 🔑 CHÚ THÍCH BIẾN
+
+| Biến | Nguồn lấy trong `cards.json` | Ghi chú |
+|---|---|---|
+| `{TITLE}` | `title` (EN) | Chữ in trên lá — giữ tiếng Anh |
+| ~~`{EMBLEM}`~~ | — | ĐÃ LOẠI BỎ: không còn biểu tượng/huy hiệu trên bầu trời ở bất kỳ lá nào |
+| `{SCENE}` | `scene` (EN) / xem `scene_vi` | Bối cảnh + hành động chính |
+| `{CHARACTER_SPECIFICATION}` | **HẰNG SỐ — chuẩn The Star** (20 tuổi, thon mảnh, tóc vàng nhạt lấp lánh dài) | Thay thế toàn bộ thông số nhân vật riêng; mọi lá dùng chung một nhân vật gốc từ The Star |
+| `{COUNT_LOCK}` | `count.layout` (EN) / xem `layout_vi` | `count = null` → dùng khoá "không có vật phẩm bộ bài nào" |
