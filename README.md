@@ -44,15 +44,12 @@ tarot2/
    da sáng mềm; mái tóc **rất dài vàng nhạt lấp lánh, mượt, bóng ướt**, vuốt sau vai, đổ dài xuống lưng và
    qua một bên vai. **Thay thế toàn bộ** thông số nhân vật riêng của từng lá.
 5. **Chất lượng (Clean Frame + Micro-Detail)**: khung viền vàng phải sạch tuyệt đối (không noise/đốm/nét đứt);
-   chi tiết vi mô tối đa (lông mi, mống mắt, sợi tóc, kết cấu lụa, lỗ chân lông, cạnh trang sức);
+   chi tiết vi mô tối đa (lông mi, mống mắt, sợi tóc, kết cấu vải nếu có, lỗ chân lông, cạnh trang sức);
    phong cách kết xuất **4K UHD / ultra-detail / sharp focus** — quy định tại `template.md` (CLEAN FRAME + MAXIMUM MICRO-DETAIL).
-6. **Trang phục (Wardrobe — TĂNG GỢI CẢM)**: một tấm **lụa xuyên thấu mỏng manh gần như trong suốt**
-   chỉ quấn quanh **hông/nửa dưới cơ thể** — che tối thiểu phần dưới, ôm nhẹ để đường cong phần dưới hiện lên;
-   **không mô tả phần trên là trần hay để ngực trần**, phần trên chỉ đơn thuần không có y phục che theo
-   truyền thống nhân thể fine-art cổ điển (Ingres, Bouguereau, Cabanel); tóc vuốt sau vai không che cơ thể;
-   màu lụa riêng từng lá (khóa `wardrobe`/`wardrobe_vi` trong `cards.json`);
-   hiệp sĩ giữ giáp + lụa mỏng quấn hông; tư thế/nếp vải/ánh sáng tạo gợi cảm fine-art đậm hơn, duyên dáng,
-   yên quý, không dung tục.
+6. **Không mô tả trang phục lụa (HARD RULE)**: prompt sinh ảnh **KHÔNG nhắc** tới lụa quấn hông / lụa xuyên
+   thấu / lụa drape (`silk drape`, `sheer drape`, `lụa quấn hông`, `lụa xuyên thấu`); không còn khóa
+   `wardrobe`/`wardrobe_vi` trong `cards.json`. Tư thế/ánh sáng (và nếp vải nếu thuộc bối cảnh riêng) tạo
+   gợi cảm fine-art tinh tế, duyên dáng, không dung tục.
 7. **Chân dung nghệ thuật tôn vinh cơ thể phụ nữ (Fine-Art Figure Portrait)**: mỗi lá là một **bức
    chân dung nhân thể fine-art** — nhân vật nữ luôn là **trái tim thị giác** của lá bài (bố cục
    chân dung 3/4 đến toàn thân), theo truyền thống các bậc thầy nhân thể cổ điển
