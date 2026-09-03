@@ -39,10 +39,11 @@ tarot2/
 2. **Anatomy Lock**: mỗi nhân vật tối đa 2 tay, 2 chân, 1 đầu, 1 thân; khớp nối tự nhiên; không thừa/khuyết chi.
 3. **Count Lock**: `count.n` trong `cards.json` là ràng buộc CỨNG về số lượng vật phẩm bộ bài
    (gậy/cốc/kiếm/xu); `count = null` nghĩa là không có vật phẩm bộ bài nào.
-4. **Nhân vật (GLOBAL — THE STAR)**: mọi nhân vật nữ dùng chung lý tưởng thể hình của lá **The Star**
-   (`17-the-star.png`): phụ nữ **20 tuổi**, **thon & mảnh mai**, eo nhỏ, chân dài duyên dáng, tỷ lệ trinh nữ,
-   da sáng mềm; mái tóc **rất dài vàng nhạt lấp lánh, mượt, bóng ướt**, vuốt sau vai, đổ dài xuống lưng và
-   qua một bên vai. **Thay thế toàn bộ** thông số nhân vật riêng của từng lá.
+4. **Nhân vật (GLOBAL — SCENE THE STAR)**: mọi nhân vật nữ dùng đúng chuẩn mô tả scene của **The Star**
+   (`17-the-star.png`): *"một người phụ nữ đứng ngang eo trong hồ nước trong vào ban đêm, cơ thể cong ngửa và
+   xoay ba phần tư về phía người xem, tóc ướt đổ dọc sống lưng, cả hai tay giơ lên đổ nước từ hai cái vò, một
+   gối nhấc lên"*; cô ấy 20 tuổi, thon mảnh, eo nhỏ, chân dài, da sáng, tóc vàng nhạt lấp lánh rất dài và ướt.
+   **Thay thế toàn bộ** thông số nhân vật/tư thế riêng của từng lá. KHÔNG sao chép sao/biểu tượng trên trời.
 5. **Chất lượng (Clean Frame + Micro-Detail)**: khung viền vàng phải sạch tuyệt đối (không noise/đốm/nét đứt);
    chi tiết vi mô tối đa (lông mi, mống mắt, sợi tóc, kết cấu vải nếu có, lỗ chân lông, cạnh trang sức);
    phong cách kết xuất **4K UHD / ultra-detail / sharp focus** — quy định tại `template.md` (CLEAN FRAME + MAXIMUM MICRO-DETAIL).
