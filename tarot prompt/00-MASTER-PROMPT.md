@@ -9,7 +9,8 @@ Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài
    * **Phần ảnh bên trong**: phong cách hội họa fine-art/oil-painting của The Star — **cảnh full-bleed tràn kín toàn bộ canvas từ mép này sang mép kia**, phối cảnh thoáng đãng, ánh sáng ấm, chiều sâu không gian lùi dần về hậu cảnh, chi tiết sắc nét. Mỗi lá vẫn giữ bối cảnh và bảng màu riêng của mình, chỉ chuẩn hóa về chất lượng nét vẽ, cách đổ sáng và độ chi tiết theo The Star.
    * **Loại bỏ cổng vòm / cột đá phụ chiếm diện tích**: Không dùng cột đá nhân tạo đóng khung gò bó, để không gian khoáng đạt, tự nhiên theo đúng bối cảnh của từng lá bài.
 
-2. **Quy chuẩn tạo hình nhân vật (Sensual Fine-Art Figure Standard)**:
+2. **Quy chuẩn tạo hình nhân vật (Sensual Fine-Art Figure Standard)**:<br>
+   **NHÂN VẬT GỐC = THE STAR**: mọi nhân vật nữ dùng chung lý tưởng thể hình của `17-the-star.png` — phụ nữ **20 tuổi**, **thon và mảnh mai**, eo nhỏ, chân dài duyên dáng, tỷ lệ trinh nữ rực rỡ, da sáng mềm; mái tóc **rất dài vàng nhạt lấp lánh, mượt, bóng ướt mềm**, vuốt ra sau vai, đổ dài xuống lưng và qua một bên vai. Thay thế hoàn toàn các thông số `age`/`hair`/`build` riêng của từng lá.
    * Kế thừa phong cách tạo hình sống động, gợi cảm và cổ điển từ tài liệu gốc `01-CARD-TABLE.md` (hình mẫu tiêu biểu như lá **The Empress**: *"a voluptuous nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her"*).
    * **100% Nhân vật nữ** trong độ tuổi thanh xuân từ **18 đến 25 tuổi**.
    * Mỗi lá bài giữ nét đặc trưng độc bản về vóc dáng (*slender, voluptuous, athletic, statuesque*), mái tóc và thần thái.

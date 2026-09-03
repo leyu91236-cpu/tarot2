@@ -39,7 +39,10 @@ tarot2/
 2. **Anatomy Lock**: mỗi nhân vật tối đa 2 tay, 2 chân, 1 đầu, 1 thân; khớp nối tự nhiên; không thừa/khuyết chi.
 3. **Count Lock**: `count.n` trong `cards.json` là ràng buộc CỨNG về số lượng vật phẩm bộ bài
    (gậy/cốc/kiếm/xu); `count = null` nghĩa là không có vật phẩm bộ bài nào.
-4. **Nhân vật**: nữ, 18–25 tuổi; đặc trưng mắt/da/tóc/vóc dáng lấy theo `02-CHARACTER-SPECS.md`.
+4. **Nhân vật (GLOBAL — THE STAR)**: mọi nhân vật nữ dùng chung lý tưởng thể hình của lá **The Star**
+   (`17-the-star.png`): phụ nữ **20 tuổi**, **thon & mảnh mai**, eo nhỏ, chân dài duyên dáng, tỷ lệ trinh nữ,
+   da sáng mềm; mái tóc **rất dài vàng nhạt lấp lánh, mượt, bóng ướt**, vuốt sau vai, đổ dài xuống lưng và
+   qua một bên vai. **Thay thế toàn bộ** thông số nhân vật riêng của từng lá.
 5. **Chất lượng (Clean Frame + Micro-Detail)**: khung viền vàng phải sạch tuyệt đối (không noise/đốm/nét đứt);
    chi tiết vi mô tối đa (lông mi, mống mắt, sợi tóc, kết cấu lụa, lỗ chân lông, cạnh trang sức);
    phong cách kết xuất **4K UHD / ultra-detail / sharp focus** — quy định tại `template.md` (CLEAN FRAME + MAXIMUM MICRO-DETAIL).
